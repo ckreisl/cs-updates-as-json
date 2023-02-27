@@ -15,7 +15,7 @@ def main() -> int:
 
     posts = []
     url = NEW_NEWS_URL
-    #for page in range(1, MAX_PAGES + 1):
+
     while True:
         print(url)
         r = requests.get(url)

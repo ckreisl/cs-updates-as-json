@@ -1,6 +1,6 @@
 # Counter-Strike: Global Offensive Updates as JSON
 ## About
-All Counter-Strike: Global Offensive updates (2012 - 202x) collected together in one `.json` file. The file can be used for data operations and visualizations.
+All Counter-Strike: Global Offensive **announced** updates (2012 - 202x) collected together in one `.json` file. The file can be used for data operations and visualizations.
 
 ## Setup
 Create a Python (vers. 3.10) virtual environment and install dependencies in order to run the update crawler if required. Only the web crawler uses non default Python modules like `Beautifulsoup` and `requests`. Operations on the data can be done without any 3rd party package.
@@ -29,3 +29,7 @@ In order to do some additional data analysis we introduced **custom tags**. See 
 }
 ```
 `tags` have been added manually based on the update content.
+
+## Examples
+Updates so far: 502
+![CS:GO updates over the past years](images/csgo_updates_per_year.png)
