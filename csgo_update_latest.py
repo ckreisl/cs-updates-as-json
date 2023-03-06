@@ -2,9 +2,12 @@ import requests
 import hashlib
 import json
 
+import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
 from datetime import datetime
 from pathlib import Path
+
+from csgo_update_data_utils import Utils
 
 
 url = "https://blog.counter-strike.net/index.php/category/updates/"
@@ -41,6 +44,29 @@ def crawl_latest_update_entry() -> dict:
     return res
 
 
+def update_readme_image(data: dict) -> None:
+    updates_per_year = Utils.updates_per_year(data)
+
+    years = updates_per_year.keys()
+    updates = updates_per_year.values()
+
+    plt.bar(years, updates)
+
+    offset = 0.5
+
+    for i in range(len(years)):
+        plt.text(i, updates[i] + offset, 
+                 updates[i], ha = 'center')
+
+    plt.title('CS:GO updates over the past years.')
+    plt.xlabel('Year')
+    plt.ylabel('# updates')
+
+    plt.savefig(
+        Path(__file__).parent / 'images' / 'csgo_updates_per_year.png', 
+        dpi=400)
+
+
 def main() -> int:
     latest_update_news_entry = crawl_latest_update_entry()
 
@@ -60,6 +86,8 @@ def main() -> int:
 
     with open(data_filepath, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4)
+
+    update_readme_image(data)
 
     return 0
 

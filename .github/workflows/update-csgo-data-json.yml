@@ -20,7 +20,7 @@ jobs:
         with:
           python-version: '3.10'
           cache: 'pip'
-      - run: pip install -r requirements.txt
+      - run: pip install -r requirements-workflow.txt
       - run: python csgo_update_latest.py
       - run: |
           if git diff --quiet; then

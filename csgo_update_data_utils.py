@@ -1,3 +1,4 @@
+from datetime import datetime
 from csgo_update_data import Entry
 
 
@@ -5,11 +6,12 @@ class Utils:
 
     @staticmethod
     def updates_per_year(data: dict) -> dict:
-        res = {
-            "2012": 0, "2013": 0, "2014": 0, "2015": 0,
-            "2016": 0, "2017": 0, "2018": 0, "2019": 0,
-            "2020": 0, "2021": 0, "2022": 0, "2023": 0
-        }
+
+        year = datetime.now().year
+        res = {}
+
+        for i in range(2012, year + 1):
+            res[str(i)] = 0
 
         for post in data:
             e = Entry(post)
