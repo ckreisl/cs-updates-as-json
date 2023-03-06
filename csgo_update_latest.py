@@ -4,6 +4,7 @@ import json
 
 from bs4 import BeautifulSoup
 from datetime import datetime
+from pathlib import Path
 
 
 url = "https://blog.counter-strike.net/index.php/category/updates/"
@@ -43,12 +44,13 @@ def crawl_latest_update_entry() -> dict:
 def main() -> int:
     latest_update_news_entry = crawl_latest_update_entry()
 
-    with open('updates_combined_raw.json', encoding='utf-8') as f:
+    data_filepath = Path(__file__).parent / 'data' / "updates_combined_raw.json"
+    with open(data_filepath, encoding='utf-8') as f:
         data = json.load(f)
 
     latest_entry_in_data = data[-1]
 
-    if latest_entry_in_data['timestamp'] != latest_update_news_entry['timestamp']:
+    if latest_entry_in_data['timestamp'] == latest_update_news_entry['timestamp']:
         print(f"No new update post. Date is the same {latest_update_news_entry['timestamp']}")
         return 0
 
@@ -56,7 +58,7 @@ def main() -> int:
     print(f"Update data with new entry: {latest_update_news_entry['timestamp']}")
     data.append(latest_update_news_entry)
 
-    with open('updates_combined_raw.json', 'w', encoding='utf-8') as f:
+    with open(data_filepath, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4)
 
     return 0
