@@ -1,7 +1,7 @@
 import json
 
 from pathlib import Path
-from csgo_update_data_utils import Utils
+from cs_update_data_utils import CSGODataUtils
 
 
 def main() -> int:
@@ -11,7 +11,7 @@ def main() -> int:
         data = json.load(f)
 
     # dummy example
-    print(Utils.updates_per_year(data))
+    print(CSGODataUtils.updates_per_year(data))
 
     return 0
 
