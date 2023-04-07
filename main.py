@@ -1,17 +1,17 @@
 import json
 
 from pathlib import Path
-from csgo_update_data_utils import Utils
+from src.utils.csgo import CSGODataUtils
 
 
 def main() -> int:
-    filepath = Path(__file__).parent / "csgo_update_data.json"
+    filepath = Path(__file__).parent / "data" / "csgo" / "updates_combined_custom.json"
 
     with open(filepath, encoding='utf-8') as f:
         data = json.load(f)
 
     # dummy example
-    print(Utils.updates_per_year(data))
+    print(CSGODataUtils.updates_per_year(data))
 
     return 0
 

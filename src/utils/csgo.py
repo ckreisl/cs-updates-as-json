@@ -1,8 +1,10 @@
 from datetime import datetime
-from csgo_update_data import Entry
+
+from src.utils.utils import Utils
+from src.csgo.update_entry import Entry
 
 
-class Utils:
+class CSGODataUtils(Utils):
 
     @staticmethod
     def updates_per_year(data: dict) -> dict:
@@ -33,5 +35,3 @@ class Utils:
                     res[tag] += 1
 
         return res
-    
-    # TODO more to come

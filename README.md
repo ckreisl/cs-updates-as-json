@@ -31,6 +31,7 @@ In order to do some additional data analysis we introduced **custom tags**. See 
 `tags` have been added manually based on the update content.
 
 ## Examples
-Announced updates so far: **502** (2023-02-27)
+Announced updates so far CS:GO: **502** (2023-02-27)
 
 ![CS:GO updates over the past years](images/csgo_updates_per_year.png)
+![Counter-Strike 2 updates in 2023](images/cs2_updates_per_month.png)

@@ -1,3 +1,5 @@
+import logging
+
 from datetime import datetime
 
 
@@ -10,8 +12,16 @@ class Entry:
         self.__timestamp = obj['timestamp']
         self.__link = obj['link']
         self.__entry = obj['entry']
-        self.__tags = obj['tags']
-        self.__chars = obj['chars']
+
+        try:
+            self.__tags = obj['tags']
+        except KeyError:
+            self.__tags = []
+        
+        try:
+            self.__chars = obj['chars']
+        except KeyError:
+            self.__chars = -1
 
     @property
     def data(self) -> dict:
