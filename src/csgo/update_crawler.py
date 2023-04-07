@@ -6,6 +6,7 @@ import hashlib
 
 from bs4 import BeautifulSoup
 from datetime import datetime
+from pathlib import Path
 
 
 class CSGOUpdateCrawler:
@@ -113,11 +114,43 @@ class CSGOUpdateCrawler:
         self.__updates_new.reverse()
         logging.info("Done.")
 
-    def crawl(self) -> None:
+    def crawl_all(self) -> None:
         self.crawl_old_update_news()
         self.crawl_new_update_news()
 
-    def save(self, filename: str) -> None:
+    def crawl_latest(self) -> dict:
+        logging.info("Start")
+
+        response = requests.get(self.__url_new_updates)
+        soup = BeautifulSoup(response.text, features='html.parser')
+
+        latest_post = soup.find("div", {"class": "inner_post"})
+
+        post_date = latest_post.find("p", {"class": "post_date"}).text
+        post_date = post_date[:10]
+        post_date_str = datetime.strptime(post_date, "%Y.%m.%d").strftime("%d %b, %Y")
+        post_title = latest_post.find("h2")
+        post_link = post_title.find("a")['href']
+        post_id = hashlib.sha256(post_date_str.encode())
+
+        res = {
+            "id": post_id.hexdigest(),
+            "timestamp": post_date_str,
+            "link": post_link,
+            "entry": latest_post.text}
+
+        logging.info(f"{post_id.hexdigest()=}")
+        logging.info(f"{post_date_str=}")
+        logging.info(f"{post_link=}")
+        logging.info(f"{latest_post.text=}")
+
+        logging.info("Done.")
+
+        return res
+
+    def save(self, filename: str = "updates_combined_raw.json") -> None:
+        targetdir = Path(__file__).parent.parent.parent / 'data' / 'csgo' / filename
+        targetdir = targetdir.with_suffix('.json')
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump([
                 *self.__updates_old,
@@ -129,8 +162,8 @@ def main() -> int:
     logging.basicConfig(format='[%(levelname)s] %(message)s', level=logging.INFO)
 
     c = CSGOUpdateCrawler()    
-    c.crawl()
-    c.save("csgo_updates_raw.json")
+    c.crawl_all()
+    c.save()
 
     return 0
 

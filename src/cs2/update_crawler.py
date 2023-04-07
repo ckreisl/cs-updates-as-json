@@ -5,11 +5,15 @@ import requests
 import logging
 
 from pathlib import Path
+from datetime import datetime
 
 
 class CounterStrike2Updates:
 
     def __init__(self) -> None:
+
+        # Time when cs2 test phase was officially announced
+        self.__initial_epoch_time = 1679503828
 
         self.__url = "https://store.steampowered.com/" \
             "events/ajaxgetpartnereventspageable/" \
@@ -34,7 +38,7 @@ class CounterStrike2Updates:
     def latest(self) -> dict:
         return self.__data[0]
 
-    def crawl(self) -> CounterStrike2Updates:
+    def crawl(self, only_cs2=True) -> CounterStrike2Updates:
         logging.info("Start")
         
         response = requests.get(self.url)
@@ -47,15 +51,20 @@ class CounterStrike2Updates:
         for event in data['events']:
             self.__data.append(event['announcement_body'])
 
+        if only_cs2:
+            self.__data = list(
+                filter(lambda x: x['posttime'] >= self.__initial_epoch_time,
+                self.__data))
+
         logging.info("Done.")
         return self
 
-    def save(self, filename: str = 'cs2_updates_raw.json') -> None:
-        target_dir = Path(__file__).parent / 'data' / filename
+    def save(self, filename: str = 'updates_raw.json') -> None:
+        target_dir = Path(__file__).parent.parent.parent / 'data' / 'cs2' / filename
         target_dir = target_dir.with_suffix('.json')
 
         with open(target_dir, 'w', encoding='utf-8') as fp:
-            json.dump({'cs2_updates': self.data}, fp, indent=4)
+            json.dump(self.data, fp, indent=4)
 
 
 def main() -> int:

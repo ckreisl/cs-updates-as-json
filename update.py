@@ -1,109 +1,108 @@
-import requests
-import hashlib
 import json
 
 import matplotlib.pyplot as plt
-from bs4 import BeautifulSoup
-from datetime import datetime
 from pathlib import Path
+from datetime import datetime
 
-from cs_update_data_utils import Utils
-from cs_update_data_utils import CS2DataUtils
-from cs_update_data_utils import CSGODataUtils
+from src.utils.cs2 import CS2DataUtils
+from src.utils.csgo import CSGODataUtils
 
-from cs2_update_crawler import CounterStrike2Updates
-
-
-url = "https://blog.counter-strike.net/index.php/category/updates/"
+from src.cs2.update_crawler import CounterStrike2Updates
+from src.csgo.update_crawler import CSGOUpdateCrawler
 
 
-def crawl_latest_update_entry() -> dict:
-    print("Start")
+def create_bar_chart(data: dict, title: str,
+                    xlabel: str, ylabel: str,
+                    filename: str,
+                    offset: float = 0.5) -> None:
 
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, features='html.parser')
+    x_value = list(data.values())
+    y_value = list(data.keys())
 
-    latest_post = soup.find("div", {"class": "inner_post"})
+    fig, ax = plt.subplots()
 
-    post_date = latest_post.find("p", {"class": "post_date"}).text
-    post_date = post_date[:10]
-    post_date_str = datetime.strptime(post_date, "%Y.%m.%d").strftime("%d %b, %Y")
-    post_title = latest_post.find("h2")
-    post_link = post_title.find("a")['href']
-    post_id = hashlib.sha256(post_date_str.encode())
+    ax.bar(y_value, x_value)
 
-    res = {
-        "id": post_id.hexdigest(),
-        "timestamp": post_date_str,
-        "link": post_link,
-        "entry": latest_post.text}
+    for i in range(len(y_value)):
+        plt.text(i, x_value[i] + offset, x_value[i], ha = 'center')
 
-    print(f"{post_id.hexdigest()=}")
-    print(f"{post_date_str=}")
-    print(f"{post_link=}")
-    print(f"{latest_post.text=}")
+    ax.set_title(title)
+    ax.set_xlabel(xlabel)
+    ax.set_ylabel(ylabel)
 
-    print("Done.")
-
-    return res
+    fig.savefig(Path(__file__).parent / 'images' / filename, dpi=400)
 
 
-def update_readme_image(utils: Utils, data: dict, title: str, filename: str) -> None:
-    updates_per_year = utils.updates_per_year(data)
+def update_csgo() -> None:
+    csgo_latest_update = CSGOUpdateCrawler().crawl_latest()
 
-    years = updates_per_year.keys()
-    updates = updates_per_year.values()
+    base_path = Path(__file__).parent / 'data' / 'csgo'
+    data_filepath = base_path / "updates_combined_raw.json"
+    with open(data_filepath, encoding='utf-8') as f:
+        data = json.load(f)
 
-    plt.bar(years, updates)
+    latest_saved_entry = data[-1]
 
-    offset = 0.5
+    if latest_saved_entry['timestamp'] == csgo_latest_update['timestamp']:
+        print(f"No new CS:GO update post. Date is the same {csgo_latest_update['timestamp']}")
+        return
 
-    for i in range(len(years)):
-        plt.text(i, updates[i] + offset, 
-                 updates[i], ha = 'center')
+    print("New CS:GO update entry found ...")
+    print(f"Update data with new entry: {datetime.fromtimestamp(csgo_latest_update['timestamp'])}")
+    data.append(csgo_latest_update)
 
-    plt.title(title)
-    plt.xlabel('Year')
-    plt.ylabel('# updates')
+    create_bar_chart(CSGODataUtils.updates_per_year(data),
+        title="CS:GO updates over the past years",
+        filename="csgo_updates_per_year.png",
+        xlabel="years",
+        ylabel="# updates")
+    
+    with open(data_filepath, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=4)
 
-    plt.savefig(Path(__file__).parent / 'images' / filename, dpi=400)
+
+def update_cs2() -> None:
+    cs2_latest_update = CounterStrike2Updates().crawl().latest
+
+    base_path = Path(__file__).parent / 'data' / 'cs2'
+    data_filepath = base_path / "updates_raw.json"
+    with open(data_filepath, encoding='utf-8') as f:
+        data = json.load(f)
+
+    latest_saved_entry = data[0]
+
+    if latest_saved_entry['posttime'] == cs2_latest_update['posttime']:
+        print(f"No new CS2 update post. Date is the same {cs2_latest_update['posttime']}")
+        return
+
+    print("New Counter-Strike 2 update entry found ...")
+    print(f"Update data with new entry: {cs2_latest_update['posttime']}")
+    data = [cs2_latest_update] + data
+
+    # Future stuff.
+    """ 
+    create_bar_chart(CS2DataUtils.updates_per_year(data),
+        title="Counter-Strike 2 Updates",
+        filename="cs2_updates_per_year.png",
+        xlabel="years",
+        ylabel="# updates",
+        offset=0.05)
+    """
+    
+    create_bar_chart(CS2DataUtils.updates_per_month_of_year(data, 2023),
+        title="Counter-Strike 2 Updates per month in 2023",
+        filename="cs2_updates_per_month.png",
+        xlabel="months",
+        ylabel="# updates",
+        offset=0.05)
+    
+    with open(data_filepath, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=4)
 
 
 def main() -> int:
-    latest_update_news_entry = crawl_latest_update_entry()
-    latest_update_news_cs2 = CounterStrike2Updates().crawl()    
-
-    base_path = Path(__file__).parent / 'data'
-    with open(base_path / "updates_combined_raw.json", encoding='utf-8') as f:
-        data = json.load(f)
-
-    with open(base_path / "cs2_updates_raw.json", encoding="utf-8") as f:
-        data_cs2 = json.load(f)
-
-    latest_entry_in_data_csgo = data[-1]
-    latest_entry_in_data_cs2 = data_cs2['cs2_updates'][0]
-
-    csgo_update = True
-    cs2_update = True
-
-    if latest_entry_in_data_csgo['timestamp'] == latest_update_news_entry['timestamp']:
-        print(f"No new update post. Date is the same {latest_update_news_entry['timestamp']}")
-        csgo_update = False
-
-    # TODO compare timestamps etc.
-
-    if csgo_update:
-        print("New update found ...")
-        print(f"Update data with new entry: {latest_update_news_entry['timestamp']}")
-        data.append(latest_update_news_entry)
-
-        with open(data_filepath, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=4)
-
-        update_readme_image(CSGODataUtils, data,
-            title="CS:GO updates over the past years",
-            filename="csgo_updates_per_year.png")
-
+    update_csgo()
+    update_cs2()
     return 0
 
 
