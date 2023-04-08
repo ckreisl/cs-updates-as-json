@@ -8,7 +8,7 @@ Create a Python (vers. 3.10) virtual environment and install dependencies in ord
 `pip install -r requirements.txt`
 
 ## Data
-The collected **raw** data can be found in the `data` folder. The folder is split into `csgo` and `cs2`. 
+The collected **raw** data can be found in the `data` folder. The folder is split into `csgo` and `cs2`.
 * Raw file CS:GO `data/csgo/updates_combined_raw.json`
     * This file is a combination of `updates_new.json` and `updates_old.json` since updates were posted on two different web pages.
 * Raw file CS2 `data/cs2/updates_raw.json`
@@ -43,7 +43,7 @@ The data is pulled from [Counter-Strike 2](https://www.counter-strike.net/news/u
 ## Github Actions
 A Github Action is enabled pulling the data twice a day to check whether an update has been released.
 
-Workflow: 
+[![Poll Counter-Strike Updates](https://github.com/ckreisl/cs-updates-as-json/actions/workflows/poll-cs-updates.yml/badge.svg)](https://github.com/ckreisl/cs-updates-as-json/actions/workflows/poll-cs-updates.yml)
 
 ## Examples
 ![CS:GO updates over the past years](images/csgo_updates_per_year.png)
