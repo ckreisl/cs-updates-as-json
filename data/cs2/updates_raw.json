@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3717202192668006828",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 5/5/2023",
+        "posttime": 1683327130,
+        "updatetime": 1683327195,
+        "body": "[PARIS 2023 MAJOR]\n- Adjusted 9INE team and autograph stickers.\n- Updated the UploadTournamentPredictions WebAPI for third-party integration websites, to allow placing all group predictions in a single batch. More details are available [url=https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_PickEm_Fantasy_Management#Placing_Pick.27Em_Challenge_Prediction]here[/url].",
+        "commentcount": 82,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1683327233_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3820784984092474515",
+        "event_gid": "3717202192668006827",
+        "voteupcount": 843,
+        "votedowncount": 58,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3717202192664258502",
         "clanid": "3381077",
         "posterid": "76561197971400048",
