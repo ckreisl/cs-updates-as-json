@@ -6,9 +6,7 @@ from datetime import datetime
 
 from src.utils.cs2 import CS2DataUtils
 from src.utils.csgo import CSGODataUtils
-
 from src.cs2.update_crawler import CounterStrike2Updates
-from src.csgo.update_crawler import CSGOUpdateCrawler
 
 
 def create_bar_chart(data: dict, title: str,
@@ -33,36 +31,40 @@ def create_bar_chart(data: dict, title: str,
     fig.savefig(Path(__file__).parent / 'images' / filename, dpi=400)
 
 
-def update_csgo() -> None:
-    csgo_latest_update = CSGOUpdateCrawler().crawl_latest()
+def update_charts(data: dict) -> None:
 
     base_path = Path(__file__).parent / 'data' / 'csgo'
     data_filepath = base_path / "updates_combined_raw.json"
     with open(data_filepath, encoding='utf-8') as f:
-        data = json.load(f)
+        csgo_data = json.load(f)
 
-    latest_saved_entry = data[-1]
+    # Since the update page has changed due to the CS2 announcement
+    # we combine the updates form the old update blog page with the latest ones.
+    cs_updates_per_year = CSGODataUtils.updates_per_year(csgo_data)
 
-    if latest_saved_entry['timestamp'] == csgo_latest_update['timestamp']:
-        print(f"No new CS:GO update post. Date is the same {csgo_latest_update['timestamp']}")
-        return
+    for year, udpates in CS2DataUtils.updates_per_year(data).items():
+        cs_updates_per_year[year] += udpates
 
-    print("New CS:GO update entry found ...")
-    print(f"Update data with new entry: {datetime.fromtimestamp(csgo_latest_update['timestamp'])}")
-    data.append(csgo_latest_update)
+    create_bar_chart(cs_updates_per_year,
+                     title="Counter-Strike (CS2 & CS:GO) updates over the past years",
+                     filename="cs_updates_per_year.png",
+                     xlabel="years",
+                     ylabel="# updates")
 
-    create_bar_chart(CSGODataUtils.updates_per_year(data),
-        title="CS:GO updates over the past years",
-        filename="csgo_updates_per_year.png",
-        xlabel="years",
-        ylabel="# updates")
-    
-    with open(data_filepath, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4)
+    cs_updates_per_month = CSGODataUtils.updates_per_month_of_year(csgo_data, 2023)
 
+    for month, udpates in CS2DataUtils.updates_per_month_of_year(data, 2023).items():
+        cs_updates_per_month[month] += udpates
 
-def update_cs2() -> None:
-    cs2_latest_update = CounterStrike2Updates().crawl().latest
+    create_bar_chart(cs_updates_per_month,
+                     title="Counter-Strike (CS2 & CS:GO) updates per month in 2023",
+                     filename="cs_updates_per_month.png",
+                     xlabel="months",
+                     ylabel="# updates",
+                     offset=0.05)
+
+def main() -> int:
+    cs_latest_update = CounterStrike2Updates().crawl().latest
 
     base_path = Path(__file__).parent / 'data' / 'cs2'
     data_filepath = base_path / "updates_raw.json"
@@ -71,38 +73,20 @@ def update_cs2() -> None:
 
     latest_saved_entry = data[0]
 
-    if latest_saved_entry['posttime'] == cs2_latest_update['posttime']:
-        print(f"No new CS2 update post. Date is the same {cs2_latest_update['posttime']}")
+    if latest_saved_entry['posttime'] == cs_latest_update['posttime']:
+        print("No new Counter-Strike update post!")
+        print(f"Date is the same {datetime.fromtimestamp(cs_latest_update['posttime'])}")
         return
 
-    print("New Counter-Strike 2 update entry found ...")
-    print(f"Update data with new entry: {cs2_latest_update['posttime']}")
-    data = [cs2_latest_update] + data
+    print("New Counter-Strike update found ...")
+    print(f"Update data with new entry: {datetime.fromtimestamp(cs_latest_update['posttime'])}")
+    data = [cs_latest_update] + data
 
-    # Future stuff.
-    """ 
-    create_bar_chart(CS2DataUtils.updates_per_year(data),
-        title="Counter-Strike 2 Updates",
-        filename="cs2_updates_per_year.png",
-        xlabel="years",
-        ylabel="# updates",
-        offset=0.05)
-    """
-    
-    create_bar_chart(CS2DataUtils.updates_per_month_of_year(data, 2023),
-        title="Counter-Strike 2 Updates per month in 2023",
-        filename="cs2_updates_per_month.png",
-        xlabel="months",
-        ylabel="# updates",
-        offset=0.05)
-    
+    update_charts(data)
+
     with open(data_filepath, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4)
 
-
-def main() -> int:
-    update_csgo()
-    update_cs2()
     return 0
 
 
