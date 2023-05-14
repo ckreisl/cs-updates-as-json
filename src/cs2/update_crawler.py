@@ -5,10 +5,11 @@ import requests
 import logging
 
 from pathlib import Path
-from datetime import datetime
 
 
 class CounterStrike2Updates:
+
+    RELEASE_NOTES_EVENT: int = 12
 
     def __init__(self) -> None:
 
@@ -23,32 +24,35 @@ class CounterStrike2Updates:
             "&count=100" \
             "&l=english" \
             "&origin=https://www.counter-strike.net"
-        
+
         self.__data = []
 
     @property
     def url(self) -> str:
         return self.__url
-    
+
     @property
     def data(self) -> dict:
         return self.__data
-    
+
     @property
     def latest(self) -> dict:
         return self.__data[0]
 
-    def crawl(self, only_cs2=True) -> CounterStrike2Updates:
+    def crawl(self, only_cs2: bool = True) -> CounterStrike2Updates:
         logging.info("Start")
-        
+
         response = requests.get(self.url)
 
         if not response.ok:
             raise Exception(f'Could not fetch data received response code={response.status_code}')
-        
+
         data = json.loads(response.text)
 
         for event in data['events']:
+            if event['event_type'] != self.RELEASE_NOTES_EVENT:
+                continue
+
             self.__data.append(event['announcement_body'])
 
         if only_cs2:

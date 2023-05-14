@@ -1,8 +1,8 @@
 import json
 
-import matplotlib.pyplot as plt
 from pathlib import Path
 from datetime import datetime
+import matplotlib.pyplot as plt
 
 from src.utils.cs2 import CS2DataUtils
 from src.utils.csgo import CSGODataUtils
@@ -76,7 +76,7 @@ def main() -> int:
     if latest_saved_entry['posttime'] == cs_latest_update['posttime']:
         print("No new Counter-Strike update post!")
         print(f"Date is the same {datetime.fromtimestamp(cs_latest_update['posttime'])}")
-        return
+        return 0
 
     print("New Counter-Strike update found ...")
     print(f"Update data with new entry: {datetime.fromtimestamp(cs_latest_update['posttime'])}")

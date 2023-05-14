@@ -32,3 +32,23 @@ def test_csgo_updates_per_year(data):
 
     with pytest.raises(KeyError):
         csgo_histogram['2011']
+
+
+def test_csgo_updates_per_month_of_year(data):
+    csgo_data = CSGODataUtils.updates_per_month_of_year(data, 2012)
+    assert len(csgo_data) == 12
+    assert csgo_data['Mar'] == 1
+    assert csgo_data['Jan'] == 0
+
+
+def test_csgo_updates_tags_histogram(data):
+    csgo_data = CSGODataUtils.tags_histogram(data)
+    assert len(csgo_data) == 11
+    assert csgo_data['maps'] == 2
+    assert csgo_data['bug fixes'] == 1
+    
+    with pytest.raises(KeyError):
+        csgo_data['bug']
+
+    csgo_data = CSGODataUtils.tags_histogram({})
+    assert len(csgo_data) == 0
