@@ -1,5 +1,29 @@
 [
     {
+        "gid": "3702568031467145906",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 6/6/2023",
+        "posttime": 1686087814,
+        "updatetime": 1686088173,
+        "body": "[b][ MAPS ][/b]\n\n[*]Mirage has replaced Dust II on official Counter-Strike 2 Limited Test matchmaking servers.\n\n\n[b][ WORKSHOP TOOLS ][/b]\n\n[*]Introducing Counter-Strike 2 Workshop Tools which can be enabled and downloaded from in-game settings menu--these tools will allow community contributors to create weapon finishes, stickers, and maps. \n[list][*]Note: the Steam Community Workshop does not yet support uploading CS2 maps.[/list]\n[*]The level editor (Hammer) now leverages GPU accelerated raytracing to both preview and bake lighting for CS2 maps. This significantly speeds up compile times, but as a result a GPU capable of raytracing is required for Hammer to be fully functional. \n[list][*]Hammer GPU Minimum Specs:\n[*]Nvidia 2060Ti 6gb (2080Ti+ recommended)\n[*]AMD 6600XT (6800XT+ recommended)\n[/list]\n\n\n[b][ WEAPONS ][/b]\n\n[*]The player loadout has been revised:\n[list]\n[*] Players have 1 Starting Pistol slot, 4 Pistol slots, 5 Mid-tier slots (previously \"SMGs\" and \"Heavy\"), and 5 Rifle slots, per team.\n[*] Assign any (side-appropriate) weapon to any slot within its category.\n[*] Supports drag-and-drop and has been redesigned to fit in on a single screen.\n[/list]\n[*]The in-game buy menu interface has been revised:\n[list]\n[*] The wheel has been replaced with a grid showing all purchase options at the same time.\n[*] Teammate purchases are displayed on the buy menu.\n[*] Weapon \"stats\" display has been replaced with simple straightforward descriptions.\n[*] Players can now refund any purchase that was purchased in the same round and has not been used.\n[/list]\n[*]Existing CS:GO items on the Steam Community Market can be inspected in Counter-Strike 2.\n\n\n[b][ SUB-TICK ][/b]\n\n[list]\n[*] Sub-tick movement is now more precise and less \"floaty\" (per player-feedback).\n[*] Releasing movement keys now correctly convey their sub-tick timing.\n[*] The top player of a triple-stack can now shoot.\n[*] Fine-tuned weapon aim punch recovery to be latency-independent during sub-tick recovery on the client.\n[*] Fine-tuned view punch camera shake effect during shooting to be both latency-independent and synchronized with all other sub-tick shooting effects on the client.\n[/list]\n\n\n[b][ VOLUMETRIC SMOKE ][/b]\n\n[list]\n[*] Improved lighting/rendering when smoke overlaps multiple distinctly lit regions.\n[*] HE grenade effect times on smoke has been reduced.\n[*] Shotguns now create larger holes in smoke volumes.\n[/list]\n\n\n[b][ ANIMATION ][/b]\n\n[list]\n[*]Adjustments to the viewmodel 'inspect' to remove animation popping.\n[*]Several viewmodel and blending animation fixes.\n[*]Improved traversal animation.\n[*]Jumping into the air and running off a ledge is now differentiated to allow for separate character motion.\n[/list]\n\n\n[b][ SOUND ][/b]\n[list]\n[*] Player's own footstep sounds are now predicted on the client for a latency-independent experience.\n[/list]\n\n\n[b][ RENDERING ][/b]\n\n[list]\n[*] Improved performance and responsiveness in windowed and full-screen windowed modes.\n[*] Fixed several bugs and rendering artifacts.\n[/list]\n\n\n[b][ INPUT ][/b]\n[list]\n[*] Fixed bug that would cause input to become permanently broken when multiple commands were bound to one key. Multi-binds are back, except for jump-throw binds (which are now a skillful part of CS).\n[*] Commands bound to mouse wheels will now be reliably executed.\n[*] Fixed bug that would cause input to execute incorrectly after taking over a bot in practice mode.\n[*] Inspecting weapons is now predicted on the client for a more responsive experience.\n[/list]\n\n\n[b][ VAC ][/b]\n\n[*]VAC will now live ban and gracefully terminate the match at the end of the round (unless it was the last round and the cheater lost).\n[list]\n[*] The match will not affect any participants' Skill Group.\n[*] Players that were not lobbied with the VAC-banned player will earn XP for match.\n[/list]\n[*]",
+        "commentcount": 305,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487568145_1686088082_0",
+            "ModAct_487568145_1686088587_4"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3844431603865846463",
+        "event_gid": "3702568031467145905",
+        "voteupcount": 3559,
+        "votedowncount": 135,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3717202192668006828",
         "clanid": "3381077",
         "posterid": "76561197971400048",
