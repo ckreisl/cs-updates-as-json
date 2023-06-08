@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3680050666245747163",
+        "clanid": "3381077",
+        "posterid": "76561198048263607",
+        "headline": "Release Notes for 6/7/2023",
+        "posttime": 1686194722,
+        "updatetime": 1686194722,
+        "body": "[b][ MAPS ][/b]\n\n[*]Added Mirage as an option for the main menu scenery map.\n\n\n[b][ WEAPONS ][/b]\n\n[*]Fixed a regression with weapon recoil on high-punch weapons like MAG-7 sometimes punching weapon view model towards the ground instead of up in the air.\n\n[*]Improved the look of UMP-45, MAG-7, R8 Revolver, Sawed-Off.\n\n\n[b][ WORKSHOP TOOLS ][/b]\n\n[*]Fixed legacy models appearing when previewing new weapon paint finishes.\n\n\n[b][ SOUND ][/b]\n\n[*]Fixed a regression where 10-second music cue was sometimes not playing.\n\n[*]Fixed wooden ladders to play wooden footstep sounds.\n\n\n[b][ MISC ][/b]\n\n[*]Fixed free armor side-effect of armor refunding.\n\n[*]Fixed loadout tooltips getting stuck on main menu.\n\n[*]Fixed a regression with inspecting Huntsman knives.\n\n[*]Brought back an option to pass number keys through to the game while in buy menu.\n\n[*]Numerous stability improvements.\n[*]",
+        "commentcount": 56,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1686194975_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3821914054508980378",
+        "event_gid": "3680050666245747162",
+        "voteupcount": 255,
+        "votedowncount": 11,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3702568031467145906",
         "clanid": "3381077",
         "posterid": "76561197971400048",
