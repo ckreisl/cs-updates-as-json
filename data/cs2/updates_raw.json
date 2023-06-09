@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3680050666248881161",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 6/8/2023",
+        "posttime": 1686269726,
+        "updatetime": 1686269726,
+        "body": "[b][ VOLUMETRIC SMOKE ][/b]\n[list]\n[*] Fixed smoke expansion algorithm when detonating very close to a wall.\n[*] Adjusted the step function for AMD hardware.\n[/list]\n\n[b][ ANIMATION ][/b]\n[list]\n[*] Adjusted reload animation blending to better blend between different states.\n[*] Adjusted Famas and MP5-SD reload events to match the moment when the magazine is fully inserted.\n[/list]\n\n[b][ MISC ][/b]\n[list]\n[*] Fixed a regression with the death notice panel.\n[*] Fixed new item acknowledgement UI controls not working sometimes.\n[*] Stability improvements.\n[/list]",
+        "commentcount": 81,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_880430792_1686270679_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3821914054512178645",
+        "event_gid": "3680050666248881160",
+        "voteupcount": 543,
+        "votedowncount": 31,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3680050666245747163",
         "clanid": "3381077",
         "posterid": "76561198048263607",
