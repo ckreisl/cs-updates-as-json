@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3680050666252335116",
+        "clanid": "3381077",
+        "posterid": "76561198048263607",
+        "headline": "Release Notes for 6/9/2023",
+        "posttime": 1686353470,
+        "updatetime": 1686353470,
+        "body": "[h3]CS:GO[/h3]\n\n[b][ CASE DROPS ][/b]\n[list]\n[*] Players now get a weapon case with their first weekly XP rank up, rather than after some amount of (idle) playtime.\n[/list]\n\n[h3]CS2[/h3]\n\n[b][ LIMITED TEST ACCESS ][/b]\n[list]\n[*] A second tranche of users are in process of being added to the limited test.\n[/list]\n\n[b][ MAPS ][/b]\n\nMirage:\n[list]\n[*] Removed wallbang through door towards connector.\n[*] Blocked gap in box stack top of mid.\n[*] Blocked pixel gap by ticket booth.\n[*] Added back jump onto firebox in A site.\n[*] Fixed various player and grenade collision bugs.\n[*] Fixed various minor graphical bugs.\n[/list]\n\n[b][ WEAPONS ][/b]\n[list]\n[*] Fixed disconnecting players taking C4 explosive with them.\n[*] Deathmatch bonus weapons now offer weapons from equipped loadout options.\n[*] Added \"Replace for CT\" context menu loadout shortcut for USP-S when P2000 is equipped and vice versa.\n[*] Automatically cancel drag and drop operation when switching away from loadout menu.\n[*] Improved the look of SCAR-20, G3SG1.\n[/list]\n\n[b][ WORKSHOP TOOLS ][/b]\n[list]\n[*] Fixed asset compiler bug creating stray files when running in directories that have spaces.\n[/list]\n\n\n",
+        "commentcount": 156,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487486347_1686357603_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3821914054515746384",
+        "event_gid": "3680050666252335115",
+        "voteupcount": 1147,
+        "votedowncount": 69,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3680050666248881161",
         "clanid": "3381077",
         "posterid": "76561197971400048",
