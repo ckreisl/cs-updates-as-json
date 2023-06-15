@@ -1,5 +1,28 @@
 [
     {
+        "gid": "6662560248439595707",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 6/14/23",
+        "posttime": 1686786420,
+        "updatetime": 1686786420,
+        "body": "[ MAPS ] \n[list]\nMirage\n[list]\n[*] Fixed a spot near bench that caused the server to lag\n[*] Fixed various strange wallbangs\n[*] Adjusted end of match screen\n[/list]\n[/list]\n[ BUY MENU ] \n[list]\n[*] Fixed some edge case issues with sell back\n[*] Buy menu color now matches cl_hud_color\n[/list]\n\n[ LOADOUT ]\n[list]\n[*] Fixed edge cases with inspecting items\n[*] Fixed a bad interaction between the acknowledge panel and inventory\n[*] Fixed a glitch while refreshing the loadout tab\n[*] Fixed some localization bugs\n[*] Fixed various crash\n[/list]\n\n[ MISC ]\n[list]\n[*] Fixed movement bug that would cause a slide along curbs in Dust II\n[*] Flashbangs can be redeployed after thrown so that players can quickly throw multiple in sequence\n[*] Reduced the single-frame flash effect when zooming out with sniper rifles\n[/list]",
+        "commentcount": 132,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1686786826_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3819662889075876171",
+        "event_gid": "6662560248439595706",
+        "voteupcount": 981,
+        "votedowncount": 48,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3680050666252335116",
         "clanid": "3381077",
         "posterid": "76561198048263607",
