@@ -1,5 +1,28 @@
 [
     {
+        "gid": "6662560248443244925",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 6/15/23",
+        "posttime": 1686873469,
+        "updatetime": 1686873469,
+        "body": "[ MISC ]\n[list]\n[*] Fixed auto rebuy not working if you survived through the Deathmatch warmup\n[*] Pressing the jump key to respawn in Deathmatch no longer results in an actual jump\n[*] The buy menu now closes on right mouse button DOWN instead of UP\n[*] Refunds are now correctly accounted for when tracking total money spent by user\n[*] Fixed bad kerning in accolade descriptions\n[*] Fixed a freeze/hang in Hammer\n[*] The CS2 Workshop Tools convar helper page now has better descriptions\n[*] Fixed aspect ratio for workshop submission screenshot\n[*] Various improvements to the look of the M249, MP5-SD, Desert Eagle, Dual Elites, and Taser\n[*] Added Zeus x27 to workshop submission weapon list\n[/list]\n\n[ MAPS ] \n[list]\nMirage\n[list]\n[*]   Various map fixes\n[/list]\n[/list]\n",
+        "commentcount": 80,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1686873741_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3819662889079585808",
+        "event_gid": "6662560248443244924",
+        "voteupcount": 660,
+        "votedowncount": 31,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "6662560248439595707",
         "clanid": "3381077",
         "posterid": "76561197971400048",
