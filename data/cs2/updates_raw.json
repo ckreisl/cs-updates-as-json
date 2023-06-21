@@ -1,5 +1,29 @@
 [
     {
+        "gid": "3658659836545184748",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 6/20/2023",
+        "posttime": 1687304635,
+        "updatetime": 1687312404,
+        "body": "[ MISC ]\u00a0\n[list]\n[*] Fixed a bug with the sell-back feature\n[*] Fixed a few financial fun facts\n[*] Adjusted the main menu position of CTs holding the Dual Elites\n[*] Fixed tooltips sometimes staying up when you exit the loadout screen\n[*] Fixed some texture streaming issues\n[*] Various improvements to stickers\n[*] Improved sound synchronization for the first bullets during automatic fire\n[*] Fixed a case where the death panel would appear if killed during the end of match screen\n[/list]\n\n[ MAPS ]\n[list]Mirage\n[list]\n[*] Various lightmap fixes\n[*] Smoke clouds now pass through the metal rollup grating in underpass\n[*] Players can no longer jiggle themselves into the skybox\n[/list][/list]\n\n[ MOVEMENT ]\n[list]\n[*] Fixed a bug that would cause the player to sometimes move too far forward\n[*] Various bug fixes\n[/list]",
+        "commentcount": 102,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487486347_1687304955_0",
+            "ModAct_487486347_1687316483_4"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3810656323962652464",
+        "event_gid": "3658659836545184747",
+        "voteupcount": 689,
+        "votedowncount": 40,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "6662560248443244925",
         "clanid": "3381077",
         "posterid": "76561197971400048",
