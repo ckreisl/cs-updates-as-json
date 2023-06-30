@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3650779172082664430",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 6/29/23",
+        "posttime": 1688085098,
+        "updatetime": 1688085098,
+        "body": "[ GAMEPLAY ]\n[list]\n[*] Added Casual game mode.\n[/list]\n\n[ SHOOTING ]\n[list]\n[*] Fixed rare cases where bullets would not follow spray pattern.\n[/list]\n\n[ MAPS ]\n[list]\n[*] Added Nuke to Deathmatch, Casual, and Competitive game modes.\n[*] Added Office to Deathmatch and Casual game modes.\n[*] Removed Mirage.\n[/list]\n\n[ AUDIO ]\n[list]\n[*] Added distance effects to all positional sound sources.\n[*] Improvements to 3d sound processing.\n[*] General mix tweaks and improvements.\n[*] Fixed bug where sometimes sounds would not respect the occlusion values of surrounding geometry resulting in sources appearing closer than what they were.\n[*] Fixed missing low frequencies at certain distances away from sound sources such as grenades and weapon fire. \n[*] Fixed a bug where some sounds would be slightly louder or quieter depending on the listeners orientation.\n[*] Added music cues to Match Accept and Loading screens. \n[*] Added unique audio occlusion layer to help with vertical sound positioning in Nuke. \n[/list]\n\n[ ANIMATION ]\n[list]\n[*] Grenades can now be inspected.\n[*] Improved healthshot animations\n[*] Improved inspect behavior for various weapons\n[/list]\n\n[ MOVEMENT ]\n[list]\n[*] Fixed cases of unintended slow crouch/uncrouch.\n[*] Bunny hopping feel should now closely match CS:GO running at 128 tick.\n[*] Added convar sv_jump_spam_penalty_time to allow fine tuning of bunny hop feel.\n[*] The readout for cl_showpos has been enhanced to show the maximum speed of the last 3 seconds; this number is in parenthesis on the 'vel' line\n[*] Players can no longer jump at the end of warmup time\n[/list]\n\n[ NETWORKING ]\n[list]\n[*] Sending game delta frames is now asynchronous, reducing dedicated server main thread CPU usage, thus reducing probability of dropped ticks.\n[/list]\n\n[ MISC ]\n[list]\n[*] Fixed a case where a holstered weapon would be rendered on a dead player\n[*] Added a team-agnostic equip icon for inventory/loadout item tiles\n[*] When possible, switching to spectator mode will default to in-eye spectating\n[*] Adjusted the transition between spectator chase cam and roaming cam\n[*] Centered game mode text in the loading screen\n[*] Removed \"Best out of X rounds\" from the loading screen\n[/list]",
+        "commentcount": 104,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_880430792_1688085282_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3800523859688787424",
+        "event_gid": "3650779172082664429",
+        "voteupcount": 854,
+        "votedowncount": 25,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3658659836545184748",
         "clanid": "3381077",
         "posterid": "76561197971400048",
