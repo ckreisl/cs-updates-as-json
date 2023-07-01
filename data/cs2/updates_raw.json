@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3650779172087295220",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 6/30/23",
+        "posttime": 1688193285,
+        "updatetime": 1688193285,
+        "body": "[ AUDIO ]\n[list]\n[*] Fixed a bug that caused small pops and stutters due to some sounds ending early and not fully fading out\n[/list]\n\n[ MOVEMENT ]\n[list]\n[*] Bunnyhopping once again has a speedlimit. If you want to disable it, set sv_enablebunnyhopping 1\n[*] Fixed a rare issue that would cause camera height to be incorrect after respawn\n[/list]\n\n[ MAPS ]\n[list]Nuke\n[list]\n[*] Fixed flickering shadows at vending\n[/list]\n[/list]",
+        "commentcount": 106,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487791598_1688193527_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3800523859693397951",
+        "event_gid": "3650779172087295219",
+        "voteupcount": 1589,
+        "votedowncount": 152,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3650779172082664430",
         "clanid": "3381077",
         "posterid": "76561197971400048",
