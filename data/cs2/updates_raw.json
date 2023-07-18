@@ -1,5 +1,28 @@
 [
     {
+        "gid": "5520900450305930331",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 7/17/2023",
+        "posttime": 1689630042,
+        "updatetime": 1689630042,
+        "body": "[ GAMEPLAY ]\n[list]\n[*] Added Wingman game mode\n[/list]\n[ MAPS ]\n[list]\n[*] Added Overpass to Deathmatch, Casual, Wingman, and Competitive game modes\n[*] Added Vertigo to Deathmatch and Casual game modes\n[*] Removed Nuke and Office\n[/list]\n[ WORKSHOP TOOLS ]\n[list]\n[*] Enabled undo/redo buttons\n[*] Various bug fixes\n[/list]\n[ MISC ]\n[list]\n[*] Added the \"Secondary Fire Hold\" option to the input settings menu\n[*] The halftime countdown timer is now visible\n[*] Fixed a case where the camera would not interpolate correctly when switching between chase and roaming spectator modes.\n[*] Fixed a case where the viewmodel weapon would disappear for one frame when switching in-eye spectator targets.\n[*] Added leading zeroes on StatTrak module\n[*] Glove patterns and wear now more closely align with CS:GO versions\n[*] Various improvements to foil stickers\n[*] Various adjustments to the size of stickers applied to weapons\n[/list]\n",
+        "commentcount": 202,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487568145_1689632419_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "6869728541351198272",
+        "event_gid": "5520900450305930330",
+        "voteupcount": 1308,
+        "votedowncount": 68,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3650779172087295220",
         "clanid": "3381077",
         "posterid": "76561197971400048",
