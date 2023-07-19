@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3677802671677515613",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 7/18/2023",
+        "posttime": 1689721400,
+        "updatetime": 1689721439,
+        "body": "[ MISC ]\n[list]\n[*] Fixed a case where parties of two or more were unable to enter matchmaking\n[*] Adjusted door interactions with dropped weapons and ragdolls  \n[*] Fixed a case where door interactions with players affected hit registration\n[*] Fixed a case where four grenade icons would scale incorrectly in the team hud\n[/list]\n[ ANIMATION ]\n[list]\n[*] M249 now has bullet belt animation\n[/list]\n[ MAPS ]\n[list]\n[*] Vertigo\n[list]\n[*] Various adjustments to lighting\n[*] Added sounds to potty doors\n[*] Fixed vacancy signs on potties\n[/list][*] Overpass\n[list]\n[*] Various fixes\n[/list]\n[/list]",
+        "commentcount": 99,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487486347_1689723585_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3806155261059675145",
+        "event_gid": "3677802671677515612",
+        "voteupcount": 765,
+        "votedowncount": 33,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "5520900450305930331",
         "clanid": "3381077",
         "posterid": "76561197971400048",
