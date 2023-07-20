@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3677802763014833463",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 7/19/2023",
+        "posttime": 1689811725,
+        "updatetime": 1689811725,
+        "body": "[MAPS]\n[list]\n[*] Various fixes to Vertigo and Overpass\n[/list]",
+        "commentcount": 59,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1689813641_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3806155261063519631",
+        "event_gid": "3677802763014833462",
+        "voteupcount": 436,
+        "votedowncount": 22,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3677802671677515613",
         "clanid": "3381077",
         "posterid": "76561197971400048",
