@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3677802763021823469",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 7/21/2023",
+        "posttime": 1689976990,
+        "updatetime": 1689976990,
+        "body": "[ MOVEMENT ] \n[list]\n[*] Fixed some instances of pixelwalks across all maps\n[/list]\n[ MISC ]\n[list]\n[*] Slight adjustments to some Holo stickers\n[*] Fixed a case where some match stats would be reported incorrectly at the end of the game\n[/list]\n[ MAPS ]\n[list]\n[*] Overpass\n[list]\n[*] Updated some signage \n[*] Adjustments to jumpable locations\n[*] Adjustments for improved player movement\n[*] Adjustments to wall-bangable locations\n[*] Various bug fixes\n[/list][/list]",
+        "commentcount": 88,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1689978984_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3806155261070553440",
+        "event_gid": "3677802763021823468",
+        "voteupcount": 768,
+        "votedowncount": 47,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3677802763014833463",
         "clanid": "3381077",
         "posterid": "76561197971400048",
