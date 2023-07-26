@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3677802763035913090",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 7/25/2023",
+        "posttime": 1690314025,
+        "updatetime": 1690314025,
+        "body": "[ MAPS ]\n[list]\n[*] Overpass\n[list]\n[*] Adjustments to jumpable locations\n[*] Collision adjustments\n[*] Various bug fixes and tweaks\n[/list][/list]",
+        "commentcount": 118,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_441547739_1690314886_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3806155876004675778",
+        "event_gid": "3677802763035913089",
+        "voteupcount": 1023,
+        "votedowncount": 49,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3677802763021823469",
         "clanid": "3381077",
         "posterid": "76561197971400048",
