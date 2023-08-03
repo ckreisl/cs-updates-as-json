@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3678929839469928995",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 8/2/2023",
+        "posttime": 1691013634,
+        "updatetime": 1691013634,
+        "body": "[ GAMEPLAY ]\n[list]\n[*] Disabled Wingman\n[/list]\n[ MAPS ]\n[list]\n[*] Added Anubis to Deathmatch, Casual, and Competitive game modes\n[*] Added Ancient to Deathmatch and Casual game modes\n[*] Removed Overpass and Vertigo\n[/list]\n[ MISC ]\n[list]\n[*] Taught chickens how to swim\n[*] Weapons splash when dropped in water\n[*] Adjusted grenade/water interaction sounds\n[/list]\n[ ANIMATION ]\n[list]\n[*] Improved head animation when crouching while running\n[*] Improved foot animation when quickly alternating between standing still and moving\n[/list]",
+        "commentcount": 126,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487791598_1691018387_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3800527029406283122",
+        "event_gid": "3678929839469928994",
+        "voteupcount": 1009,
+        "votedowncount": 53,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3677802763035913090",
         "clanid": "3381077",
         "posterid": "76561199526219225",
