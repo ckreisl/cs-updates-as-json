@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3678929839477024324",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 8/3/2023",
+        "posttime": 1691104317,
+        "updatetime": 1691104317,
+        "body": "[ MAPS ]\n[list]\n[*] Anubis\n[list]\n[*] Improved movement clipping map-wide\n[*] Adjustments to collision around pillars\n[*] Plugged holes in world geometry\n[*] Fixed issues with weapon and bomb clipping through world geometry\n[/list]\n[*] Ancient\n[list]\n[*] Improved water clarity at T spawn\n[*] Adjustments to jumpable locations\n[*] Adjustments to collision around corners\n[*] Various adjustments to lighting\n[/list][/list]\n[ MISC ]\n[list]\n[*] Fixed an issue with round restart in the middle of weapon reloading\n[*] Fixed a case where incendiary grenades fail to detonate in water\n[*] Ragdoll limbs splash when they hit water\n[/list]",
+        "commentcount": 52,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487568145_1691107665_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3800527029410143119",
+        "event_gid": "3678929839477024323",
+        "voteupcount": 659,
+        "votedowncount": 28,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3678929839469928995",
         "clanid": "3381077",
         "posterid": "76561199526219225",
