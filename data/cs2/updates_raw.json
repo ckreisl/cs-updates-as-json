@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3678929839491078556",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 8/7/2023",
+        "posttime": 1691446733,
+        "updatetime": 1691446733,
+        "body": "[ MAPS ]\n[list]\n[*] Anubis\n[list]\n[*] Removed from Competitive mode\n[*] Various bug fixes and tweaks\n[/list]\n[*] Ancient\n[list]\n[*] Added to Competitive mode\n[*] Various adjustments to lighting\n[*] Added missing collision detection to some debris\n[/list][/list]\n[ MISC ]\n[list]\n[*] Various adjustments to C4 animation\n[*] Water rendering performance improvements\n[/list]",
+        "commentcount": 78,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487568145_1691448210_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3800527434456417678",
+        "event_gid": "3678929839491078555",
+        "voteupcount": 789,
+        "votedowncount": 35,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3678929839477024324",
         "clanid": "3381077",
         "posterid": "76561199526219225",
