@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3677805209165310412",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 8/15/2023",
+        "posttime": 1692141047,
+        "updatetime": 1692141047,
+        "body": "[ GAMEPLAY ]\n[list]\n[*] Competitive and Private Matchmaking are currently disabled in the Limited Test\n[*] Minor adjustments to smoke cloud shape\n[/list]\n[ MAPS ]\n[list]\n[*] Added Italy to Deathmatch and Casual game modes\n[*] Removed Anubis and Ancient\n[/list]\n[ ECONOMY ]\n[list]\n[*] Unified StatTrak position on both CS2 M4 models to not occlude stickers\n[*] Adjusted sticker sizes on CS2 M4A4 so they no longer overlap\n[/list]\n[ MISC ]\n[list]\n[*] Updated hostage models\n[/list]\n[ SOUND ]\n[list]\n[*] Audio mix tweaks and adjustments\n[/list]\n[ WORKSHOP TOOLS ]\n[list]\n[*] Added support for multiple team introduction variants\n[/list]",
+        "commentcount": 128,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487486347_1692144074_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3808409598684155947",
+        "event_gid": "3677805209165310411",
+        "voteupcount": 835,
+        "votedowncount": 54,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3678929839491078556",
         "clanid": "3381077",
         "posterid": "76561199526219225",
