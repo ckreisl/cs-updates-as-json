@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3677805209168581920",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 8/16/2023",
+        "posttime": 1692220895,
+        "updatetime": 1692220895,
+        "body": "[ MAPS ]\n[list]\n[*] Italy\n[list]\n[*] Various bug fixes and tweaks\n[/list][/list]\n[ MISC ]\n[list]\n[*] Added more hostage variants\n[/list]",
+        "commentcount": 57,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1692226275_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3808409598687552558",
+        "event_gid": "3677805209168581919",
+        "voteupcount": 522,
+        "votedowncount": 16,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3677805209165310412",
         "clanid": "3381077",
         "posterid": "76561197971400048",
