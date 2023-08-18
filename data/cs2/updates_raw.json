@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3677805209171921981",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 8/17/2023",
+        "posttime": 1692311677,
+        "updatetime": 1692311677,
+        "body": "[ MAPS ]\n[list]\n[*] All maps previously shipped in the Limited Test are available in casual and deathmatch matchmaking\n[*] All maps and game modes previously shipped in the Limited Test are available for offline play\n[/list]\n[ GAMEPLAY ]\n[list]\n[*] Dropped bombs no longer sink in water\n[*] Reworked the bullet penetration system\n[*] Enabled bot takeover where applicable\n[/list]",
+        "commentcount": 139,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487568145_1692312733_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3808409598691417068",
+        "event_gid": "3677805209171921980",
+        "voteupcount": 917,
+        "votedowncount": 43,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3677805209168581920",
         "clanid": "3381077",
         "posterid": "76561199526219225",
