@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3677805209176057680",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 8/18/2023",
+        "posttime": 1692396840,
+        "updatetime": 1692396840,
+        "body": "[ GAMEPLAY ]\n[list]\n[*] Fixed bullet penetration through players\n[/list]\n[ SOUND ]\n[list]\n[*] Audio mix tweaks and adjustments\n[/list]",
+        "commentcount": 79,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487568145_1692397198_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3808409598695041112",
+        "event_gid": "3677805209176057679",
+        "voteupcount": 644,
+        "votedowncount": 47,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3677805209171921981",
         "clanid": "3381077",
         "posterid": "76561199526219225",
