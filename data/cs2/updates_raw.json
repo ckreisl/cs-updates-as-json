@@ -1,5 +1,29 @@
 [
     {
+        "gid": "3687939575937546144",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 8/31/2023",
+        "posttime": 1693524375,
+        "updatetime": 1693528010,
+        "body": "[ PREMIER ]\n[list]\n[*] Added Premier mode\n[*] Added a visible CS Rating and CS2 Leaderboards. For more information visit the [url=https://help.steampowered.com/en/faqs/view/1BCF-10D0-1AF1-302C]CS2 Leaderboard FAQ[/url]\n[*] Added CSTV for spectating Premier matches\n[/list]\n\n[ SOUND ]\n[list]\n[*] Fixed a case where grenade throw sounds would play twice\n[*] Added music preview button to music volume sliders\n[*] Various adjustments to sound effects\n[/list]\n\n[ WORKSHOP TOOLS ]\n[list]\n[*] Added Paint Kit enhancements to CS2 Item Editor. Paint Kit finishes can now support:\n[list]\n[*] Enabling custom normal maps and AO for all styles\n[*] Optional pearlescent mask\n[*] Optional standard PBR roughness texture\n[*] Custom Paint-By-Numbers masks (enabling Paint-By-Number masks for Spray-Paint style)\n[/list][/list]\n\n[ MAPS ]\n[list]\n[*] Added Inferno to all available game modes\n[*] Various bug fixes and tweaks for all shipped maps\n[/list]\n\n[ MISC ]\n[list]\n[*] Fixed a bug with hostage rescue prediction\n[*] Enabled first-person shadow for carried hostages\n[*] Fixed water effects showing in the wrong place when a bullet hit the water after penetration\n[*] Various fixes for weapon finishes\n[*] Replaced \"Secondary Fire Hold\" setting with \"Zoom Button Hold\"\n[*] Fixed \"Disable all voice comms\" button in scoreboard\n[*] \"Temporarily Disable Incoming Chat\" now mutes voice chat\n[*] Various CS:GO settings will be imported when launching the CS2 Limited Test\n[*] Fixed a case of inconsistent crouching with Duck Mode: Toggle enabled \n[*] Updated the invulnerability visual effect \n[*] Adjusted 'sv_infinite_ammo 2' grenade behavior to match CS:GO\n[*] Desert Eagle third-person muzzle flash smoke now dissipates faster\n[*] Continued iterating on smoke shape\n[*] Adjusted Competitive mode match length to 12-round halves\n[/list]\n\n[ CS:GO ]\n[list]\n[*] Recent ranked matches in \"Your Matches\" menu will now show Competitive, Wingman, and Premier matches\n[/list]\n\n[ GAME AUTHENTICATION CODES ]\n[list]\n[*] Access to match history granted to third-party websites will now cover Competitive, Wingman, and Premier matches\n[*] GetNextMatchSharingCode API used by third-party websites must now supply a match sharing code that is no more than 1 month old to obtain the next match sharing code.\n[/list]\n\n",
+        "commentcount": 140,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1693526054_0",
+            "ModAct_487791598_1693536799_4"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3821921664841765498",
+        "event_gid": "3687939575937546143",
+        "voteupcount": 1717,
+        "votedowncount": 77,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3677805209176057680",
         "clanid": "3381077",
         "posterid": "76561199526219225",
