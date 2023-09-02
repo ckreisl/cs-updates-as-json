@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3687939575941624937",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 9/1/2023",
+        "posttime": 1693615398,
+        "updatetime": 1693615398,
+        "body": "[ MAPS ]\n[list]\n[*] Inferno\n[list]\n[*] Various bug fixes and tweaks\n[/list][/list]\n\n[ GAMEPLAY ]\n[list]\n[*] Players who survive the last round before overtime no longer carry their items into overtime\n[*] Disabled Casual matchmaking temporarily to avoid a bug where servers get stuck in the end-of-match state\n[/list]\n\n[ SOUND ]\n[list]\n[*] Fixes for missing music in Casual mode\n[/list]\n\n[ MISC ]\n[list]\n[*] Various bug fixes and tweaks to Premier UI elements\n[*] Various bug fixes and tweaks to weapon finishes\n[*] Fixed a crash that occurs when changing audio devices\n[*] Fixed an issue where players who abandon during Premier map voting receive multiple cooldowns\n[/list]",
+        "commentcount": 136,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487568145_1693615943_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3821921664845644680",
+        "event_gid": "3687939575941624936",
+        "voteupcount": 1290,
+        "votedowncount": 62,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3687939575937546144",
         "clanid": "3381077",
         "posterid": "76561199526219225",
