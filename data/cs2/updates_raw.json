@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3687939575955496678",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 9/5/2023",
+        "posttime": 1693952801,
+        "updatetime": 1693952801,
+        "body": "[ MAPS ]\n[list]\n[*] Ancient\n[list]\n[*] Fixed CT spawn area shape in minimap\n[/list]\n[*] Overpass\n[list]\n[*] Adjusted spawn locations to reduce the likelihood of players spawning stuck together\n[/list]\n[*] Inferno\n[list]\n[*] Various bug fixes and tweaks\n[/list][/list]\n\n[ GAMEPLAY ]\n[list]\n[*] Re-enabled Casual matchmaking\n[*] Fixed a bug where dropped weapons were behaving like held weapons\n[*] Adjusted interpolation parameters\n[*] Fixed missing bullet tracers on hits\n[*] Made it easier to pick up dropped weapons\n[/list]\n\n[ SOUND ]\n[list]\n[*] Fixed a case where music wouldn't play at the end of deathmatch\n[/list]\n\n[ MISC ]\n[list]\n[*] Various bug fixes and tweaks to Premier UI elements\n[*] Adjusted freeze time post-processing effects\n[*] Fixed missing player models for the first few seconds after team introductions\n[*] Windows community servers can now appear in Steam Server Browser\n[/list]",
+        "commentcount": 281,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487791598_1693955831_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3821922030310604984",
+        "event_gid": "3687939575955496677",
+        "voteupcount": 2243,
+        "votedowncount": 98,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3687939575941624937",
         "clanid": "3381077",
         "posterid": "76561199526219225",
