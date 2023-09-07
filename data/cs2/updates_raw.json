@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3687939575959424185",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 9/6/2023",
+        "posttime": 1694040322,
+        "updatetime": 1694040322,
+        "body": "[ MAPS ]\n[list]\n[*] Overpass\n[list]\n[*] Various bug fixes and tweaks\n[/list][/list]\n\n[ GAMEPLAY ]\n[list]\n[*] Added current armor value to the buy menu\n[*] Fixed issues with ducking across round transitions\n[*] Fixed a case where smoke grenades wouldn't pop\n[*] Fixed a case where molotov/incendiary fire area was small in corners\n[*] Fixed a case where molotov/incendiary grenades would explode at the throwers feet\n[*] Fixed a case where the dropped bomb icon would appear on the radar incorrectly\n[*] Continued iterating on dropped weapon pickup\n[/list]\n\n[ PREMIER MATCHMAKING ]\n[list]\n[*] Shortened \"Waiting For Players\" from 5 minutes to 2 minutes\n[*] Fixed voting to surrender and voting for tactical timeouts\n[*] Teams can use 3 tactical timeouts during regulation time and 1 during overtime\n[*] Various bug fixes and tweaks to UI elements\n[/list]\n\n[ SOUND ]\n[list]\n[*] Fixed a case where hit feedback sounds wouldn't play for spectators\n[/list]\n\n[ MISC ]\n[list]\n[*] Allow changing equipped graffiti mid-match\n[*] Improved free roaming and chase camera behavior in CSTV\n[*] Fixed a case where the money display was cropped in certain languages\n[*] Fixed a case where \"Block names and avatars of strangers\" would replace names with the wrong color words\n[*] Fixed a case where the award message for planting the bomb wouldn't show\n[*] Fixed issues with alt-tab window switching in fullscreen mode\n[*] Added cvars mp_team_timeout_ot_add_once, mp_team_timeout_ot_add_each, mp_team_timeout_ot_max to control timeouts in overtime\n[/list]",
+        "commentcount": 180,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487791598_1694043403_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3821922030314329873",
+        "event_gid": "3687939575959424184",
+        "voteupcount": 1574,
+        "votedowncount": 70,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3687939575955496678",
         "clanid": "3381077",
         "posterid": "76561199526219225",
