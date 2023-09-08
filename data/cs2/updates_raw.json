@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3687940304685923604",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 9/7/2023",
+        "posttime": 1694127272,
+        "updatetime": 1694127272,
+        "body": "[ MAPS ]\n[list]\n[*] Ancient\n[list]\n[*] Various bug fixes and tweaks\n[/list][/list]\n\n[ GAMEPLAY ]\n[list]\n[*] Various bug fixes to molotov/incendiary explosions\n[*] Fixed ladders blocking bullet penetration\n[/list]\n\n[ MISC ]\n[list]\n[*] Fixed missing USP-S description in the buy menu\n[*] Adjusted low health indication\n[*] Various animation bug fixes and tweaks\n[*] Various performance improvements\n[/list]",
+        "commentcount": 198,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_441547739_1694130235_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3821922393602361705",
+        "event_gid": "3687940304685923603",
+        "voteupcount": 1214,
+        "votedowncount": 34,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3687939575959424185",
         "clanid": "3381077",
         "posterid": "76561199526219225",
