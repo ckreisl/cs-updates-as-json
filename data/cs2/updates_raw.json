@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3687940304689591267",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 9/8/2023",
+        "posttime": 1694214925,
+        "updatetime": 1694215300,
+        "body": "[ MAPS ]\nMirage[list]\n[*] Fixed a pixel boost on pillars in B bomb site\n[/list]Nuke[list]\n[*] Fixed C4 falling out of the world in B bomb site\n[*] Updated props[/list]Italy[list]\n[*] Fixes to prevent players boosting out of playable space\n[/list]\n[ MISC ]\n[list]\n[*] Added a C4 loadout slot for users who have C4 items with a name tag applied\n[*] Audio mix tweaks and adjustments\n[*] Fixed a case where roasted chickens fell through the floor\n[*] hud_scaling is no longer imported from CS:GO. Note that players' hud_scaling will be reset to the default (1.0)\n[/list]",
+        "commentcount": 198,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487568145_1694216524_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3821922393606095285",
+        "event_gid": "3687940304689591266",
+        "voteupcount": 1308,
+        "votedowncount": 88,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3687940304685923604",
         "clanid": "3381077",
         "posterid": "76561199526219225",
