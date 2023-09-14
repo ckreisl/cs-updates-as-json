@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3739732240041940650",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 9/13/2023",
+        "posttime": 1694642677,
+        "updatetime": 1694643958,
+        "body": "[ MAPS ]\n[list]\n[*] Various bug fixes and tweaks for all shipped maps\n[/list]\n\n[ GAMEPLAY ]\n[list]\n[*] Various fixes for molotov/incendiary grenades\n[*] Various fixes for smoke grenades\n[*] Fixed damage indicators for fire damage\n[*] Adjusted first-person sniper contrails to reflect shot accuracy\n[*] Various adjustments to lag compensation\n[*] Replaced player elevation indicators on the radar with look directions\n[/list]\n\n[ PREMIER MATCHMAKING ]\n[list]\n[*] Various bug fixes and tweaks to UI elements\n[/list]\n\n[ SOUND ]\n[list]\n[*] Audio mix changes and tweaks\n[*] Lowered occlusion and distance effects for gunfire, footsteps and reloads\n[*] Slight increase to stereo spread\n[*] Fixed a bug where incorrect footstep and jump land sounds would play on elevated edges\n[*] Fixed a bug where music would stop playing at the end of deathmatch\n[/list]\n\n[ MISC ]\n[list]\n[*] Changed armor number in buy menu from amount you currently have to amount you can buy\n[*] Various fixes for weapon finishes, gloves, and stickers\n[*] Water rendering performance improvements\n[*] Added nametag positions for all knife models\n[*] Allow adjusting individual player voice volumes\n[*] Various HUD bug fixes and tweaks\n[*] Added option to disallow animated avatars\n[*] Removed several legacy networking convars that existed in CS:GO but never had an effect in CS2\n[/list]",
+        "commentcount": 326,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1694644557_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3873714328956305140",
+        "event_gid": "3739732240041940649",
+        "voteupcount": 2302,
+        "votedowncount": 148,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3687940304689591267",
         "clanid": "3381077",
         "posterid": "76561197971400048",
