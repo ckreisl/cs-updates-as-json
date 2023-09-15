@@ -1,5 +1,28 @@
 [
     {
+        "gid": "6816816781624242444",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 9/14/2023",
+        "posttime": 1694728146,
+        "updatetime": 1694728146,
+        "body": "[ MAPS ]\n[list]\n[*] Anubis\n[list]\n[*] Various clipping adjustments\n[/list][/list]\n\n[ GAMEPLAY ]\n[list]\n[*] Rebalanced lag compensation to favor lower-latency players\n[*] Fixed a bug where dropped grenades were invisible\n[*] Fixed a bug where dropped bombs and weapons would appear in the wrong location\n[/list]\n\n[ MISC ]\n[list]\n[*] Various bug fixes and tweaks to weapon finishes\n[/list]",
+        "commentcount": 281,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487997664_1694728209_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "5291222404430168601",
+        "event_gid": "6816816781624242443",
+        "voteupcount": 1671,
+        "votedowncount": 122,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3739732240041940650",
         "clanid": "3381077",
         "posterid": "76561199526219225",
