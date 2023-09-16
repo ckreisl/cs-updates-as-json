@@ -1,5 +1,28 @@
 [
     {
+        "gid": "6816816781628221588",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 9/15/2023",
+        "posttime": 1694822428,
+        "updatetime": 1694822428,
+        "body": "[ MAPS ]\nOffice\n[list]\n[*] Adjusted the weight of the vending machine\n[*] Various fixes\n[/list]Ancient\n[list]\n[*] Various clipping adjustments\n[/list]\n[ SOUND ]\n[list]\n[*] Tuned the vertical audio occlusion of grenade sounds in Nuke and Vertigo\n[*] Adjusted ambient sounds in Office\n[*] Adjusted silenced weapon falloff\n[/list]\n[MISC]\n[list]\n[*] Fixed a case where an AK47 headshot would not deal lethal damage\n[*] Adjusted nametag location for Shadow Daggers\n[/list]\n",
+        "commentcount": 125,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487791598_1694823918_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "5291222404434184795",
+        "event_gid": "6816816781628221587",
+        "voteupcount": 694,
+        "votedowncount": 49,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "6816816781624242444",
         "clanid": "3381077",
         "posterid": "76561199526219225",
