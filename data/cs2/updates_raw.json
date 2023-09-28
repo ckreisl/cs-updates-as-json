@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3747614808336247473",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 9/27/2023 Night",
+        "posttime": 1695869145,
+        "updatetime": 1695869145,
+        "body": "[ SOUND ]\n[list]\n[*] Weapon sounds will no longer sound like they come from the spot you are zoomed into\n[/list]\n\n[ WATER ]\n[list]\n[*] Updated water in Nuke to fix an issue with smoke\n[*] Reduced maximum amount of water refraction since it was looking too noisy/distracting\n[/list]\n\n[ MISC ]\n[list]\n[*] Fixed a case where the death panel wouldn't show\n[*] Fixed a case where the preview crosshair wouldn't show in game settings\n[*] Fixed a case where debug text would appear on the crosshair\n[/list]",
+        "commentcount": 209,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1695869706_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3881596897252816405",
+        "event_gid": "3747614808336247472",
+        "voteupcount": 1104,
+        "votedowncount": 98,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "6816816781628221588",
         "clanid": "3381077",
         "posterid": "76561197971400048",
