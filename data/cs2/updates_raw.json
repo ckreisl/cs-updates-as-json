@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3747614808339498555",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 9/28/2023",
+        "posttime": 1695946964,
+        "updatetime": 1695946964,
+        "body": "[ SOUND ]\n[list]\n[*] Fixed missing win/loss/MVP music in Casual\n[/list]\n\n[ GRAPHICS ]\n[list]\n[*] Put range clamps on r_fullscreen_gamma, r_texture_stream_max_resolution, and r_character_decal_resolution\n[*] Fixed smokes not rendering correctly on AMD GPUs on Linux\n[/list]\n\n[ ANIMATION ]\n[list]\n[*] Adjusted grenade throw animations to reduce view obstruction\n[*] Fixed a case where players would float a few inches off the ground after spawning\n[/list]\n\n[ MAPS ]\n[list]\n[*] Various bug fixes and tweaks to Mirage and Overpass\n[/list]\n\n[ COSMETICS ]\n[list]\n[*] Various bug fixes and tweaks to weapon finishes and stickers\n[*] Updated Phoenix Soldier balaclava from green to original red color\n[*] Fixed missing pouches on certain SWAT agents\n[/list]\n\n[ MISC ]\n[list]\n[*] Fixed a bug where loadout shuffle would never happen\n[*] Increased clickable area of sellback buttons in buy menu\n[*] Fixed a case where the death panel would stay on-screen after respawning quickly\n[*] Disabled CSTV and demo recording temporarily to increase server availability so more people can play\n[/list]",
+        "commentcount": 333,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_441547739_1695948740_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3881596897256159454",
+        "event_gid": "3747614808339498554",
+        "voteupcount": 1935,
+        "votedowncount": 208,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3747614808336247473",
         "clanid": "3381077",
         "posterid": "76561199526219225",
