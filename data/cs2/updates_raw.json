@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3747614808342659053",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 9/29/2023",
+        "posttime": 1696029127,
+        "updatetime": 1696029127,
+        "body": "[ SOUND ]\n[list]\n[*] Fixed a case where grenade sounds were missing when exploding in-air\n[*] Added separate sounds for grenades landing in vs out of the playable area\n[/list]\n\n[ GAMEPLAY ]\n[list]\n[*] Fixed a case where both terrorists in a Wingman match would appear to have the bomb\n[/list]\n\n[ MISC ]\n[list]\n[*] Various bug fixes for the Vulkan renderer\n[*] Updated Phoenix Soldier icon to reflect recent balaclava color change\n[*] Fixed a rendering issue in the nametag inspect panel\n[*] Disallowed binding toggleconsole to mouse1 since it was preventing normal menu interactions\n[*] Various bug fixes and tweaks to weapon finishes and stickers\n[*] Fixed a case where surrender votes would incorrectly fail\n[/list]\n\n[ ANIMATION ]\n[list]\n[*] Fixed a case where foot pinning wasn't active\n[/list]\n\n[ MAPS ]\n[list]\n[*] Various bug fixes and tweaks to Ancient\n[/list]\n\n[ PERFECT WORLD ]\n[list]\n[*] Players who launch the game in China and have previously accepted the Steam China Subscriber Agreement will now get a prompt at launch which allows selecting \"-perfectworld\" or \"-worldwide\" mode\n[*] Launch prompt can be activated with \"-promptperfectworld\" command line flag or completely bypassed if \"-perfectworld\" or \"-worldwide\" command line flag is used\n[/list]\n\n[ COMMUNITY DEDICATED SERVERS ]\n[list]\n[*] To launch a community dedicated server, you can use this reference command line:\n[list]\n[*] cs2 -dedicated +map de_dust2\n[/list][*] To enable logging, add to your server commandline:\n[list]\n[*] +sv_logfile 1 -serverlogging \n[/list][*] Or add to a config file:\n[list]\n[*] sv_logfile 1\n[*] log on\n[/list][*] To enable HTTP logaddress forwarding, ensure logging is enabled as above and use:\n[list]\n[*] logaddress_add_http \"<server address>:<port>\"\n[/list][*] Dispatched logs can be handled the same way as CS:GO\n[/list]",
+        "commentcount": 222,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1696031594_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3881596897259671364",
+        "event_gid": "3747614808342659052",
+        "voteupcount": 1358,
+        "votedowncount": 130,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3747614808339498555",
         "clanid": "3381077",
         "posterid": "76561199526219225",
