@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3747614808353607785",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 10/2/2023",
+        "posttime": 1696285766,
+        "updatetime": 1696285766,
+        "body": "[ GAMEPLAY ]\n[list]\n[*] Removed movement penalty on mud surfaces\n[/list]\n\n[ GRAPHICS ]\n[list]\n[*] Fixed a bug with shader compilation when connecting to a server that was causing hitches after connecting. Note that these hitches may still exist on AMD GPUs; we are working with AMD to address this\n[/list]\n\n[ ANIMATION ]\n[list]\n[*] Fixed a bug where knife slashing couldn't be interrupted with an inspect\n[/list]\n\n[ MISC ]\n[list]\n[*] Various bug fixes and tweaks to weapon finishes and gloves\n[*] Fixed a case where molotov/incendiary grenades would create a fire ring in the air\n[*] Improved performance of molotov/incendiary fire extinguishing\n[*] Various improvements to weapon dropping and throwing\n[*] Various crash fixes\n[/list]",
+        "commentcount": 421,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_441547739_1696287019_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3881597253360870251",
+        "event_gid": "3747614808353607784",
+        "voteupcount": 2357,
+        "votedowncount": 272,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3747614808342659053",
         "clanid": "3381077",
         "posterid": "76561199526219225",
