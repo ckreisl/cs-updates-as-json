@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3747615443042754720",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 10/4/2023",
+        "posttime": 1696458556,
+        "updatetime": 1696458556,
+        "body": "[ GRAPHICS ]\n[list]\n[*] Removed Model / Texture Detail: Very High setting since it was identical to High. They used to differ by Texture Filtering Mode, but that's a separate setting now\n[/list]\n\n[ ANIMATION ]\n[list]\n[*] Repositioned finger on AWP so it doesn't look as long\n[/list]\n\n[ MAPS ]\n[list]\n[*] Various bug fixes and tweaks to Inferno, Anubis, Vertigo, Ancient, and Mirage\n[/list]\n\n[ MISC ]\n[list]\n[*] Various bug fixes and tweaks to stickers\n[*] Adjusted crosshair outline rendering for fractional values\n[*] Fixed a bug where disconnecting from and reconnecting to a match would result in less XP\n[*] Fixed the \"buy <item>\" command to work with the new flexible loadout system. The command will now find the named item in your loadout instead of assuming a default slot. If the named item isn't in your loadout, the command will fail. To buy by slot, use \"buy secondary0\", \"buy midtier1\", \"buy rifle2\", etc. instead\n[*] Various tweaks to automatic sniper rifle muzzle flashes\n[*] Various tweaks to glass impact effects\n[*] Added sort options to secondary inventory select panel for actions like applying stickers\n[*] Fixed a bug where users in Germany were incorrectly identified as users in China\n[/list]",
+        "commentcount": 568,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487791598_1696459459_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3881597531958301354",
+        "event_gid": "3747615443042754719",
+        "voteupcount": 3092,
+        "votedowncount": 424,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3747614808353607785",
         "clanid": "3381077",
         "posterid": "76561199526219225",
