@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3747615443050050869",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 10/6/2023",
+        "posttime": 1696629725,
+        "updatetime": 1696629725,
+        "body": "[ GRAPHICS ]\n[list]\n[*] Fixed a case where water would appear black in screenshots and video capture\n[*] For AMD GPU users, shader compilation hitches can now be fixed with a driver update: [url=https://www.amd.com/en/support/kb/release-notes/rn-rad-win-23-20-11-7]https://www.amd.com/en/support/kb/release-notes/rn-rad-win-23-20-11-7[/url]\n[/list]\n\n[ ANIMATION ]\n[list]\n[*] Fixed a case where the grenade throw animation would be canceled by holding the inspect key\n[*] Adjusted M4A4 and M4A1-S draw animation to start from out-of-frame\n[*] Minor animation system performance optimizations\n[/list]\n\n[ MAPS ]\n[list]\n[*] Various bug fixes and tweaks to Nuke, Vertigo, Anubis, and Overpass\n[/list]\n\n[ MISC ]\n[list]\n[*] All surrender votes now require a majority to pass\n[*] Fixed an exploit where players could spam chat during the Premier draft phase\n[*] Fixed a bug where kicked players were receiving the maximum CS Rating penalty. Kicked players will now receive CS Rating based on the final outcome of the match instead\n[*] Fixed a bug where the first character at the beginning of the terrorist team intro wouldn't render\n[*] Configured SDL to prefer X11 over Wayland on Linux\n[*] Paris 2023 items are no longer for sale\n[/list]",
+        "commentcount": 301,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487791598_1696631679_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3881597531965599049",
+        "event_gid": "3747615443050050868",
+        "voteupcount": 1584,
+        "votedowncount": 146,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3747615443042754720",
         "clanid": "3381077",
         "posterid": "76561199526219225",
