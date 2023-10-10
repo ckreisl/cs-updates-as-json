@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3747615443061321347",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 10/9/2023",
+        "posttime": 1696899335,
+        "updatetime": 1696899335,
+        "body": "[ GRAPHICS ]\n[list]\n[*] Fixed a case where feet would appear black when looking down at them through a scope\n[*] Fixed a memory leak due to particles\n[/list]\n\n[ ANIMATION ]\n[list]\n[*] Fixed several hitbox alignment bugs\n[*] Fixed knife spinning not feeling as fast as in CS:GO\n[*] Fixed the bolt not moving during the M4A4 and M4A1-S deployment animations\n[*] Fixed a bug where weapon inspect could interrupt the silencer toggle animation\n[/list]\n\n[ MAPS ]\n[list]\n[*] Various bug fixes and tweaks to Mirage, Vertigo, and Nuke\n[/list]\n\n[ MISC ]\n[list]\n[*] Fixed several bugs with \"Looking to Play\"\n[*] Various bug fixes and tweaks to weapon finishes and stickers\n[*] Fixed a bug where loadout changes weren't saved if the game was closed shortly after making changes\n[*] Fixed a bug where Steam Friends' match status was delayed or missing\n[*] CPU performance improvements for weapon tracers\n[*] Added an official matchmaking datacenter in Chengdu, China\n[/list]",
+        "commentcount": 424,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487486347_1696899540_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3881597903523843884",
+        "event_gid": "3747615443061321346",
+        "voteupcount": 1760,
+        "votedowncount": 212,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3747615443050050869",
         "clanid": "3381077",
         "posterid": "76561199526219225",
