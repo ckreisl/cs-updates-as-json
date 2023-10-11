@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3773511773688537696",
+        "clanid": "3381077",
+        "posterid": "76561197960423941",
+        "headline": "Release Notes for 10/10/2023",
+        "posttime": 1696984431,
+        "updatetime": 1696984431,
+        "body": "[ MATCHMAKING ]\n[list]\n[*] Matches will now be made with smaller rating differences between the teams at the expense of longer queue times.\n[/list]\n\n[ Premier ]\n[list]\n[*] Relegation and Promotion matches will only occur at color boundaries, i.e. every 5000 CS Rating points.\n[*] Increased possible CS Rating win/loss amounts to move players faster after calibration.\n[/list]\n",
+        "commentcount": 164,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_441547739_1696985566_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3907493862605969598",
+        "event_gid": "3773511773688537695",
+        "voteupcount": 916,
+        "votedowncount": 81,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3747615443061321347",
         "clanid": "3381077",
         "posterid": "76561199526219225",
