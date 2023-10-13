@@ -1,5 +1,28 @@
 [
     {
+        "gid": "6688466724226140707",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 10/12/2023",
+        "posttime": 1697146481,
+        "updatetime": 1697146481,
+        "body": "[ GAMEPLAY ]\n[list]\n[*] When a server disagrees about a player's loadout, such as when a match starts during a patch, the buy menu will now reflect the server-authoritative loadout\n[*] Fixed a case where players could clip through ceilings\n[*] Made adjustments to character shaders to improve player visibility\n[/list]\n\n[ ANIMATION ]\n[list]\n[*] Fixed the \"Smooth Criminal\" foot pinning bug\n[*] Adjusted team select and team intro knife animations to work with Shadow Daggers\n[/list]\n\n[ MAPS ]\n[list]\n[*] Various bug fixes and tweaks to Inferno, Mirage, Nuke, Overpass, and Vertigo\n[/list]\n\n[ MISC ]\n[list]\n[*] Added \"Player Color\" option to \"HUD Color\" setting that will make the HUD match your or your spectator target's player color in competitive modes\n[*] Changed \"Use Player Colors on Team ID\" default to \"Yes\"\n[*] Added \"Large Player Count\" setting to replace player avatars with team player count in the mini-scoreboard during the active portion of rounds\n[*] Fixed a bug where graffiti changes mid-match were delayed\n[*] Various bug fixes and tweaks to weapon finishes and stickers\n[/list]\n\n[ WORKSHOP TOOLS ]\n[list]\n[*] New Screenshot button - captures a screenshot of the game window and saves a .png file to disk. Using \"Inspect\" with the gray or green backgrounds saves the .png with the UI elements hidden and a transparent background\n[*] Added Inferno and Ancient preview maps (workshop_preview_inferno and workshop_preview_ancient)\n[*] Workshop Item Editor - Integrated help system contains detailed guides when you see (More Help: Shift+F1) in the tool tip. These detailed guides contain important information about PBR color ranges, wear/durability masking alpha values, and much more\n[/list]",
+        "commentcount": 589,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487997664_1697147246_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "6993585599473386666",
+        "event_gid": "6688466724226140706",
+        "voteupcount": 3035,
+        "votedowncount": 364,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3773511773688537696",
         "clanid": "3381077",
         "posterid": "76561197960423941",
