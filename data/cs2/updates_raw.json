@@ -1,5 +1,28 @@
 [
     {
+        "gid": "6688466724230034496",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 10/13/2023",
+        "posttime": 1697240007,
+        "updatetime": 1697240007,
+        "body": "[ MISC ]\n[list]\n[*] Various bug fixes and tweaks to agents, gloves, and stickers\n[*] The Accept Match popup will now show server information if latency is notably high\n[*] Fixed a bug where ping calculations were incorrect in Sydney which resulted in players connecting to distant data centers\n[*] Added a list of nearest official datacenters under the \"Max Acceptable Matchmaking Ping\" setting\n[*] Fixed a bug where the Perfect World region selection popup wouldn't save the last selection state\n[*] Fixed the defuser not showing up on the scoreboard\n[/list]",
+        "commentcount": 211,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1697242176_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "6993585599477373845",
+        "event_gid": "6688466724230034495",
+        "voteupcount": 1433,
+        "votedowncount": 204,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "6688466724226140707",
         "clanid": "3381077",
         "posterid": "76561199526219225",
