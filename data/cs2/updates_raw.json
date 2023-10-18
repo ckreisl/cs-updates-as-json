@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3717217413224276645",
+        "clanid": "3381077",
+        "posterid": "76561199087803912",
+        "headline": "Release Notes for 10/17/2023",
+        "posttime": 1697582668,
+        "updatetime": 1697582668,
+        "body": "[ GAMEPLAY ]\n[list]\n[*] Command aliases now leverage subtick accuracy\n[/list]\n[ SOUND ]\n[list]\n[*] New sound for final 10 seconds of bomb beeping\n[*] Added missing KSK agent voice\n[*] Reduced falloff distance of knife impact and swish sounds\n[*] Various tweaks and bug fixes around occlusion filters and footstep clarity\n[/list]\n[ MISC ]\n[list]\n[*] Fixed missing gamestate integration data regarding flashbangs and damage stats\n[*] Fixed a bug where a defused bomb would block the player from swapping to a gun dropped close by\n[*] Fixed some cases where players could peek through ceilings\n[*] Convar cl_draw_only_deathnotices now blocks match status alerts such as LAST ROUND OF FIRST HALF.\n[*] Added a game server command sv_load_forced_client_names_file. Running tournament servers with +sv_load_forced_client_names_file namesfile.txt allows loading a key-values file where client names are enforced to be the tournament registered player names.\n[*] Added an additional fallback path for game clients to download network configuration.\n[*] Added a game setting cq_netgraph_problem_show_auto that allows players to enable automatic display of network connection issues in top right corner of game HUD.\n[/list]",
+        "commentcount": 218,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1400414058_1697584233_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3872591600367512417",
+        "event_gid": "3717217413224276644",
+        "voteupcount": 1064,
+        "votedowncount": 119,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "6688466724230034496",
         "clanid": "3381077",
         "posterid": "76561199526219225",
