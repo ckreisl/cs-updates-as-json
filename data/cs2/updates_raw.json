@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3717217413231124447",
+        "clanid": "3381077",
+        "posterid": "76561199087803912",
+        "headline": "Release Notes for 10/19/2023",
+        "posttime": 1697746393,
+        "updatetime": 1697746393,
+        "body": "[list]\n[*] Added a startup check for incompatible AMD graphics drivers. We will now begin reversing VAC bans for affected players\n[*] Fixed a bug in Windows 11 Auto HDR that led to smokes intermittently disappearing\n[*] Miscellaneous bug fixes\n[/list]",
+        "commentcount": 264,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487997664_1697750676_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3872591600374483726",
+        "event_gid": "3717217413231124446",
+        "voteupcount": 1480,
+        "votedowncount": 179,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3717217413224276645",
         "clanid": "3381077",
         "posterid": "76561199087803912",
