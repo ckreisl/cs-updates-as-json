@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3717217413234419518",
+        "clanid": "3381077",
+        "posterid": "76561197984981409",
+        "headline": "Release Notes for 10/20/2023",
+        "posttime": 1697825172,
+        "updatetime": 1697825172,
+        "body": "[list]\n[*] Added more client information to the screen timestamp label to help investigate reported issues. \n[*] Fixed rendering issue related to GPU UltraWide+ feature. \n[*] Stability improvements.\n[/list]",
+        "commentcount": 273,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1400956464_1697827228_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3872591600377837393",
+        "event_gid": "3717217413234419517",
+        "voteupcount": 1884,
+        "votedowncount": 233,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3717217413231124447",
         "clanid": "3381077",
         "posterid": "76561199087803912",
