@@ -1,5 +1,29 @@
 [
     {
+        "gid": "3714966246894384413",
+        "clanid": "3381077",
+        "posterid": "76561199087803912",
+        "headline": "Release Notes for 10/25/2023",
+        "posttime": 1698268955,
+        "updatetime": 1698269804,
+        "body": "[ MAPS ]\nVarious bug fixes and tweaks:\n[list]\n[*] Inferno\n[list]\n[*] Improved bomb visibility when planted in fountain on bombsite B\n[*] Improved grenade bounce behavior on roof and stone models to make it more predictable\n[*] Removed part of railing on balcony\n[*] Adjusted garage door on bombsite A to improve player readability and clipping\n[*] Fixed lighting bug on Inferno workshop map\n[*] Fixed various micro-gaps\n[*] Overall clipping / movement polish\n[/list]\n[*] Overpass\n[list]\n[*] Removed or tweaked models and textures to improve player readability\n[*] Adjusted lighting in certain areas to improve player readability\n[*] Adjusted grenade clipping in various areas\n[/list]\n[*] Nuke\n[list]\n[*] Fixed clipping on ramp room doorway tread plates to prevent erroneous grenade bounces\n[*] Fixed collision on doorways from ramp to bombsite B to be more accurate\n[*] Improved player readability against container on bombsite B\n[*] Fixed some cases where players clipped through garage door at lobby\n[*] Removed dynamic light at squeaky to prevent shadows giving away player position through doorway\n[*] Fixed various holes in world\n[*] Overall clipping / movement polish\n[/list]\n[*] Dust2\n[list]\n[*] Fixed micro-cracks in crate models\n[/list]\n[*] Anubis\n[list]\n[*] Adjusted grenade clipping in and around bombsite B to prevent grenades getting stuck in tight spots\n[*] Fixed multiple cases where dropped weapons clipped through world geometry\n[*] Fixed multiple holes and cracks in world.\n[*] Fixed missing collision on geometry where c4 could be thrown out of the map\n[*] Clipped multiple areas where players could stack, providing an unfair vantage point\n[*] Fixed lightmap issues around CT spawn water\n[*] Improved player readability in mid\n[*] Improved CT team intro position\n[*] Overall clipping / movement polish\n[/list]\n[*] Office\n[list]\n[*] Improved player readability at CT spawn around swat van\n[*] Fixed gaps in some cubemaps which were causing lighting issues\n[*] Fixed some lighting artifacts on crates at low settings\n[*] Disabled motion on vending machine\n[*] Overall clipping / movement polish\n[/list]\n[*] Vertigo\n[list]\n[*] Fixed ladder collision blocking bullets and grenades\n[*] Fixed steel beams having incorrect surface property\n[*] Overall clipping / movement polish\n[/list]\n[*] Mirage\n[list]\n[*] Fixed various bullet penetration issues\n[*] Overall clipping / movement polish\n[/list]\n[*] Ancient\n[list]\n[*] Made fog adjustments to improve player readability\n[*] Fixed micro-cracks in crate models\n[*] Fixed multiple holes and cracks in the world\n[*] Made visibility adjustments to donut area\n[*] Fixed bullet penetration issues through wood panels near bombsite B\n[*] Fixed material properties on some tarp models\n[*] Overall clipping / movement polish\n[/list]\n[/list]\n[ MISC ]\n[list]\n[*] Fixed some cases where weapons could fall out of the world\n[*] Fixed a bug where Molotov self damage could be incorrectly penalized as team damage\n[*] Improved performance for muzzle flashes and HE grenade effects\n[*] Various bug fixes and tweaks to weapon finishes and stickers\n[*] Added code to correct packets that arrive out of order in quick succession.  These packets were showing up as loss in the net graph.\n[*] Fixed a bug where SDR routing could sometimes choose the second-best route when immediately connecting, and then stick to that route for too long.\n[/list]",
+        "commentcount": 610,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1400956464_1698269370_0",
+            "ModAct_1400956464_1698270327_4"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3884977132827741116",
+        "event_gid": "3714966246894384412",
+        "voteupcount": 3565,
+        "votedowncount": 478,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3717217413234419518",
         "clanid": "3381077",
         "posterid": "76561197984981409",
