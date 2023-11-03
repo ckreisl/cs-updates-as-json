@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3787024475483078457",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 11/2/2023",
+        "posttime": 1698967829,
+        "updatetime": 1698967829,
+        "body": "[ WORKSHOP ]\n[list][*] Enabled uploading CS2 maps to the workshop\n[*] Community Servers can host workshop maps\n[*] Added paint metalness and roughness by color features to Solid Color, Hydrographic, and Spray-Paint finishes in the Item Editor\n[*] Added option to toggle \"Automatic PBR Color Correction\" to all sticker types in Item Editor\n[*] Various Item Editor help system updates including \"mat_fullbright 10\" to test PBR\n[*] Various updates to workshop tools[/list]\n[ GAMEPLAY ]\n[list]\n[*] Fixed a case where user commands would be ignored in poor network conditions\n[*] Fixed a case where weapons would fire faster than intended\n[*] Fixed a case where clients would show multiple gunshots for one actual shot\n[*] Fixed a case where players would fail to keep their weapons between rounds of overtime\n[*] Fixed some instances of dropped weapons falling out of the gameplay space\n[*] In firstperson, dead players will now see their own ragdoll at the server-authoritative lag-compensated position of their demise\n[*] Decoy grenades interact aesthetically with smoke clouds\n[*] Smoke grenades now have a minimum fuse duration to prevent smokes from prematurely detonating if stuck in crevices\n[*] Players now ignore individual damage events dealing less than one point of damage\n[*] Knife attacks will now prioritize enemies and will only hit teammates if there are no enemies in range\n[*] Knife attacks no longer predict damage effects or sounds on the client\n[*] Knife attack immediately after switching to a knife will always deal full damage amount\n[*] For a given map location, eye height is now consistent regardless of how the player arrived\n[/list]\n[ MAPS ][list]\n[*] INFERNO\n[list]\n[*] Fixed clipping in various areas\n[*] Fixed various microgaps\n[*] Fixed disappearing meshes in skybox\n[*] Removed birds that got mistaken for grenades\n[/list][/list]\n[ SERVERS ][list]\n[*] Added sv_maxuptimelimit setting to request server shutdown after certain number of uptime hours.\n[*] Support -sv_maxuptimelimit command line parameter to randomly select uptime limit per instance within a range, e.g. \"-sv_maxuptimelimit 48-72\" command line parameter will request game server instance to self-shutdown somewhere between 48 and 72 hours by issuing \"sv_shutdown\" command on the game server.\n[*] Added game server startup timing log records.\n[*] Game servers will now print global chat messages when players acknowledge newly acquired items while connected to the game server.\n[*] Fixed a bug showing 100% packet loss immediately after connection\n[*] Fixed a bug where scoreboard ping could get stuck at a value lower than the real ping\n[/list]\n[ MISC ]\n[list][*] Improved rendering of stickers\n[*] Added wins and wins-needed to Competitive Play Menu map tiles\n[*] Fixed various minor HUD bugs\n[*] Fixed various skins and sticker bugs\n[*] Fixed various bugs with item inspection UI\n[*] Fixed a skinning issue with Trapper Aggressor agent's legs\n[*] Improved performance of player animations on client and server\n[*] Smoke grenade canister changed to chrome material\n[*] \"Boost Player Contrast\" no longer applies to dead players\n[*] Adjusted microphone voice threshold value[/list]",
+        "commentcount": 231,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415588329_1698969251_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3939020962912241389",
+        "event_gid": "3787024475483078456",
+        "voteupcount": 1630,
+        "votedowncount": 107,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3714966246894384413",
         "clanid": "3381077",
         "posterid": "76561199087803912",
