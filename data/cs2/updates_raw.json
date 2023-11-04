@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3787024475486747510",
+        "clanid": "3381077",
+        "posterid": "76561199087803912",
+        "headline": "Release Notes for 11/3/2023",
+        "posttime": 1699055104,
+        "updatetime": 1699055104,
+        "body": "[list]\n[*] Updated Redemption UI to show remaining time before weekly rollover\n[*] Competitive Rating will now be updated after returning to main menu from a win\n[*] Added notice to end of match for when CS Rating had been adjusted midmatch (e.g. due to the outcome of a match that the player was kicked from or abandoned, or recovering lost points from playing against a cheater)\n[*] Various bug fixes and tweaks\n[/list]",
+        "commentcount": 198,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1699055341_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3939020962915963019",
+        "event_gid": "3787024475486747509",
+        "voteupcount": 1445,
+        "votedowncount": 154,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3787024475483078457",
         "clanid": "3381077",
         "posterid": "76561197971400048",
