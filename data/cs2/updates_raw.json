@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3800535912282829074",
+        "clanid": "3381077",
+        "posterid": "76561197960423941",
+        "headline": "Release Notes for 11/8/2023",
+        "posttime": 1699497143,
+        "updatetime": 1699497143,
+        "body": "[ GAMEPLAY ]\n[list]\n[*]The visual and audio feedback from sub-tick input\u2014such as movement acceleration and muzzle flashes\u2014will now always render on the next frame\n[*]Random numbers used for shooting spread are now synchronized between clients and servers by default. This makes tracers and decals match their server-authoritative trajectories more closely. Note: Spread has been synchronized on Valve official servers since 10/14\n[*]Fixed a bug where pressing a movement key immediately after jumping resulted in an inconsistent jump height\n[/list]\n\n[ MATCHMAKING ]\n[list]\n[*]Parties of four are now able to queue for Premier mode\n[*]Added vote-kick immunity for solo players who get matched on the same team with a party of four players\n[*]Adjusted the algorithm for re-establishing CS Rating after a period of inactivity in Premier mode\n[/list]\n\n[ AUDIO ]\n[list]\n[*]Reduced the maximum audible distance of grenade bounce sounds\n[*]Improved occlusion filter quality\n[*]Addressed issue where sometimes headshot dink sounds playing as feedback for the attacker could be mistaken for incoming damage\n[*]Lowered volume of sound for headshot damage with no armor from a victims perspective to bring it inline with volume of other headshot sounds\n[*]Changed jump land sounds to have the same maximum audible distance as footstep sounds\n[*]Changed volume falloff curve of jump landing sounds to better convey distance\n[*]Improved molotov extinguish effects to sound better when multiple are playing at once\n[*]Brought back spark sound feedback when bomb defuse is cut short due to player spinning\n[*]Fixed issue where at very close proximity, a victims death groan could be mistaken as coming from the attacker\n[*]Fixed a case where unsilenced m4a1-s did not have any distant gunfire sounds\n[/list]\n\n[ MAPS ]\n\nMirage\n[list]\n[*]Fixed clipping on bench in palace\n[*]Lowered the height of box on A site to match CS:GO\n[/list]\n\n[ EFFECTS ]\n[list]\n[*]Improved performance of blood effects at close range\n[*]Improved bomb light visibility from back of bomb\n[*]Reduced muzzle flash during quickswitch from scoped rifles\n[*]Reduced the strength of the kill streak HUD effect after five kills\n[/list]\n\n[ CSTV ]\n[list]\n[*]Added setting \"tv_record_immediate\" to control when CSTV demo file will start recording content. If the setting is enabled then content will start at the moment when tv_record is executed on the server. If the setting is disabled then content will start recording from tv_delay earlier\n[*]CSTV demos can now be recorded without delayed CSTV spectating enabled. Requires setting \"tv_record_immediate 1\" and executing \"tv_record\" at the moment when recording should start\n[/list]\n\n[ MISC ]\n[list]\n[*]Adjusted wear values of some stickers to better match CS:GO\n[*]Fixed a bug with workshop tools that would prevent light_environment from baking static shadows in some circumstances\n[*]Improved quality of 'Performance' HDR rendering mode\n[*]Enabling the upload of workshop maps for Wingman mode\n[/list]",
+        "commentcount": 155,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1699498917_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3952532399698479629",
+        "event_gid": "3800535912282829073",
+        "voteupcount": 789,
+        "votedowncount": 38,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3787024475486747510",
         "clanid": "3381077",
         "posterid": "76561199087803912",
