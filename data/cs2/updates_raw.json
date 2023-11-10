@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3800535912286515302",
+        "clanid": "3381077",
+        "posterid": "76561197984981409",
+        "headline": "Release Notes for 11/9/2023",
+        "posttime": 1699580680,
+        "updatetime": 1699580680,
+        "body": "[ MISC ]\n[list]\n[*]Added support for accepting game invites and party invites from Steam Chat and Steam Overlay.\n[*]Added an execution delay for certain commands that can be specified on command line to be deferred until main menu fully loads (e.g. econ action preview commands, match download commands, playdemo, and similar).\n[*]Fixed a bug that caused game events to not appear in CSTV demos recorded in tv_record_immediate mode.\n[*]CSTV auto record now requires either an active CSTV server or tv_record_immediate to be enabled.\n[*]Performance optimizations in game server demo recording code.\n[/list]",
+        "commentcount": 99,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1699582019_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3952532399702036368",
+        "event_gid": "3800535912286515301",
+        "voteupcount": 494,
+        "votedowncount": 47,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3800535912282829074",
         "clanid": "3381077",
         "posterid": "76561197960423941",
