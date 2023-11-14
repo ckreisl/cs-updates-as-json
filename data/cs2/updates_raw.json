@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3800535912300710622",
+        "clanid": "3381077",
+        "posterid": "76561199569812632",
+        "headline": "Release Notes for 11/13/2023",
+        "posttime": 1699920626,
+        "updatetime": 1699920626,
+        "body": "[ GAMEPLAY ]\n[list]\n[*]Fixed a bug where collision between players was sometimes causing players to step up\n[*]Fixed a bug where players could slide up walls in Mirage mid\n[*]Fixed a movement systems bug where players could get stuck on geometry\n[*]Fixed a bug that prevented \"Zoom Button Hold: Repeat Disabled\" from working correctly\n[*]Fixed a case where switching weapons immediately after shooting would result in the shot not registering on the server\n[*]Fixed a case where players could shoot during freeze time at the ends of warmup, halves, and matches\n[/list]",
+        "commentcount": 171,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487791598_1699921850_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "3952532945654312913",
+        "event_gid": "3800535912300710621",
+        "voteupcount": 819,
+        "votedowncount": 105,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3800535912286515302",
         "clanid": "3381077",
         "posterid": "76561197984981409",
