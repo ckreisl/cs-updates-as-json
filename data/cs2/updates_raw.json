@@ -1,5 +1,28 @@
 [
     {
+        "gid": "5484883079143170846",
+        "clanid": "3381077",
+        "posterid": "76561199569812632",
+        "headline": "Release Notes for 11/17/2023",
+        "posttime": 1700265007,
+        "updatetime": 1700265007,
+        "body": "[list]\n[*]Fixed a few minor sub-tick input bugs\n[*]Fixed a bug with first person animation in bot takeover\n[*]Fixed a bug where dropped/thrown weapons had too much velocity\n[*]Fixed a case where players could push their view through low ceilings\n[*]Fixed an exploit that would allow players to teleport\n[*]de_overpass: Various tweaks and bug fixes\n[*]de_anubis: Fixed potential pixel gap exploit at A-site and plugged hole near t-spawn where bomb could be thrown out of world\n[/list]",
+        "commentcount": 184,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415588329_1700265691_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "7342617747183884332",
+        "event_gid": "5484883079143170845",
+        "voteupcount": 1322,
+        "votedowncount": 134,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "5484882897551373887",
         "clanid": "3381077",
         "posterid": "76561197960423941",
