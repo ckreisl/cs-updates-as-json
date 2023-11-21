@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3870342884087717431",
+        "clanid": "3381077",
+        "posterid": "76561197960423941",
+        "headline": "Release Notes for 11/20/2023",
+        "posttime": 1700525724,
+        "updatetime": 1700525724,
+        "body": "[ MISC ]\n[list]\n[*]Fixed silencer attach and detach animations\n[*]Fixed a bug that prevented refunding the Bizon\n[*]Fixed a bug where players could respawn into a bad state during reconnect\n[*]Fixed a bug where ramps were not correctly reducing fall damage\n[*]Fixed a case where sub-tick movement timestamps were temporarily incorrect after changing host_timescale\n[*]Various fixes and improvements to de_ancient\n[/list]",
+        "commentcount": 200,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415727794_1700527830_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4039227870114132767",
+        "event_gid": "3870342884087717430",
+        "voteupcount": 845,
+        "votedowncount": 135,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "5484883079143170846",
         "clanid": "3381077",
         "posterid": "76561199569812632",
