@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3870343609910754250",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 11/30/2023",
+        "posttime": 1701388623,
+        "updatetime": 1701388623,
+        "body": "[ GAMEPLAY ]\n[list]\n[*]Sub-tick timing improvements to various systems including grenade throw animations and revolver firing\n[*]Added a missing fire effect to molotovs that are held by players\n[/list]\n\n[ ANIMATION ]\n[list]\n[*]Reduced the amount that player characters will rotate their torso away from leg orientation\n[*]Improved hit reactions\n[*]Made jump animations directional\n[*]Improved character posing when aiming up and down\n[*]Improved foot placement and posing when running\n[*]Reduced animation posing when deploying\n[*]The timing of a players flashbanged posing now more accurately represents the player's ability to see\n[/list]\n\n[ SOUND ]\n[list]\n[*]Fixed issue with Shadow Daggers playing catch sound during looping inspect animation\n[*]Further refined falloff distance curves and volume of grenade bounces\n[*]Lowered volume of deathmatch bonus period ending\n[*]Lowered volume of lobby chat notification sound\n[*]Fixed missing water drip console errors in Office\n[*]Increased audible distance of breaking glass window sounds\n[*]Fixed an issue where sometimes a Sabre agent would say hostage related lines when cheering\n[/list]\n\n[ MISC ]\n[list]\n[*]Adjusted wear values of most tournament stickers and many other stickers to better match CS:GO\n[*]Changed handling of non-default console key bindings to match CS:GO behavior\n[/list]\n\n[ MAPS ]\n\n[i]Nuke:[/i][list]\n[*]Fixed cubemap issue at Lobby\n[*]Fixed hole at B-site\n[*]Fixed some holes at Ramp Room\n[*]Fixed glass floor material at B-Site not having impact effects\n[*]Fixed up footstep sounds on hazard stripes\n[*]Attempt to fix light leaking through base of doors at B-site\n[*]Brightened red interior walls to help with agent vis\n[*]Fixed pixel boost on chainlink fence outside\n[*]Fix shadows leaking through double doors at B-site\n[*]Made cubemap transitions smoother in some places at b-site\n[/list]\n[i]Mirage:[/i][list]\n[*]Fixed clipping on van at Truck\n[*]Clipped fridge in Apartments to prevent player becoming stuck\n[*]Adjusted bombsite A size and added visual boundaries\n[*]Fixed collision on Scaffolding to provide smooth movement\n[*]Fixed geometry and clipping outside Sniper's Nest to prevent pixel walking\n[/list]\n[i]Office:[/i][list]\n[*]Improved clipping around desks at t-spawn\n[*]Improved clipping on crates at Back Courtyard\n[*]Re-added collision to handrails\n[/list]\n[i]Vertigo:[/i][list]\n[*]Extended staircase and added grenade clip to stairs at near t-spawn to prevent grenades becoming wedged in gap\n[*]Fixed clipping on crate at mid\n[*]Fixed clipping on scaffold at back of A\n[*]Fixed clipping on scaffold at T-start\n[*]Fixed vis bug at A-ramp looking toward Bridge\n[*]Fixed grenade clip on support beam at A-ramp\n[*]Plugged Holes in insulation foam roll model\n[/list]\n[i]Anubis:[/i][list]\n[*]Fixed hole under pillar at A-site\n[*]Fixed clipping above walkway stairs in Palace\n[*]Closed up multiple microgaps throughout the map\n[*]Fixed some clipping on pillar at A-site\n[*]Fixed clipping on doorway at b-site\n[*]Plugged some micro holes\n[*]Fixed gap between two clip brushes that allowed bomb to be thrown on top of building\n[*]Fixed slight wall gap that allowed sniping into bombsite A\n[*]Fixed clipping on doorway at b-site\n[/list]\n[i]Ancient:[/i][list]\n[*]Fixed various gaps in the world\n[*]Fixed various texture seams\n[*]Closed gap that looks into Jaguar area\n[*]Adjusted clipping along fence near A-site\n[*]Adjusted clipping around tree base on A-site boost\n[*]Adjusted position of stone near B-site that player could crouch in\n[*]Added clipping to the top of the map to help minimize player exploits\n[/list]\n\n",
+        "commentcount": 426,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415588329_1701390947_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4039228595938362120",
+        "event_gid": "3870343609910754249",
+        "voteupcount": 2013,
+        "votedowncount": 292,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3870342884087717431",
         "clanid": "3381077",
         "posterid": "76561197960423941",
