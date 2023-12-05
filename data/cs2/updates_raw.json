@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3870343609924999533",
+        "clanid": "3381077",
+        "posterid": "76561197971400048",
+        "headline": "Release Notes for 12/4/2023",
+        "posttime": 1701728545,
+        "updatetime": 1701728545,
+        "body": "[ GAMEPLAY ]\n[list]\n[*]Fixed a bug where grenade throw strength adjustments were sometimes delayed\n[*]Fixed a bug where attempting to switch to a grenade immediately after throwing it would cancel the throw\n[*]You can now get an intermediate strength grenade throw without a delay by pressing primary and secondary attack simultaneously\n[*]Fixed several cases of players sticking while sliding against geometry\n[*]Player pings will now be displayed in the player's color\n[/list]\n\n[ MISC ]\n[list]\n[*]Fixed \"Ace Round MVP\" calculation bug when teams had a different number of players\n[*]Fixed shorthanded bonus logic sometimes incorrectly accounting for kicked players\n[/list]",
+        "commentcount": 217,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415727794_1701730195_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4039229127170282924",
+        "event_gid": "3870343609924999532",
+        "voteupcount": 1053,
+        "votedowncount": 128,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3870343609910754250",
         "clanid": "3381077",
         "posterid": "76561197971400048",
