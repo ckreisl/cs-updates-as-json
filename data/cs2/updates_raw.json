@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3880477342183403265",
+        "clanid": "3381077",
+        "posterid": "76561199571358539",
+        "headline": "Release Notes for 12/6/2023",
+        "posttime": 1701910764,
+        "updatetime": 1701910764,
+        "body": "[ GAMEPLAY ]\n[list]\n[*]Fixed an issue where the player's shadow would sometimes show the incorrect animation state\n[*]Weapon switching after releasing the fire button(s) will no longer cancel grenade throws (but round restart will)\n[*]Various animation system optimizations\n[*]Various minor bug fixes to demo playback\n[/list]\n[ UI ]\n[list]\n[*]Fixed a bug where starting pistols weren't showing in the Pistols tab of the Equipment view\n[*]Fixed an issue where silencers would not be shown on weapons when held by characters in the UI\n[/list]\n[ MAPS ]\n[i]Mirage:[/i][list]\n[*]Fixed a gap under the door at Middle\n[/list]\n[i]Anubis:[/i][list]\n[*]Added a grenade clip to the wall at Bridge\n[/list]\n[i]Vertigo:[/i][list]\n[*]Changed the collision properties on railings to emit the correct footstep sounds\n[/list]\n[i]Nuke:[/i][list]\n[*]Fix for the sun material not blooming and adjusted the size of the material\n[*]Cleaned up redundant skins on metal_door models to prevent workshop mappers hitting fatal errors for missing assets\n[*]Fixed a visibility bug at Garage when looking towards Hell\n[*]Changed the collision properties on railings to emit the correct footstep sounds\n[/list]\n[i]Inferno:[/i][list]\n[*]Changed the collision properties on railings to emit the correct footstep sounds\n[*]Fixed an issue where some chimney models would disappear in the skybox\n[/list]\n[i]Dust2:[/i][list]\n[*]Changed the collision properties on railings to emit the correct footstep sounds\n[/list]",
+        "commentcount": 163,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1701916360_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4032473829607244959",
+        "event_gid": "3880477342183403264",
+        "voteupcount": 707,
+        "votedowncount": 101,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3870343609924999533",
         "clanid": "3381077",
         "posterid": "76561197971400048",
