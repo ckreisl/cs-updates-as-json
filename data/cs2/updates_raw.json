@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3880477525897386182",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 12/7/2023",
+        "posttime": 1701993140,
+        "updatetime": 1701993140,
+        "body": "[ GAMEPLAY ]\n[list]\n[*] Fixed a bug where explicit weapon switches right after grenade throws were delayed slightly\n[/list]\n[ MAPS ]\n\n[i]Inferno:[/i][list]\n[*] Fixed a bug where you could plant C4 in planter\n[/list]",
+        "commentcount": 144,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1701995086_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4032473829610750160",
+        "event_gid": "3880477525897386181",
+        "voteupcount": 633,
+        "votedowncount": 119,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3880477342183403265",
         "clanid": "3381077",
         "posterid": "76561199571358539",
