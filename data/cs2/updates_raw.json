@@ -1,5 +1,28 @@
 [
     {
+        "gid": "6107508076984030035",
+        "clanid": "3381077",
+        "posterid": "76561199273762413",
+        "headline": "Release Notes for 12/13/23",
+        "posttime": 1702514222,
+        "updatetime": 1702514222,
+        "body": "[ GAMEPLAY ]\n\n[list]\n[*] Added shell eject effects for shotguns\n[*] Dropped weapons caused by buy menu purchasing are now dropped below the buyer\n[/list]\n[ MISC ]\n\n[list]\n[*] Added all-new 2024 Service Medal which will be available starting January 1st\n[*] Fixed an issue that prevented some older demos from playing back\n[*] Fixed multiple exploits that allowed adding non-text data into UI labels\n[*] Added the ability to add a Friend by using their friend code\n[*] Added a lister for multiple lobby invites\n[*] Adjusted wear values of some community stickers to better match CS:GO\n[/list]\n[ MAPS ]\n\nOverpass\n[list]\n[*] Adjusted clipping to remove exploitable ledges and improve player movement\n[*] Fixed metal railing props that were generating incorrect footstep sounds\n[*] Adjusted positions of props and ledges to more accurately match falling damage from CS:GO\n[*] Fixed some places where players could get stuck\n[*] Adjusted some props and materials to improve character readability\n[*] Fixed some cases where weapons could be accidently dropped out of reach\n[*] Made some adjustments to props that were creating exploitable lines of sight\n[*] Various lighting and material adjustments\n[/list]\nAncient\n[list]\n[*] Adjusted grenade clipping volume at cave entrance\n[/list]",
+        "commentcount": 164,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1702514824_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "6647940033449188766",
+        "event_gid": "6107508076984030034",
+        "voteupcount": 866,
+        "votedowncount": 152,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3880477525897386182",
         "clanid": "3381077",
         "posterid": "76561199526219225",
