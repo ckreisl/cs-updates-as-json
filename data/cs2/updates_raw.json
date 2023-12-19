@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3869219147449033727",
+        "clanid": "3381077",
+        "posterid": "76561199571358539",
+        "headline": "Release Notes for 12/18/23",
+        "posttime": 1702946621,
+        "updatetime": 1702946621,
+        "body": "[ MISC ]\n[list]\n[*] Fixed cases where weapons and C4 could fall through the ground\n[*] Various bugfixes for stickers, weapon finishes, and gloves\n[/list]\n[ WORKSHOP ]\n[list]\n[*] Fixed inconsistent behavior with triggers when crouching in workshop maps\n[/list]\n[ MAPS ]\n[list]\n[*] [i]Italy, Nuke, Mirage, Inferno[/i]\n[list]\n[*] Changed some player collision surface types\n[/list]\n[*] [i]Inferno[/i]\n[list]\n[*] Fixed various gaps\n[/list]\n[/list]",
+        "commentcount": 186,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415727794_1702947330_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4034726810085361022",
+        "event_gid": "3869219147449033726",
+        "voteupcount": 655,
+        "votedowncount": 154,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "6107508076984030035",
         "clanid": "3381077",
         "posterid": "76561199273762413",
