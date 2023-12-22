@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3860212413416497619",
+        "clanid": "3381077",
+        "posterid": "76561199569812632",
+        "headline": "Release Notes for 12/21/2023",
+        "posttime": 1703201270,
+        "updatetime": 1703201270,
+        "body": "[ MISC ]\n[list]\n[*]Fixed a case where players could refund a grenade for a brief period after it was thrown\n[/list]",
+        "commentcount": 189,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415588329_1703202413_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4031349199258800158",
+        "event_gid": "3860212413416497618",
+        "voteupcount": 695,
+        "votedowncount": 142,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3869219147449033727",
         "clanid": "3381077",
         "posterid": "76561199571358539",
