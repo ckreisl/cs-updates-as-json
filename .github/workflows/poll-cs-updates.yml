@@ -23,10 +23,11 @@ jobs:
       - run: pip install -r requirements-workflow.txt
       - run: python update.py
       - run: |
+          git add --all images/
           if git diff --quiet; then
             exit 0
           fi
           git config --global user.name 'Christoph Kreisl'
           git config --global user.email ${{ secrets.EMAIL_ADDRESS }}
-          git commit -a -m 'Auto update data'
+          git commit --all --message='Auto update data'
           git push
