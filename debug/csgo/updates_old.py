@@ -1,7 +1,9 @@
-import re
-import requests
-import json
+from __future__ import annotations
 
+import json
+import re
+
+import requests
 from bs4 import BeautifulSoup
 
 
@@ -21,7 +23,7 @@ def main() -> int:
 
     while True:
         print(url)
-        
+
         r = requests.get(url)
         soup = BeautifulSoup(r.text, features='html.parser')
 
@@ -47,7 +49,7 @@ def main() -> int:
             posts.append({"id": post_id,
                           "timestamp": date_str,
                           "link": post_link,
-                          "entry": post_entry_text })
+                          "entry": post_entry_text})
 
         try:
             url = more['href']

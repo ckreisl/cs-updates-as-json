@@ -1,10 +1,10 @@
 from __future__ import annotations
 
 import json
-import requests
 import logging
-
 from pathlib import Path
+
+import requests
 
 
 class CounterStrike2Updates:
@@ -45,7 +45,8 @@ class CounterStrike2Updates:
         response = requests.get(self.url)
 
         if not response.ok:
-            raise Exception(f'Could not fetch data received response code={response.status_code}')
+            raise Exception(
+                f'Could not fetch data received response code={response.status_code}')
 
         data = json.loads(response.text)
 
@@ -58,13 +59,14 @@ class CounterStrike2Updates:
         if only_cs2:
             self.__data = list(
                 filter(lambda x: x['posttime'] >= self.__initial_epoch_time,
-                self.__data))
+                       self.__data))
 
         logging.info("Done.")
         return self
 
     def save(self, filename: str = 'updates_raw.json') -> None:
-        target_dir = Path(__file__).parent.parent.parent / 'data' / 'cs2' / filename
+        target_dir = Path(__file__).parent.parent.parent / \
+            'data' / 'cs2' / filename
         target_dir = target_dir.with_suffix('.json')
 
         with open(target_dir, 'w', encoding='utf-8') as fp:
@@ -72,7 +74,8 @@ class CounterStrike2Updates:
 
 
 def main() -> int:
-    logging.basicConfig(format='[%(levelname)s] %(message)s', level=logging.INFO)
+    logging.basicConfig(
+        format='[%(levelname)s] %(message)s', level=logging.INFO)
     CounterStrike2Updates().crawl().save()
     return 0
 

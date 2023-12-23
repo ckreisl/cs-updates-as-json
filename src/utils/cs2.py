@@ -1,5 +1,7 @@
-from datetime import datetime
+from __future__ import annotations
+
 from datetime import date
+from datetime import datetime
 
 from src.utils.utils import Utils
 
@@ -20,7 +22,7 @@ class CS2DataUtils(Utils):
             res[f"{post_date.year}"] += 1
 
         return res
-    
+
     @staticmethod
     def updates_per_month_of_year(data: dict, year: int) -> dict:
 

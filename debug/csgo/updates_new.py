@@ -1,9 +1,11 @@
-import json
-import requests
-import hashlib
+from __future__ import annotations
 
-from bs4 import BeautifulSoup
+import hashlib
+import json
 from datetime import datetime
+
+import requests
+from bs4 import BeautifulSoup
 
 
 NEW_NEWS_URL = "https://blog.counter-strike.net/index.php/category/updates/page/1/"
@@ -32,8 +34,8 @@ def main() -> int:
         for entry in entries:
             date_str = entry.find("p", {"class": "post_date"}).text
             date_str = date_str[:10]
-            #date = datetime.strptime(date_str, "%d %b, %Y")
-            #2014.01.23
+            # date = datetime.strptime(date_str, "%d %b, %Y")
+            # 2014.01.23
             date = datetime.strptime(date_str, "%Y.%m.%d")
             date_str = date.strftime("%d %b, %Y")
 

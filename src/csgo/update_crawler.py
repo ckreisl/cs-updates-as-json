@@ -1,12 +1,14 @@
-import re
-import json
-import requests
-import logging
-import hashlib
+from __future__ import annotations
 
-from bs4 import BeautifulSoup
+import hashlib
+import json
+import logging
+import re
 from datetime import datetime
 from pathlib import Path
+
+import requests
+from bs4 import BeautifulSoup
 
 
 class CSGOUpdateCrawler:
@@ -55,7 +57,7 @@ class CSGOUpdateCrawler:
                     "id": post_id,
                     "timestamp": post_date,
                     "link": post_link,
-                    "entry": post_content })
+                    "entry": post_content})
 
             try:
                 url = more['href']
@@ -77,7 +79,7 @@ class CSGOUpdateCrawler:
             logging.info(url)
             response = requests.get(url)
             soup = BeautifulSoup(response.text, features='html.parser')
-            
+
             posts = soup.find_all("div", {"class": "inner_post"})
 
             for post in posts:
@@ -128,7 +130,8 @@ class CSGOUpdateCrawler:
 
         post_date = latest_post.find("p", {"class": "post_date"}).text
         post_date = post_date[:10]
-        post_date_str = datetime.strptime(post_date, "%Y.%m.%d").strftime("%d %b, %Y")
+        post_date_str = datetime.strptime(
+            post_date, "%Y.%m.%d").strftime("%d %b, %Y")
         post_title = latest_post.find("h2")
         post_link = post_title.find("a")['href']
         post_id = hashlib.sha256(post_date_str.encode())
@@ -149,19 +152,21 @@ class CSGOUpdateCrawler:
         return res
 
     def save(self, filename: str = "updates_combined_raw.json") -> None:
-        targetdir = Path(__file__).parent.parent.parent / 'data' / 'csgo' / filename
+        targetdir = Path(__file__).parent.parent.parent / \
+            'data' / 'csgo' / filename
         targetdir = targetdir.with_suffix('.json')
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump([
                 *self.__updates_old,
                 *self.__updates_new
-                ], f, indent=4)
+            ], f, indent=4)
 
 
 def main() -> int:
-    logging.basicConfig(format='[%(levelname)s] %(message)s', level=logging.INFO)
+    logging.basicConfig(
+        format='[%(levelname)s] %(message)s', level=logging.INFO)
 
-    c = CSGOUpdateCrawler()    
+    c = CSGOUpdateCrawler()
     c.crawl_all()
     c.save()
 

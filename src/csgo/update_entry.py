@@ -1,4 +1,4 @@
-import logging
+from __future__ import annotations
 
 from datetime import datetime
 
@@ -17,7 +17,7 @@ class Entry:
             self.__tags = obj['tags']
         except KeyError:
             self.__tags = []
-        
+
         try:
             self.__chars = obj['chars']
         except KeyError:
@@ -54,7 +54,7 @@ class Entry:
     @property
     def datetime(self) -> datetime:
         return datetime.strptime(self.timestamp, "%d %b, %Y")
-    
+
     @property
     def chars(self) -> int:
         return self.__chars

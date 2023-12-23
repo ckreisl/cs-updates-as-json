@@ -1,5 +1,8 @@
-import pytest
+from __future__ import annotations
+
 import json
+
+import pytest
 
 from src.utils.csgo import CSGODataUtils
 
@@ -21,8 +24,8 @@ def data() -> dict:
             "entry": "\nRelease Notes for 1/13/2020\n2020.01.13   - \n[ MISC ]\n\u2013 Fixed Operation Shattered Web sometimes not appearing on main menu player profiles.\n\u2013 Added an experimental search bar allowing users to find and purchase any specific coupon item in game.\n\u2013 Guardian encouragement voice radio lines will no longer play when there are enemies still alive.\n\u2013 Fixed a regression with Storage Units in Perfect World version of the game.\n\u2013 Fixed a UI bug when activating some Bonus Rank XP items.\n[ MAPS ]\n\u2013 Studio has been updated with the latest changes from Steam Workshop:\n\u2014 Middle has had a complete re-design.\n\u2014 CT / T streets have been reduced in size.\n\u2014 CT Spawn have been reduced in size.\n\u2014 B Upper have been reduced in size.\n\u2014 T Spawn alley has been removed.\n\u2014 B connectors to middle have been updated.\n\u2014 3D Skybox has been updated.\n\u2014 T spawn geometry has received minor update.\n\u2014 B Site catwalk has been widened and updated for smoother gameplay when dropping into site.\n\u2014 B site cover has been changed to give player better colour callouts.\n\u2014 Updated soundscapes.\n\u2014 Removed the ability to throw weapons into unintended areas / out of map.\n\u2014 Fixed many community bug reports.\n\u2014 Improved clipping across the map.\n\nTweet\n \u00a0 \n\t\t\t\t\t\t\t\t\t\t\n\n",
             "tags": "misc,maps",
             "chars": 971
-        }]'''.encode('utf-8'))
-    
+        }]'''.encode())
+
 
 def test_csgo_updates_per_year(data):
     csgo_histogram = CSGODataUtils.updates_per_year(data)
@@ -46,7 +49,7 @@ def test_csgo_updates_tags_histogram(data):
     assert len(csgo_data) == 11
     assert csgo_data['maps'] == 2
     assert csgo_data['bug fixes'] == 1
-    
+
     with pytest.raises(KeyError):
         csgo_data['bug']
 

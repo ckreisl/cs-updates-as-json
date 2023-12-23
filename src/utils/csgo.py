@@ -1,8 +1,10 @@
-from datetime import datetime
-from datetime import date
+from __future__ import annotations
 
-from src.utils.utils import Utils
+from datetime import date
+from datetime import datetime
+
 from src.csgo.update_entry import Entry
+from src.utils.utils import Utils
 
 
 class CSGODataUtils(Utils):
@@ -21,7 +23,7 @@ class CSGODataUtils(Utils):
             res[f"{e.datetime.year}"] += 1
 
         return res
-    
+
     @staticmethod
     def updates_per_month_of_year(data: dict, year: int) -> dict:
 
@@ -41,7 +43,7 @@ class CSGODataUtils(Utils):
             res[month_name] += 1
 
         return res
-    
+
     @staticmethod
     def tags_histogram(data: dict) -> dict:
         res = {}

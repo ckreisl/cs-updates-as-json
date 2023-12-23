@@ -1,18 +1,20 @@
-import json
+from __future__ import annotations
 
-from pathlib import Path
+import json
 from datetime import datetime
+from pathlib import Path
+
 import matplotlib.pyplot as plt
 
+from src.cs2.update_crawler import CounterStrike2Updates
 from src.utils.cs2 import CS2DataUtils
 from src.utils.csgo import CSGODataUtils
-from src.cs2.update_crawler import CounterStrike2Updates
 
 
 def create_bar_chart(data: dict, title: str,
-                    xlabel: str, ylabel: str,
-                    filename: str,
-                    offset: float = 0.5) -> None:
+                     xlabel: str, ylabel: str,
+                     filename: str,
+                     offset: float = 0.5) -> None:
 
     x_value = list(data.values())
     y_value = list(data.keys())
@@ -22,7 +24,7 @@ def create_bar_chart(data: dict, title: str,
     ax.bar(y_value, x_value)
 
     for i in range(len(y_value)):
-        plt.text(i, x_value[i] + offset, x_value[i], ha = 'center')
+        plt.text(i, x_value[i] + offset, x_value[i], ha='center')
 
     ax.set_title(title)
     ax.set_xlabel(xlabel)
@@ -51,7 +53,8 @@ def update_charts(data: dict) -> None:
                      xlabel="years",
                      ylabel="# updates")
 
-    cs_updates_per_month = CSGODataUtils.updates_per_month_of_year(csgo_data, 2023)
+    cs_updates_per_month = CSGODataUtils.updates_per_month_of_year(
+        csgo_data, 2023)
 
     for month, udpates in CS2DataUtils.updates_per_month_of_year(data, 2023).items():
         cs_updates_per_month[month] += udpates
@@ -62,6 +65,7 @@ def update_charts(data: dict) -> None:
                      xlabel="months",
                      ylabel="# updates",
                      offset=0.05)
+
 
 def main() -> int:
     cs_latest_update = CounterStrike2Updates().crawl().latest
@@ -75,11 +79,13 @@ def main() -> int:
 
     if latest_saved_entry['posttime'] == cs_latest_update['posttime']:
         print("No new Counter-Strike update post!")
-        print(f"Date is the same {datetime.fromtimestamp(cs_latest_update['posttime'])}")
+        print(
+            f"Date is the same {datetime.fromtimestamp(cs_latest_update['posttime'])}")
         return 0
 
     print("New Counter-Strike update found ...")
-    print(f"Update data with new entry: {datetime.fromtimestamp(cs_latest_update['posttime'])}")
+    print(
+        f"Update data with new entry: {datetime.fromtimestamp(cs_latest_update['posttime'])}")
     data = [cs_latest_update] + data
 
     update_charts(data)
