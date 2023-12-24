@@ -56,3 +56,9 @@ A Github Action is enabled pulling the data twice a day to check whether an upda
 ## Examples
 ![CS:GO updates over the past years](images/cs_updates_per_year.png)
 ![Counter-Strike 2 updates in 2023](images/cs_updates_per_month.png)
+
+## Archive
+Contains updates per month of the previous years see:
+[Archive](images/archive/ARCHIVE.md)
+
+[![Create and archive monthly updates per year chart](https://github.com/ckreisl/cs-updates-as-json/actions/workflows/archive-prev-year.yaml/badge.svg)](https://github.com/ckreisl/cs-updates-as-json/actions/workflows/archive-prev-year.yaml)
