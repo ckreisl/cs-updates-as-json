@@ -27,5 +27,5 @@ jobs:
           git add --all images/
           if ! git commit --quiet --message='Archive yearly update chart'; then
             exit 0
-          if
+          fi
           git push
