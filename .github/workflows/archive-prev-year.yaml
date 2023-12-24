@@ -1,5 +1,5 @@
-name: Cron Job on January 1st
-run-name: Archive prev year update chart 📚
+name: Create and archive monthly updates per year chart
+run-name: Create and archive monthly updates per year chart 📚
 
 on:
   workflow_dispatch:
