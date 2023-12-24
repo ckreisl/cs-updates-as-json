@@ -1,14 +1,13 @@
-name: Poll Counter-Strike Updates
-run-name: Poll Counter-Strike Updates 🚀
+name: Cron Job on January 1st
+run-name: Archive prev year update chart 📚
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 4 * * *'
-    - cron: '0 16 * * *'
+    - cron: '30 23 31 12 *'
 
 jobs:
-  crawl-latest-csgo-update-data:
+  archive-cs-prev-year-as-chart:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
@@ -21,12 +20,10 @@ jobs:
           python-version: '3.10'
           cache: 'pip'
       - run: pip install -r requirements-workflow.txt
-      - run: python update.py --daily
+      - run: python update.py --yearly
       - run: |
-          if git diff --quiet; then
-            exit 0
-          fi
           git config --global user.name 'Christoph Kreisl'
           git config --global user.email ${{ secrets.EMAIL_ADDRESS }}
-          git commit --all --message='Auto update data'
+          git add --all images/
+          git commit --message='Archive yearly update chart'
           git push
