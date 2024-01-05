@@ -154,7 +154,7 @@ def main(args) -> int:
         f"Update data with new entry: {datetime.fromtimestamp(cs_latest_update['posttime'])}")
     data = [cs_latest_update] + data
 
-    update_charts(data=data, date=datetime.now().year)
+    update_charts(data=data, year=datetime.now().year)
 
     with open(data_filepath, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4)
