@@ -7,6 +7,7 @@ from pathlib import Path
 
 import matplotlib.pyplot as plt
 
+from src.cs2.update_crawler import CounterStrike2UpdateCrawler
 from src.cs2.update_crawler import CounterStrike2Updates
 from src.utils.cs2 import CS2DataUtils
 from src.utils.csgo import CSGODataUtils
@@ -128,36 +129,38 @@ def main(args) -> int:
 
     base_path = Path(__file__).parent / 'data' / 'cs2'
     data_filepath = base_path / "updates_raw.json"
-    with open(data_filepath, encoding='utf-8') as f:
-        data = json.load(f)
 
-    latest_saved_entry = data[0]
+    cs_updates_local = CounterStrike2Updates.load_from_json(data_filepath)
 
     if args.yearly:
         print(f"Archiving update chart from {args.yearly}")
-        archive_monthly_updates_chart(data=data, year=args.yearly)
+
+        archive_monthly_updates_chart(
+            data=cs_updates_local.updates,
+            year=args.yearly)
+
         return 0
 
     if not args.daily:
         print("Nothing todo ... provide args '--daily' or '--yearly'")
         return 0
 
-    cs_latest_update = CounterStrike2Updates().crawl().latest
-    if latest_saved_entry['posttime'] == cs_latest_update['posttime']:
+    cs_updates_latest = CounterStrike2UpdateCrawler().crawl(limit=1).latest
+    if cs_updates_local.latest.posttime == cs_updates_latest.posttime:
         print("No new Counter-Strike update post!")
         print(
-            f"Date is the same {datetime.fromtimestamp(cs_latest_update['posttime'])}")
+            f"Date is the same {cs_updates_latest.posttime_as_datetime}")
         return 0
 
     print("New Counter-Strike update found ...")
     print(
-        f"Update data with new entry: {datetime.fromtimestamp(cs_latest_update['posttime'])}")
-    data = [cs_latest_update] + data
+        f"Update data with new entry: {cs_updates_latest.posttime_as_datetime}")
 
-    update_charts(data=data, date=datetime.now().year)
+    cs_updates_local.add(cs_updates_latest)
 
-    with open(data_filepath, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=4)
+    update_charts(data=cs_updates_local.updates, year=datetime.now().year)
+
+    cs_updates_local.save()
 
     return 0
 
