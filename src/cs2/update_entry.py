@@ -1,11 +1,10 @@
 from __future__ import annotations
 
 from dataclasses import asdict
-from dataclasses import dataclass
 from datetime import datetime
+from typing import Any
 
 
-@dataclass
 class Entry:
     gid: str
     clanid: str
@@ -32,5 +31,5 @@ class Entry:
     def to_dict(self) -> dict:
         return asdict(self)
 
-    def __getitem__(self, key: str) -> str:
+    def __getitem__(self, key: str) -> Any:
         return self.to_dict()[key]
