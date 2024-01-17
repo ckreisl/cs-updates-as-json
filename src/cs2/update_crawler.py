@@ -81,6 +81,9 @@ class CounterStrike2Updates:
     def oldest(self) -> Entry:
         return self.__updates[-1]
 
+    def __len__(self) -> int:
+        return len(self.__updates)
+
     @classmethod
     def load_from_json(cls, filename: str = 'updates_raw.json') -> CounterStrike2Updates:
         with open(filename, encoding='utf-8') as fp:
