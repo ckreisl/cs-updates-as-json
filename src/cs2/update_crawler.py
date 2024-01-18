@@ -86,7 +86,12 @@ class CounterStrike2Updates:
 
     @classmethod
     def load_from_json(cls, filename: str = 'updates_raw.json') -> CounterStrike2Updates:
-        with open(filename, encoding='utf-8') as fp:
+
+        target_dir = Path(__file__).parent.parent.parent / \
+            'data' / 'cs2' / filename
+        target_dir = target_dir.with_suffix('.json')
+
+        with open(target_dir, encoding='utf-8') as fp:
             data = json.load(fp)
 
         updates = []
