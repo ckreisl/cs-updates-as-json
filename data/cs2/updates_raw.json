@@ -1,5 +1,28 @@
 [
     {
+        "gid": "3944657442700176946",
+        "clanid": "3381077",
+        "posterid": "76561199571358539",
+        "headline": "Release Notes for 1/18/2024",
+        "posttime": 1705621786,
+        "updatetime": 1705621786,
+        "body": "[ MAPS ]\n[i]Vertigo:[/i][list]\n[*]Fixed a gap in geometry\n[/list]\n",
+        "commentcount": 472,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415588329_1705622891_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4138312226663653853",
+        "event_gid": "3944657442700176945",
+        "voteupcount": 900,
+        "votedowncount": 787,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "3860212413466910114",
         "clanid": "3381077",
         "posterid": "76561199571358539",
