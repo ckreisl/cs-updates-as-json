@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4064004735507957800",
+        "clanid": "3381077",
+        "posterid": "76561199526219225",
+        "headline": "Release Notes for 2/7/2024",
+        "posttime": 1707350490,
+        "updatetime": 1707350490,
+        "body": "[ STICKERS ]\n[list]\n[*] Fixed a bug where AMD graphics users couldn't move stickers\n[*] Stickers with custom offsets will now render properly when inspecting other items in-game from Steam Community Market and Steam Inventory\n[/list]\n[ SMOKE ]\n[list]\n[*] Various bug fixes and tweaks\n[/list]\n[ SOUND ]\n[list]\n[*] Fixed a performance bug with certain microphone setups\n[/list]\n[ NETWORKING ]\n[list]\n[*] cl_interp can no longer be changed directly. Some players had scripts that were setting this to a large value, leading to very bad rubber-banding. The interpolation amount can be adjusted through the \"Buffering to smooth over packet loss\" setting instead\n[/list]\n[ ANIMATION ]\n[list]\n[*] Fixed a bug with the Kukri knife inspect animation\n[*] Fixed a bug where a player holding an incendiary grenade would sometimes show fire effects at their feet\n[/list]\n[ UI ]\n[list]\n[*] Removed XP Overload icon from the kill feed\n[*] The swap weapon prompt will now show the weapon/finish name rather than the custom name\n[*] Fixed a bug with switching background maps while inspecting gloves\n[/list]\n[ MAPS ]\n[list]\n[*] Vertigo:\n[list]\n[*] Fixed a gap in world geometry at Crane\n[/list][/list]\n[ MISC ]\n[list]\n[*] Fixed a bug with keyboard input from non-English keyboard layouts\n[*] Various crash fixes\n[/list]",
+        "commentcount": 164,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1707353707_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4211497623308846249",
+        "event_gid": "4064004735507957799",
+        "voteupcount": 1095,
+        "votedowncount": 94,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4064004264605234736",
         "clanid": "3381077",
         "posterid": "76561197971400048",
