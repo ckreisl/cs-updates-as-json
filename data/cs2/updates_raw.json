@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4064004735512120731",
+        "clanid": "3381077",
+        "posterid": "76561199571358539",
+        "headline": "Release Notes for 2/8/2024 Night",
+        "posttime": 1707445454,
+        "updatetime": 1707445454,
+        "body": "[ MISC ]\n[list]\n[*] Fixed a bug where some inputs were acting as if they were released prematurely\n[/list]",
+        "commentcount": 120,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1707447525_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4211497623312885259",
+        "event_gid": "4064004735512120730",
+        "voteupcount": 414,
+        "votedowncount": 36,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4064004735507957800",
         "clanid": "3381077",
         "posterid": "76561199526219225",
