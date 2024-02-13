@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4064004735526578074",
+        "clanid": "3381077",
+        "posterid": "76561197984981409",
+        "headline": "Release Notes for 2/12/2024",
+        "posttime": 1707790742,
+        "updatetime": 1707790742,
+        "body": "[ MISC ]\n[list]\n[*] Reconnecting to the game server will no longer get a player into a bad state.\n[*] Improved VOIP performance when running the game at very high framerates.\n[*] Fixed timings for some events in demo files representing start of the round.\n[*] Fixed ring artifacts that could appear on smoke particles.\n[*] Fixed some lobby teammates standing offscreen when the main menu scenery was set to Warehouse map.\n[*] Fixed storage units sometimes having a very small icon in inventory view.\n[*] Fixed a regression in items shuffling when matchmaking for Premier, Competitive, or Wingman.\n[*] Fixed spectator kill streak effects playing when switching to a player with 5 kills.\n[*] Fixed a regression with Butterfly Knife inspect sounds.\n[*] Added a catch sound for Kukri knife draw animation.\n[*] Fixed Zeus tracer appearing to pass through players.\n[/list]\n",
+        "commentcount": 224,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415727794_1707792776_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4211498059467161130",
+        "event_gid": "4064004735526578073",
+        "voteupcount": 647,
+        "votedowncount": 153,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4064004735512120731",
         "clanid": "3381077",
         "posterid": "76561199571358539",
