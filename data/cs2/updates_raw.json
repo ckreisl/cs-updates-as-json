@@ -1,5 +1,28 @@
 [
     {
+        "gid": "6856237235656946988",
+        "clanid": "3381077",
+        "posterid": "76561197960423941",
+        "headline": "Release Notes for 2/15/2024",
+        "posttime": 1708046548,
+        "updatetime": 1708046938,
+        "body": "[ ANIMATION ]\n[list]\n[*]Fix for animations when climbing ladders\n[*]Fix for menu agents wielding tasers\n[*]Fix for Kukri knife hold animation during team intro sequence\n[/list]\n\n[ SPECTATING ]\n[list]\n[*]spec_lock_to_accountid and spec_lock_to_current_player commands are now available for casters/observers\n[*]spec_player and spec_goto now works in CSTV and demo playback\n[*]tv_secure_bypass server setting now allows connecting HLAE observers to VAC secure CSTV servers\n[/list]\n\n[ GAMEPLAY ]\n[list]\n[*] In Deathmatch, the Zeus can be bought each life and will rebuy if not in random weapon mode\n[*] In Deathmatch, getting a second Zeus kill in the same life will earn double points\n[*] mp_modify_timeouts server-side command allows adding/subtracting a tactical timeout from CT/T team if backup file is restored or a team incorrectly took a tactical timeout instead of a technical timeout\n[/list]\n\n\n[ LOGGING ]\n[list]\n[*]Start of warmup and end of warmup will now produce a log message in the game server log\n[*]Reported damage no longer has a rounding error when reported in the game server log\n[/list]\n\n[ MISC ]\n[list]\n[*]Improved viewmodel animation smoothness when client framerates get low or unstable\n[*]Fixed issues with implementation of scancode-based key bindings. Bindings are now independent of input locales.\n[*]Added performance diagnostic HUD element that can be configured in Game Settings menu (\"Telemetry\")\n[*]Deleted cq_netgraph and cq_netgraph_problem_show_auto.  Instead, use cl_hud_telemetry_serverrecvmargin_graph_show.\n[*]Fix for sometimes failing to connect to a local practice server without Steam connectivity\n[*]Fixed a bug with Skill Group animation at the end of competitive matches\n[*]Fixed sniper scope performance hitch and adjusted visual treatment. \n[*]Various performance improvements\n[/list]\n\n[ MAPS ]\n\n[i]Vertigo:[/i][list]\n[*]Fixed grenade clipping around AC unit at B-site\n[*]Fixed clipping of pillar at T-Start that would potentially allow bomb to be thrown into unreachable area\n[/list]\n[i]Nuke:[/i][list]\n[*]Adjusted clipping around Vents entrance to prevent players' feet clipping through the vent geo\n[*]Improved collision of sliding door meshes at Ramp\n[/list]\n[i]Anubis:[/i][list]\n[*]Added and removed a ladder near boost spot by T spawn\n[*]Fixed a couple of spots where bomb could be thrown out of the map\n[/list]\n[i]Overpass:[/i][list]\n[*]Clipping improvements\n[*]Fixed some disappearing mesh\n[/list]",
+        "commentcount": 155,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1708055591_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "7221028806364522239",
+        "event_gid": "6856237235656946987",
+        "voteupcount": 618,
+        "votedowncount": 48,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4064004735526578074",
         "clanid": "3381077",
         "posterid": "76561197984981409",
