@@ -1,5 +1,28 @@
 [
     {
+        "gid": "6856237235660678785",
+        "clanid": "3381077",
+        "posterid": "76561197984981409",
+        "headline": "Release Notes for 2/16/2024",
+        "posttime": 1708128854,
+        "updatetime": 1708128854,
+        "body": "[ MISC ]\n[list]\n[*]50% throw-strength grenades are now guaranteed if both attack buttons are held long enough then released within a short time from each other\n[*]Fixed in-game bot avatar images not reloading correctly after pause menu was opened\n[*]Fixed behaviour of previous round button during demo playback\n[*]Fixed inability to clear a button binding in game settings\n[*]Improved performance of telemetry display HUD element\n[*]Normalized volume of NIGHTMODE music kits\n[*]Stability improvements\n[/list]\n",
+        "commentcount": 109,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1708131109_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "7221028806368029622",
+        "event_gid": "6856237235660678784",
+        "voteupcount": 711,
+        "votedowncount": 63,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "6856237235656946988",
         "clanid": "3381077",
         "posterid": "76561197960423941",
