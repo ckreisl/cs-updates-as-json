@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4124805233776026715",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 2/28/2024",
+        "posttime": 1709159309,
+        "updatetime": 1709159432,
+        "body": "[ MISC ]\n[list]\n[*]Spawn position is no longer randomly determined when a player reconnects to a server during freeze time. The spawn point sequence is now configured at the beginning of the map and is saved/restored from round backup files\n[list][*]In official matchmaking servers, players who disconnect and reconnect during freeze time will respawn in the spawn point they were assigned at the beginning of the round\n[*]On community servers, players who disconnect and reconnect during freeze time will be assigned one of the five spawn positions assigned to the team that round\n[*]When restoring from round backup files (which is recommended in tournament settings after disconnects/reconnects), players will spawn in the positions they were originally assigned at the beginning of that round\n[/list][*]Fixed a bug where players would see a black screen after disconnecting and reconnecting multiple times during a technical timeout\n[*]Fixed a bug where players disconnecting and reconnecting to a competitive match would incorrectly interact with bot spawning algorithm\n[*]Fixed some cases where MVP music would not play or would play over round end music\n[*]Fixed a bug in Deathmatch where kills during warmup would count towards healthshot reward and Zeus score bonus\n[*]Fixed players jumping higher than normal when toggling low framerate\n[*]Fixed an instance of weapon switches sometimes being ignored by the server\n[*]Fixed smoke shadow rendering issues and improvements to perf\n[*]Fixed a bug where the game would crash on Linux while alt-tabbing\n[*]Fixed some cases where a frame rate hitch would occur due to compiling shaders\n[*]Improved behavior when user input does not arrive on the server in time due to packet loss or client frame rate issues\n[*]Adjusted various music kit cues in NIGHTMODE Music Kit box (ISOxo, Knock2, and TWERL and Ekko & Sidetrack)\n[*]Fixed a case where some players in North America would always fail to accept a match on a server in Europe due to SDR choosing an invalid route\n[*]Players who get kicked from official competitive servers for too many suicides will now be issued a competitive cooldown\n[*]Adjusted the logic tracking player idle state to exclude round freezetime and timeout periods\n[*]Chickens no longer interact with dropped weapons\n[*]Sniper scope overlay no longer appears in tool viewports (such as Hammer)\n[/list]\n\n[ MAPS ]\n[list][*]Adjusted spawn location priorities for Premier and Competitive game modes in Anubis, Inferno, Mirage, Nuke, Overpass, and Vertigo.[/list]\n[i]Inferno[/i]\n[list]\n[*]Fixed community reported gaps in map and Trike model\n[*]Raised plywood at top of Banana to cover head visibility\n[*]Smoothed ground movement in Banana and Bombsite A\n[*]Raised Arch exit towards Mid (or \"Raised arch in Arch\")\n[*]Removed bench at Arch near Library\n[*]Removed construction cone at Underpass\n[/list]\n\n[ WORKSHOP ]\n[list]\n[*]Fix lightmaps being capped at 4k resolution in CS2 Workshop Tools\n[*]Updated sticker inspect to support wear in 0.1 increments to match sticker scraping\n[*]Added roughness texture to foil stickers in the Item Editor\n[*]Updated help system for new sticker features\n[/list]",
+        "commentcount": 366,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1709160411_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4309452818499349421",
+        "event_gid": "4124805233776026714",
+        "voteupcount": 2233,
+        "votedowncount": 276,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "6856237235660678785",
         "clanid": "3381077",
         "posterid": "76561197984981409",
