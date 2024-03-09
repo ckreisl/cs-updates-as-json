@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4122554066499485713",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Note for 3/8/2024",
+        "posttime": 1709923299,
+        "updatetime": 1709923299,
+        "body": "[list]\n[*]Fixed a threading bug that could lead to a frame rate hitch, especially if all CPUs were busy.\n[/list]",
+        "commentcount": 350,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1428110219_1709924106_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4291439052534455610",
+        "event_gid": "4122554066499485712",
+        "voteupcount": 2006,
+        "votedowncount": 275,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4124805233776026715",
         "clanid": "3381077",
         "posterid": "0",
