@@ -1,5 +1,28 @@
 [
     {
+        "gid": "6727887174668985660",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 3/13/2024",
+        "posttime": 1710391698,
+        "updatetime": 1710391698,
+        "body": "[COPENHAGEN 2024 MAJOR]\n[list][*] The Copenhagen Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.\n[*] Purchase a Copenhagen 2024 Viewer Pass to receive an upgradable Copenhagen 2024 Coin. With an active pass, you can upgrade your coin and earn extra souvenir packages by playing the Pick'Em Challenge. Additionally, you will show up on the Active Pass Leaderboard where you can compare your Pick'Em Challenge performance to your friends.\n[*] All players with Prime status can place Pick'Em picks for free! However, to complete challenges and earn rewards from an event stage, you will have to activate a Viewer Pass before that stage begins.\n[/list]\n[GAMEPLAY]\n[list]\n[*] Adjusted molotov fire to address a case where a player who could see through fire could not be seen by their opponent.\n[/list]",
+        "commentcount": 315,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1710393492_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "6352962504910335480",
+        "event_gid": "6727887174668985659",
+        "voteupcount": 3004,
+        "votedowncount": 457,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4122554066499485713",
         "clanid": "3381077",
         "posterid": "0",
