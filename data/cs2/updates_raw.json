@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4104540932608869193",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 3/19/2024",
+        "posttime": 1710892343,
+        "updatetime": 1710892343,
+        "body": "[ COPENHAGEN 2024 MAJOR ][list]\n[*] Elimination Stage Pick'Em Challenge is now active with 13 qualified teams (three more teams will qualify tomorrow). Elimination Stage picks can be updated and saved all the way until the first Elimination Stage matches begin\n[*] Added a reminder for players who purchased their Copenhagen 2024 Viewer Pass that the pass must be activated in order to become eligible for the Copenhagen 2024 Coin Challenges\n[*] Added a checkbox to show final Swiss standings in the Major Hub\n[*] Added ability to preview souvenir packages from the Major Hub\n[*] Various UI improvements in Copenhagen 2024 Major Hub\n[/list]\n[ MISC ][list]\n[*] Fixed a case when C4 could fall through the floor if dropped while planting\n[*] Added a popup confirmation before launching Training Day from the Play menu\n[/list]",
+        "commentcount": 111,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415588329_1710894979_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4288062617425289608",
+        "event_gid": "4104540932608869192",
+        "voteupcount": 625,
+        "votedowncount": 109,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "6727887174668985660",
         "clanid": "3381077",
         "posterid": "0",
