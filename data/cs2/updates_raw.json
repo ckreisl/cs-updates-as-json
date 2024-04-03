@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4185606994270578441",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 4/2/2024",
+        "posttime": 1712103496,
+        "updatetime": 1712103496,
+        "body": "[ COPENHAGEN 2024 MAJOR ]\n[list][*] Congratulations to Natus Vincere for winning the PGL Copenhagen Major!\n[*] The Copenhagen 2024 Champions Autograph Capsule is now available for purchase in the Copenhagen 2024 Major Hub[/list]\n[ MISC ]\n[list][*] Fixed several cases of sticky collisions when jumping against surfaces\n[*] Fixed another threading bug that could lead to a frame rate hitch, especially if all CPUs were busy\n[*] Purchased and traded Counter-Strike items will not be visible to other users who view your Steam Inventory for 10 days[/list]",
+        "commentcount": 152,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415588329_1712104331_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4354491980297084600",
+        "event_gid": "4185606994270578440",
+        "voteupcount": 705,
+        "votedowncount": 169,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4104540932608869193",
         "clanid": "3381077",
         "posterid": "0",
