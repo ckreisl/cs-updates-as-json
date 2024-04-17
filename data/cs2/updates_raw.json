@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4202496761513772306",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 4/16/2024",
+        "posttime": 1713310428,
+        "updatetime": 1713310428,
+        "body": "[ MISC ]\n[list]\n[*] Fixed a bug where bomb can sometimes disappear from the radar\n[*] Allow scraping or removing stickers by selecting the sticker icons under the weapon\n[*] Allow deleting empty storage units that have an assigned label\n[*] Fixed Workshop tools from crashing when compiling maps that contain instances\n[/list]",
+        "commentcount": 257,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415588329_1713311834_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4360122748467624371",
+        "event_gid": "4202496761513772305",
+        "voteupcount": 573,
+        "votedowncount": 368,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4185606994270578441",
         "clanid": "3381077",
         "posterid": "0",
