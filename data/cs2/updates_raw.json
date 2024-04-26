@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4202497395513061960",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 4/25/2024",
+        "posttime": 1714088028,
+        "updatetime": 1714088028,
+        "body": "[ VIEWMODEL ]\n[list]\n[*] Adjusted viewmodel bob movement\n[*] Added \"Preferred Viewmodel Left/Right Handedness\" setting\n[*] Added \"Switch Viewmodel Left/Right Hand\" key binding (default: US keyboard letter H) to switch hands temporarily during gameplay\n[*] Viewmodel position setting and left/right hand state are now networked and visible to first-person spectators.\n[*] Deprecated \"Couch\" viewmodel position setting\n[/list]\n[ HUD ]\n[list]\n[*] Added \"Radar Map Alternate Zoom\" setting and \"Toggle Radar Zoom\" key binding to toggle between zoom levels during gameplay\n[*] Added a radar icon for the local player when free cam spectating\n[*] Added a grenade line-up reticle that appears shortly after pulling the pin. The timing can be configured for each grenade type independently\n[*] Changed weapon Swap text (when pointing at a dropped weapon) to always show the gameplay name of the weapon instead of any customized name it might have.\n[*] Added a kill feed icon for \"in-air\" kills\n[*] Added the scoreboard to the ESC menu\n[*] Added an icon to indicate bots on the scoreboard\n[/list]\n[ BUY MENU ]\n[list]\n[*] Added a \"Dropped Weapons\" panel, which shows (and allows the direct pickup of) weapons that have been dropped by teammates that are standing in the buy zone\n[*] Added the minimum amount of money that a player is guaranteed to have in the next round to the buy menu title bar. (thanks, Kadomos)\n[/list]\n[ GAMEPLAY ]\n[list]\n[*] Increased Zeus movement speed and adjusted the attack cone\n[*] Increased Zeus kill reward from $0 to $100 ($50 in Casual)\n[*] Increased CZ75-Auto kill reward from $100 to $300 ($150 in Casual)\n[*] Reduced XM1014 kill reward from $900 to $600 ($300 in Casual)\n[/list]\n[ INVENTORY ]\n[list]\n[*] Lighting adjustments in Inspect background maps\n[*] Added Wear Category to the info tooltip in the Inspect screen\n[*] Added gameplay name in panels that used to only show customized name. E.g., Inspect screen, inventory tile\n[/list]\n[ MAPS ]\n[list]\n[*] Replaced Overpass with Dust 2 in the Active Duty Group, current competition map pool, and Premier matchmaking\n[*] Baggage\n[list]\n[*]Opened roll-up doors at spawns\n[*] Updated models for some conveyors\n[*] Solidified stairs\n[*] Various bug fixes\n[/list]\n[*] Inferno: \n[list]\n[*] Removed overhanging building at top mid\n[*] Removed overhangs at bottom of banana\n[*] Various map tweaks to improve player collision and readability\n[/list]\n[*] Overpass, Nuke, Vertigo, Mirage and Office\n[list]\n[*] Bug and exploit fixes\n[*] Collision and line of sight adjustments\n[*] Minor performance improvements\n[/list]\n[/list]\n[ WEAPON FINISHES ]\n[list]\n[*] AK-47 | Inheritance: Texture and mask adjustments\n[*] USP-S | Jawbreaker: Corrected ambient occlusion texture\n[/list]\n[ MISC ]\n[list]\n[*] Decoupled demo playback camera movement from playback speed. This allows moving the camera even if playback is paused\n[*] Added ability to launch practice matches and workshop maps with party members\n[*] Added Overwatch system to enable match demo review by trusted partners\n[*] Copenhagen 2024 Major sticker capsules are on sale now -75% off\n[*] Added ability to adjust brightness in windowed modes\n[/list]",
+        "commentcount": 392,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1714088223_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4352242259545443400",
+        "event_gid": "4202497395513061959",
+        "voteupcount": 2766,
+        "votedowncount": 309,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4202496761513772306",
         "clanid": "3381077",
         "posterid": "0",
