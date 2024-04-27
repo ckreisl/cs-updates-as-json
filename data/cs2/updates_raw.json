@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4202497395516697374",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 4/26/2024",
+        "posttime": 1714172978,
+        "updatetime": 1714172978,
+        "body": "[ MISC ][list]\n[*] Fixed a bug where grenade throw animations would get stuck when switching hands.\n[*] Fixed a bug where the same grenade type couldn't be thrown multiple times without switching to another weapon first.\n[*] Fixed a bug that allowed picking up grenades beyond the normal maximum.\n[*] Fixed a bug where smoke grenades would sometimes appear lit as if a flashbang detonated inside them.[/list]\n[ MAPS ][list]\n[*] Fixed a spot in Dust 2 above mid doors where grenades would fall through the world.\n[*] Fixed a spot in Inferno where weapons could fall through the world.\n[/list]",
+        "commentcount": 188,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1714174892_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4352242259549069983",
+        "event_gid": "4202497395516697373",
+        "voteupcount": 1432,
+        "votedowncount": 153,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4202497395513061960",
         "clanid": "3381077",
         "posterid": "0",
