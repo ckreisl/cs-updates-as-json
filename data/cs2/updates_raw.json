@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4199120329626448731",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 4/30/2024",
+        "posttime": 1714516926,
+        "updatetime": 1714516926,
+        "body": "[ MISC ]\n[list]\n[*] Grenade kills no longer display the \"in-air\" killfeed icon.\n[*] Fixed several cases where clicking on the buy menu or scoreboard would cause the game to stop taking keyboard input.\n[*] Fixed too many usercommands being processed when skipping forward in demos. This reduces the skip time by as much as 80%.\n[*] Added console output that may be helpful for advanced users to diagnose performance problems.  When a very long frame occurs, a brief profile of the frame is printed.  At the end of a match, a summary is printed.\n[/list]\n",
+        "commentcount": 171,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1714523244_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4356746316582324313",
+        "event_gid": "4199120329626448730",
+        "voteupcount": 1188,
+        "votedowncount": 168,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4202497395516697374",
         "clanid": "3381077",
         "posterid": "0",
