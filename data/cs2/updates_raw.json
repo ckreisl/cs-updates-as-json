@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4199120329629965220",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 5/1/2024",
+        "posttime": 1714610152,
+        "updatetime": 1714610152,
+        "body": "[ MISC ]\n[list]\n[*] Fixed a bug where the game would stop taking keyboard input during the end-of-match map vote.\n[*] Fixed a bug where UI characters always had default gloves equipped.\n[*] Demo playback will pause at the end of a recording instead of returning to the main menu.\n[*] Minor demo playback optimizations.\n[/list]\n[ WORKSHOP ]\n[list]\n[*] Added arms race game mode for workshop map submissions\n[/list]\n",
+        "commentcount": 69,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1714617125_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4356746316586297595",
+        "event_gid": "4199120329629965219",
+        "voteupcount": 452,
+        "votedowncount": 53,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4199120329626448731",
         "clanid": "3381077",
         "posterid": "0",
