@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4199120329633041981",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 5/2/2024",
+        "posttime": 1714676425,
+        "updatetime": 1714676425,
+        "body": "[ MISC ]\n[list]\n[*] Fixed a crash related to the scoreboard\n[/list]\n",
+        "commentcount": 204,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_873083815_1714677767_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4356746484460366008",
+        "event_gid": "4199120329633041980",
+        "voteupcount": 1655,
+        "votedowncount": 193,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4199120329629965220",
         "clanid": "3381077",
         "posterid": "0",
