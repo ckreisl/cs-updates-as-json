@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4213757668844649533",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 5/7/2024",
+        "posttime": 1715125929,
+        "updatetime": 1715125929,
+        "body": "[ MISC ]\n[list]\n[*] Fixed a visual bug where sniper rifle viewmodels could be visible at the edge of the scope screen overlay.\n[*] Fixed a bug that prevented HE grenade explosions from breaking the vents in de_nuke.\n[*] Fixed an issue where viewmodels would sometimes emit double shell eject effects.\n[*] Minor performance improvements\n[/list]\n",
+        "commentcount": 178,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415588329_1715126093_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4355621052301400752",
+        "event_gid": "4213757668844649532",
+        "voteupcount": 906,
+        "votedowncount": 167,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4199120329633041981",
         "clanid": "3381077",
         "posterid": "0",
