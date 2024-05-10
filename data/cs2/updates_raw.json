@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4213757668851428104",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 5/9/2024",
+        "posttime": 1715288152,
+        "updatetime": 1715288152,
+        "body": "[ MISC ]\n[list]\n[*] Reduced the opacity of teammate names near the crosshair.\n[*] Made the death experience during bot takeover match the normal death experience.\n[*] Fixed several bugs with looping through bot takeover spectator targets.\n[*] Fixed several bugs with scoreboard buttons not working as designed.\n[*] Fixed a bug where the in-air kill feed icon didn't work with certain weapons (thanks aquaismissing).\n[*] Fixed a bug where the HUD would be offset after watching a demo (thanks again aquaismissing).\n[/list]\n",
+        "commentcount": 215,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_873083815_1715288777_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4355621052308307589",
+        "event_gid": "4213757668851428103",
+        "voteupcount": 1465,
+        "votedowncount": 199,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4213757668844649533",
         "clanid": "3381077",
         "posterid": "0",
