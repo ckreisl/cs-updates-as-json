@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4177730135013203180",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 5/22/2024",
+        "posttime": 1716423446,
+        "updatetime": 1716423446,
+        "body": "[ GRAPHICS ]\n[list]\n[*] Added support for AMD Anti-Lag 2.\n[/list]\n",
+        "commentcount": 123,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415727794_1716425555_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4335356121959937072",
+        "event_gid": "4177730135013203179",
+        "voteupcount": 463,
+        "votedowncount": 100,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4213757668851428104",
         "clanid": "3381077",
         "posterid": "0",
