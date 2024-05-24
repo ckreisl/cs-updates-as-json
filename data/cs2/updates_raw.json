@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4177730135016140041",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 5/23/2024",
+        "posttime": 1716499921,
+        "updatetime": 1716499921,
+        "body": "[ GAMEPLAY ]\n[list]\n[*]Height of the 'pillar' of flame for both Molotov and Incendiary grenade now decreases over time\n[*]Reduced the terrorist team award when bomb was planted but defused from $800 to $600, to decrease the impact of the first-round on subsequent rounds\n[*]Reduced the price of the M4A4 from $3100 to $3000\n[*]Minor adjustments to first-person camera movement\n[*]Added explicit \"switchhandsleft\" and \"switchhandsright\" console commands\n[*]Deathmatch bonus weapons are now the same for all players regardless of loadout\n[/list]\n[i]Incendiary Grenade[/i][list]\n[*]Adjusted the explosion and flame visual treatment\n[*]Reduced duration\n[*]Reduced area covered by spreading flames\n[*]Reduced price from $600 to $500\n[/list]\n\n[ RENTALS ]\n[list]\n[*]When players open a Kilowatt case with a key, they will have the option to rent the entire Kilowatt collection (i.e., every weapon in the case, excluding the rare special item) for a week instead of receiving an item from the collection\n[*]Equipped rented weapons will be replaced with the stock version of the weapon when the rental period expires\n[*]Rented weapons cannot be modified (e.g., via stickers or name tags), traded, or sold on the Steam Community Market\n[/list]\n\n[ HUD ]\n[list]\n[*]Fixed a bug where the MVP player name displayed incorrectly during bot takeover\n[*]Fixed a bug where the Refund All button in the Buy Menu would only refund a single flashbang grenade\n[*]Fixed a bug where the ESC menu scoreboard during end-of-match didn't match the TAB scoreboard\n[*]Fixed a bug where the Loss Bonus scoreboard tooltip would get stuck on-screen after closing the scoreboard\n[*]Blocking stranger Steam avatars will now block other user-generated content such name tags and sticker placements\n[/list]\n\n[ CHICKENS ]\n[list]\n[*]Chickens have a few new animations\n[*]Chickens can now walk up hills\n[*]Chickens can now turn right while walking\n[/list]\n\n[ UI ]\n[list]\n[*]Various performance improvements to the Warehouse main menu and item inspect background scenery\n[/list]\n\n[ DEMOS ]\n[list]\n[*]The demo playback timeline now show indicators for kill and death events\n[*]Demo playback can be toggled into \"highlight mode\" which will show only kills and deaths for the active player\n[*]Various minor demo playback UI changes\n[*]Fixed a demo playback crash\n[/list]\n\n[ MAPS ]\n\n[i]Vertigo:[/i][list]\n[*]Added catwalk by bombsite A, connecting to back of A\n[*]Removed connector between back of A and elevators\n[*]Opened up passage between elevators and scaffolding\n[*]Slightly tweaked size of bombsite A\n[*]Tweaked spawn timings slightly\n[*]Changed Wingman layout to feature bombsite A changes\n[/list]\n[i]Baggage:[/i][list]\n[*]Fixed movement hitch on lower conveyor\n[*]Lowered height of central conveyor tray to help open sniper view\n[/list]\n[i]Office:[/i][list]\n[*]Fixed a case where a player could shoot through multiple walls\n[/list]\n[i]Mirage:[/i][list]\n[*]Fixed bad collision on certain props\n[*]Fixed some sticky collision around windows in palace\n[/list]",
+        "commentcount": 468,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1716501904_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4335356121963196317",
+        "event_gid": "4177730135016140040",
+        "voteupcount": 2479,
+        "votedowncount": 414,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4177730135013203180",
         "clanid": "3381077",
         "posterid": "0",
