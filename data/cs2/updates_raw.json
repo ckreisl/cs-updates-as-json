@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4177730135020162651",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 5/24/2024",
+        "posttime": 1716584739,
+        "updatetime": 1716584739,
+        "body": "[ WEAPON FINISHES ]\n[list]\n[*] Fixed the appearance of Doppler, Gamma Doppler, and Marble Fade finishes\n[/list]\n\n[ DEMOS ]\n[list]\n[*] Minor UI changes\n[/list]\n\n[ MAPS ]\n\n[i]Vertigo:[/i]\n[list]\n[*] Clipped the wings of runboosters to B site in Wingman\n[*] Blocked grenades through crane base at A site\n[/list]\n\n",
+        "commentcount": 178,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1428110219_1716586541_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4335356354423529592",
+        "event_gid": "4177730135020162650",
+        "voteupcount": 1404,
+        "votedowncount": 207,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4177730135016140041",
         "clanid": "3381077",
         "posterid": "0",
