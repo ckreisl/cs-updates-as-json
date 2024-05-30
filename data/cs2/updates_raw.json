@@ -1,5 +1,29 @@
 [
     {
+        "gid": "4176604868913554021",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 5/29/2024",
+        "posttime": 1717019113,
+        "updatetime": 1717025025,
+        "body": "[ INPUT ]\n[list]\n[*] Fixed a bug where the console toggle key would stop working after a Premier pick/ban phase\n[*] The game now continues accepting keyboard input while a scoreboard player card is open\n[*] Joystick input is now ignored by default. Joystick input is not an officially supported feature of CS2, but you can restore the old behavior with the -joy launch option\n[/list]\n\n[ UI ]\n[list]\n[*] Fixed player and bot names on the Team Select screen during bot takeover\n[/list]\n\n[ WEAPON FINISHES ]\n[list]\n[*] Fixed a bug where certain graphics configurations resulted in black weapon finishes\n[/list]\n\n[ MISC ]\n[list]\n[*] Fixed an issue where the game client would never reconnect to Counter-Strike Network if launched while there was no connection to Steam Network\n[*] Steam accounts that have an active account lock are no longer allowed to play on secure Counter-Strike game servers\n[*] Fixed a bug where viewmodels would bob excessively on Linux\n[/list]",
+        "commentcount": 272,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1294976491_1717019316_0",
+            "ModAct_1519738978_1717028454_4"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4329727332701416264",
+        "event_gid": "4176604868913554020",
+        "voteupcount": 1421,
+        "votedowncount": 198,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4177730135020162651",
         "clanid": "3381077",
         "posterid": "0",
