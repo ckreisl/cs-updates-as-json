@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4182235001971902354",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 6/10/2024",
+        "posttime": 1718063112,
+        "updatetime": 1718063112,
+        "body": "[ GAMEPLAY ]\n[list] \n[*] Fixed one-way visibility for players inside HE grenade explosions\n[/list]\n\n[ HUD ]\n[list] \n[*] When equipment info is shown for players at the top of the HUD (e.g. when spectating), their health bars expand to show numeric health values\n[*] Reduced some hitches caused by HUD elements appearing\n[/list]\n\n[ GRAPHICS ]\n[list] \n[*] Added a separate \"Dynamic Shadows\" Advanced Video setting with the options: \"Sun Only\" or \"All\"\n[/list]\n\n[ ANIMATION ]\n[list] \n[*] Added left hand to Bowie Knife view model\n[/list]",
+        "commentcount": 115,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1718072908_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4339861495509357030",
+        "event_gid": "4182235001971902353",
+        "voteupcount": 562,
+        "votedowncount": 81,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4176604868935400022",
         "clanid": "3381077",
         "posterid": "0",
