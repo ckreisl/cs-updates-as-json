@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4191242835348964245",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 6/11/2024",
+        "posttime": 1718149084,
+        "updatetime": 1718149084,
+        "body": "[ ANIMATION ]\n[list]\n[*] Fixed a case where weapon animations would play incorrectly when inspecting while reloading.\n[/list]\n\n[ AUDIO ]\n[list]\n[*] In game voice chat - Eliminated most hitching caused by in-game voice chat. Some users may still experience a hitch the first time they push-to-talk.\n[*] Streamlined Push to Talk - When enabled, this setting will avoid the hitch incurred the first time a player uses push to talk.\n[/list]\n\n[ NETWORK ]\n[list]\n[*] Improve connection quality in the presence of jitter or loss, by automatically adjusting user command pacing so that commands arrive at the server earlier.\n[/list]\n\n[ HUD ]\n[list]\n[*] Improved legibility of teammate health at lower resolutions\n[/list]",
+        "commentcount": 145,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415588329_1718149901_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4334232123519251681",
+        "event_gid": "4191242835348964244",
+        "voteupcount": 946,
+        "votedowncount": 143,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4182235001971902354",
         "clanid": "3381077",
         "posterid": "0",
