@@ -1,5 +1,28 @@
 [
     {
+        "gid": "6851744408515587492",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 6/13/2024",
+        "posttime": 1718323346,
+        "updatetime": 1718323346,
+        "body": "[list]\n[*] Added a \"pips only\" option to the \"Show Team ID Through Walls\" settings ([i]cl_teamid_overhead_mode[/i])\n[*] Improved bomb interaction with water in Overpass\n[*] Fixed a gap in Nuke on bombsite B\n[*] Fixed lighting bugs in Main Menu Scenery maps Warehouse and Nuke\n[*] Fixed a case where bots would teleport long distances when approaching ladders\n[*] Various localization updates\n[/list]",
+        "commentcount": 139,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1718334205_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "6193092963015003701",
+        "event_gid": "6851744408515587491",
+        "voteupcount": 524,
+        "votedowncount": 95,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4191242835348964245",
         "clanid": "3381077",
         "posterid": "0",
