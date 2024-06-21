@@ -1,5 +1,26 @@
 [
     {
+        "gid": "4194621169475871329",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 6/20/2024",
+        "posttime": 1718940922,
+        "updatetime": 1718940922,
+        "body": "[list]\n[*] Fixed a case where the game would think a key was still pressed after it had been released\n[*] More improvements to networking to account for packet loss and jitter\n[/list]",
+        "commentcount": 60,
+        "tags": [
+            "patchnotes"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4354499137356223724",
+        "event_gid": "4194621169475871328",
+        "voteupcount": 47,
+        "votedowncount": 41,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "6851744408515587492",
         "clanid": "3381077",
         "posterid": "0",
