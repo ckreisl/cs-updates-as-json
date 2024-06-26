@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4257672198473442892",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 6/25/2024",
+        "posttime": 1719355126,
+        "updatetime": 1719355126,
+        "body": "[ MAPS ]\n\n[i]Community Maps[/i]\n[list][*] Added community maps [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3121217565]Thera[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3152430710]Mills[/url] to Competitive, Casual, and Deathmatch map groups\n[*] Added community maps [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3165559377]Memento[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3071005299]Assembly[/url] to the Wingman map pool\n[*] Added community map [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3263935964]Pool Day[/url] to the Arms Race map pool[/list][i]Nuke[/i]\n[list][*] Fixed c4 stuck spots\n[/list][i]Ancient[/i]\n[list][*] Fixed c4 stuck spots, holes in the world, and non-solids causing problems\n[/list] [i]Vertigo[/i]\n[list][*] Fixed c4 stuck spots and clipping\n[/list][i]Anubis[/i]\n[list][*] Fixes for grenade collision and clipping[/list]\n\n[ UI ][list]\n[*] Updated the MVP panel in all game modes\n[*] Added all-new animated MVP panels to Premier matches\n[*] Added several new MVP conditions and adjusted prior MVP rules[/list]\n\n[ GAMEPLAY ][list]\n[*] In Competitive Matchmaking, per-map skill groups are now revealed after you earn two wins on a map.[/list]\n\n[ VIDEO SETTINGS ]\n[list][*]Settings Recommendations[list]\n[*] Added a Settings Recommendation popup if your display's refresh rate is set below its maximum at startup. Using your display's highest refresh rate is generally recommended.\n[*] Added a Settings Recommendation popup if NVIDIA G-Sync support is detected but not enabled at startup. Using G-Sync is generally recommended if your system supports it.\n[*] Added a Settings Recommendation popup if NVIDIA G-Sync is enabled but not V-Sync and/or NVIDIA Reflex. It is generally recommended to enable all three settings together when they are available. Note that applying these settings will limit your frame rate to your display's refresh rate or slightly lower, which is usually the smoothest-looking and lowest input latency settings combination. See [url=https://help.steampowered.com/en/faqs/view/418E-7A04-B0DA-9032]https://help.steampowered.com/en/faqs/view/418E-7A04-B0DA-9032[/url] for technical details.[/list][*] Removed \"Main Menu Background Scenery\" and \"Item Inspect Background Scenery\" settings from the Video Settings page. These settings are still available on the Main Menu and in the Item Inspect screens respectively.\n[*] The \"Refresh Rate\" setting now shows your display's current refresh rate in Windowed and Fullscreen Windowed modes.\n[*] Removed the \"Laptop Power Savings\" setting which has never actually been configurable in CS2.\n[*] Added a \"Frame Pacing\" section to the Advanced Video settings page.\n[*] Added an \"NVIDIA G-Sync\" row to the Frame Pacing section which tells you whether or not G-Sync is active with your current display settings. This row may be hidden if you're using the Vulkan renderer or if you're not using an NVIDIA graphics card.\n[*] Added \"Maximum FPS In Game\" and \"Maximum FPS In Menus\" sliders to the Frame Pacing section. These control the fps_max and fps_max_ui convars respectively.\n[*] Increased the default \"Maximum FPS In Menus\" setting from 120 FPS to 200 FPS.\n[*] The Advanced Video visual preview now uses the \"In Game\" maximum FPS instead of the \"In Menus\" maximum.\n[/list]",
+        "commentcount": 316,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415588329_1719356141_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4417549985245117862",
+        "event_gid": "4257672198473442891",
+        "voteupcount": 2279,
+        "votedowncount": 509,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4194621169475871329",
         "clanid": "3381077",
         "posterid": "0",
