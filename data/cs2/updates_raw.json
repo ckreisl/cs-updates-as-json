@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4257672198476956314",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 06/26/2024",
+        "posttime": 1719438878,
+        "updatetime": 1719438878,
+        "body": "[ MAPS ]\n\n[i]Pool Day[/i][list]\n[*] Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3263935964]Update Notes[/url])[/list]\n\n[ MISC ][list]\n[*] Added support to load the latest version of community maps from the Workshop when playing on community servers, even if different versions of the same maps are also available as part of official map groups\n[*] Fixed G-Sync detection to also work in non-windowed fullscreen mode\n[*] Fixed a case where US English keyboard layout could remain loaded for users with non-English keyboards\n[*] Fixed an empty radio-command string which plays when planted C4 is within several seconds from detonation[/list]",
+        "commentcount": 134,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1519738978_1719444151_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4417549985248688867",
+        "event_gid": "4257672198476956313",
+        "voteupcount": 1021,
+        "votedowncount": 149,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4257672198473442892",
         "clanid": "3381077",
         "posterid": "0",
