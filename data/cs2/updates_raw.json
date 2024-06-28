@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4257672198480471604",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 06/27/2024",
+        "posttime": 1719527683,
+        "updatetime": 1719527833,
+        "body": "[ NETWORK ]\n[list]\n[*] Fixed a bug leading to excessive stuttering for some players\n[/list]\n\n[ HUD ]\n[list]\n[*] Fixed case of radar background being incorrectly colored.\n[/list]",
+        "commentcount": 152,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1719528312_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4417550166389759380",
+        "event_gid": "4257672198480471603",
+        "voteupcount": 828,
+        "votedowncount": 123,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4257672198476956314",
         "clanid": "3381077",
         "posterid": "0",
