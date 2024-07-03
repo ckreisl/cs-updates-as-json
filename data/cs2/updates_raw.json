@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4257672198498686344",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 7/2/2024",
+        "posttime": 1719958203,
+        "updatetime": 1719958203,
+        "body": "[ MAPS ]\n\n[i]Pool Day[/i]\n[list]\n[*]Updated to the latest version from the Community Workshop [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3263935964]found here[/url]\n[/list]\n[i]Dust 2[/i]\n[list]\n[*]Fixed hole in brick stack on bombsite B\n[*]Fixed bug preventing custom sounds from being played in community maps\n[/list]",
+        "commentcount": 223,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415588329_1719959611_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4417550491790042280",
+        "event_gid": "4257672198498686343",
+        "voteupcount": 1097,
+        "votedowncount": 296,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4257672198480471604",
         "clanid": "3381077",
         "posterid": "0",
