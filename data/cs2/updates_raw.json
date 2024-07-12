@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4397285236932881680",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 7/11/2024",
+        "posttime": 1720742639,
+        "updatetime": 1720742639,
+        "body": "[ MAPS ]\n\n[i]Ancient[/i]\n[list]\n[*]Fixed clipping on crates at bombsite A to allow players to jump on top again.\n[/list]\n[i]Vertigo[/i]\n[list]\n[*]Fixed clipping on ends of bombsite A catwalk to prevent players from walking off.\n[/list]\n\n[ MISC ]\n[list]\n[*]Fixed occasional first-person camera jolt when throwing grenades.\n[/list]\n",
+        "commentcount": 183,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1720749695_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4558288923611383209",
+        "event_gid": "4397285236932881679",
+        "voteupcount": 626,
+        "votedowncount": 194,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4257672198498686344",
         "clanid": "3381077",
         "posterid": "0",
