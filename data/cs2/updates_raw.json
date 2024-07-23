@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4363508865823029429",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 7/22/2024",
+        "posttime": 1721693896,
+        "updatetime": 1721693896,
+        "body": "[ MAPS ]\n\n[i]Dust II[/i]\n[list]\n[*]Modified crate stack outside CT spawn towards bombsite A.\n[/list]\n[i]Nuke[/i]\n[list]\n[*]Clipping adjustments.\n[/list]\n[i]Assembly[/i]\n[list]\n[*]Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3071005299]Update Notes[/url]).\n[/list]\n[i]Memento[/i]\n[list]\n[*]Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3165559377]Update Notes[/url]).\n[/list]\n\n[ MISC ]\n[list]\n[*]Added official game servers in London.\n[*]Reduced fire effects penetration through thin walls.\n[*]Added 2024 Copenhagen Major trophies to player profiles.\n[*]Whitelisted cs_minimap_create_output_size setting for Counter-Strike 2 Workshop Tools.\n[/list]",
+        "commentcount": 281,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1721695204_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4516631559564729313",
+        "event_gid": "4363508865823029428",
+        "voteupcount": 1311,
+        "votedowncount": 363,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4397285236932881680",
         "clanid": "3381077",
         "posterid": "0",
