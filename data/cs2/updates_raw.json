@@ -1,5 +1,30 @@
 [
     {
+        "gid": "4361258795955674968",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 8/8/2024",
+        "posttime": 1723153179,
+        "updatetime": 1723166240,
+        "body": "[ GAMEPLAY ]\n[list]\n[*] In Casual game mode players will earn an additional XP score point for every round in which they dealt damage to enemies.\n[*] Added a server setting \"sv_vote_to_changelevel_rndmin\" to control rounds/time during which voting for a level change is allowed.\n[*] Official game servers in Casual game mode now allow voting for a level change only at the end of the match or during the first round of the match.\n[*] Official game servers in Deathmatch and Arms Race game modes now allow voting for a level change only at the end of the match or during the first minute of the match.\n[*] Restricted upward movement of a player when a teammate is boosted on their head.\n[*] Dead players are no longer allowed to pick up ground weapons.\n[*] Buy menu will automatically close if the switch team menu opens.\n[*] Rescuing a hostage now increments objectives counter in match stats.\n[/list]\n\n[ UI ]\n[list]\n[*] Improved legibility of damage given and taken in post-round damage report.\n[*] Made spec target highlighting more pronounced.\n[*] Player names are now visible on mini scoreboard whenever the mini scoreboard is expanded.\n[/list]\n\n[ MAPS ]\n\n[i]Mills[/i]\n[list]\n[*] Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3152430710]Update Notes[/url])\n[/list]\n[i]Assembly[/i]\n[list]\n[*] Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3071005299]Update Notes[/url])\n[/list]\n\n\n",
+        "commentcount": 352,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487176015_1723153881_0",
+            "ModAct_1426387032_1723157317_4",
+            "ModAct_1415588329_1723169341_4"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4517758984071938708",
+        "event_gid": "4361258795955674967",
+        "voteupcount": 1454,
+        "votedowncount": 607,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4363508865823029429",
         "clanid": "3381077",
         "posterid": "0",
