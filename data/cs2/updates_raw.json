@@ -1,5 +1,29 @@
 [
     {
+        "gid": "4254298937819686069",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 8/14/2024",
+        "posttime": 1723669923,
+        "updatetime": 1723680258,
+        "body": "[ MAPS ]\n\n[i]Mills[/i]\n[list]\n[*] Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3152430710]Update Notes[/url])\n[/list]\n[i]Pool Day[/i]\n[list]\n[*] Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3263935964]Update Notes[/url])\n[/list]\n\n[ MISC ]\n[list]\n[*] Slightly delayed tagging effects to reduce instances of players experiencing teleportation when taking damage. Delaying tagging results in a smoother experience, however players will have slightly more time to move at full speed when receiving damage. The delay can be adjusted on servers using convar sv_predictable_damage_tag_ticks (default 2)\n[*] Fixed a case where players could start the bomb plant animation outside of bomb sites\n[*] Fixed a case where the revolver barrel would rotate erroneously\n[*] Reduced initial loading times for the Settings and Play menus\n[/list]\n\n\n\n\n",
+        "commentcount": 268,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487176015_1723671684_0",
+            "ModAct_1519738978_1723687314_4"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4433317023000696692",
+        "event_gid": "4254298937819686068",
+        "voteupcount": 1256,
+        "votedowncount": 422,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4361258795955674968",
         "clanid": "3381077",
         "posterid": "0",
