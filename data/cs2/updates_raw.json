@@ -1,5 +1,29 @@
 [
     {
+        "gid": "6500469346429581892",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 8/19/2024",
+        "posttime": 1724103959,
+        "updatetime": 1724110166,
+        "body": "[ INPUT ]\n[list]\n[*] Certain types of movement/shooting input automation such as hardware-assisted counter strafing will now be detected on Valve official servers, resulting in a kick from the match\n[*] Input binds that include more than one of the following commands will now be ignored by default. Support can be re-enabled using the cheat-protected convar `cl_allow_multi_input_binds 1`\n[list]\n[*] sprint, reload, attack, attack2, turnleft, turnright, turnup, turndown, forward, back, left, right, moveup, movedown, klook, use, jump, duck, strafe, zoom, yaw, pitch, forwardback, rightleft\n[/list] [*] The jump-throw confirmation grunt sound can now be heard by other players nearby\n[/list]\n\n[ VacNet ]\n[list]\n[*] Initial testing of VacNet 3.0 has begun on a limited set of matches. If you believe your match was incorrectly cancelled, email us the match details at csgoteamfeedback@valvesoftware.com \n[/list]",
+        "commentcount": 435,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487176015_1724104330_0",
+            "ModAct_871423085_1724110992_4"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "6462188978482716595",
+        "event_gid": "6500469346429581891",
+        "voteupcount": 2603,
+        "votedowncount": 698,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4254298937819686069",
         "clanid": "3381077",
         "posterid": "0",
