@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4273439871236872891",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 8/20/2024",
+        "posttime": 1724194854,
+        "updatetime": 1724194854,
+        "body": "[ MUSIC KITS ]\n[list]\n[*] The Masterminds 2 Music Kit Box is now available for purchase in standard and StatTrak versions\n[/list]\n[ AUDIO ]\n[list]\n[*] Fixed a case where audio output was garbled due to running on efficiency CPU cores\n[/list]\n[ HUD ]\n[list]\n[*] Minor style adjustments\n[/list]\n[ MISC ]\n[list]\n[*] Reduced the amount of performance stutter at end-of-round time\n[/list]",
+        "commentcount": 217,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1724195792_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4429939958285972796",
+        "event_gid": "4273439871236872890",
+        "voteupcount": 1086,
+        "votedowncount": 349,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "6500469346429581892",
         "clanid": "3381077",
         "posterid": "0",
