@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4273439871240583435",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 8/21/2024",
+        "posttime": 1724282364,
+        "updatetime": 1724282364,
+        "body": "[ MAPS ]\n\nOffice\n[list]\n[*] Fixed a case where a player could get stuck between a prop and the ceiling\n[/list]\nNuke\n[list]\n[*] Fixed a pixel walk\n[*] Fixed some C4 stuck spots\n[/list]\nMirage\n[list]\n[*] Adjusted collision on van for smoother movement\n[*] Fixed wall penetration issues around some arches\n[*] Fixed a view jittering issue when jumping on a crate near palace\n[*] Fixed some collision that allowed smoke grenades to go inside a wall\n[*] Adjustments to grenade clipping\n[*] Adjusted collision on some props\n[*] Fixed some C4 stuck spots\n[/list]\nInferno\n[list]\n[*] Fixed some C4 stuck spots\n[*] Removed a boost spot in pit by A site\n[/list]\nItaly\n[list]\n[*] Perf improvements\n[*] Clipping adjustments\n[/list]\nVertigo\n[list]\n[*] Adjustments to grenade clipping\n[/list]\nAncient\n[list]\n[*] Fixed a bad clip edge that players were getting stuck on at T spawn\n[*] Fixed a pixel peak\n[/list]\nAnubis\n[list]\n[*] Adjustments to grenade clipping\n[*] Fixed a C4 stuck spot\n[*] Fixed some prop collision that could hide C4\n[*] Fixed some lighting issues\n[/list]\nOverpass\n[list]\n[*] Fixed some minor visual bugs near canal\n[*] Some clipping adjustments near park for smoother movement\n[*] Added some missing handrail collision\n[/list]\n\n",
+        "commentcount": 394,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1519738978_1724282747_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4429939958289702422",
+        "event_gid": "4273439871240583434",
+        "voteupcount": 2109,
+        "votedowncount": 727,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4273439871236872891",
         "clanid": "3381077",
         "posterid": "0",
