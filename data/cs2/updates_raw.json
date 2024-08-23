@@ -1,5 +1,29 @@
 [
     {
+        "gid": "4273439871244044451",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 8/22/2024",
+        "posttime": 1724364741,
+        "updatetime": 1724377654,
+        "body": "[ HUD ]\n[list]\n[*] Fixed a case where the radar background and radar icons were misaligned\n[/list]\n",
+        "commentcount": 128,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1724366532_0",
+            "ModAct_1426387032_1724378698_4"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4429940134622975738",
+        "event_gid": "4273439871244044450",
+        "voteupcount": 758,
+        "votedowncount": 145,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4273439871240583435",
         "clanid": "3381077",
         "posterid": "0",
