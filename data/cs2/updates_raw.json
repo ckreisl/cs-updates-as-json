@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4590944278954413250",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 9/3/2024",
+        "posttime": 1725399689,
+        "updatetime": 1725399689,
+        "body": "[ MISC ]\n[list]\n[*] Fixed a case where some commands, including jump, might be ignored under poor network conditions.\n[*] Fixed a bug that could cause inconsistent jump heights.\n[*] Fixed a case where client player collision would remain disabled after ragdoll interaction occurred in the previous round. Thanks for the repro steps, @poggu__.\n[*] Fixed a case for Linux users where the game would hang when opening the pause menu.\n[/list]\n",
+        "commentcount": 226,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487997664_1725400583_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4765459305692948157",
+        "event_gid": "4590944278954413249",
+        "voteupcount": 1357,
+        "votedowncount": 350,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4273439871244044451",
         "clanid": "3381077",
         "posterid": "0",
