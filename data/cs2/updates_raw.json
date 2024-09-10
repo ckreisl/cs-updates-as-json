@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4572930514768908304",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 9/9/2024",
+        "posttime": 1725922860,
+        "updatetime": 1725922860,
+        "body": "[ MISC ]\n[list]\n[*] Added counter-strafe input automation detection options for non-Valve servers. See the sv_auto_cstrafe family of convar descriptions for details.\n[*] Enabled measurement of network jitter on direct UDP connections to community servers. Previously, jitter measurement was only available for connections relayed over SDR. Jitter data is included in the net_connections_status command output.\n[/list]\n",
+        "commentcount": 167,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1519738978_1725924269_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4753075008182923245",
+        "event_gid": "4572930514768908303",
+        "voteupcount": 682,
+        "votedowncount": 216,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4590944278954413250",
         "clanid": "3381077",
         "posterid": "0",
