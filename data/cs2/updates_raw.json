@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4583064247485974478",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 9/10/2024",
+        "posttime": 1726009046,
+        "updatetime": 1726009046,
+        "body": "[ MISC ]\n[list]\n[*] Practice matches and matches started with the \"map\" command will now run in engine loopback mode to match the CS:GO offline default. Engine loopback bypasses most networking code for the host, resulting in one less tick of latency for the local player. Engine loopback can be disabled by appending \"loopback=0\" to the map command-line (e.g. \"map de_dust2 loopback=0\").\n",
+        "commentcount": 147,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1726010133_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4762082332675013307",
+        "event_gid": "4583064247485974477",
+        "voteupcount": 543,
+        "votedowncount": 178,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4572930514768908304",
         "clanid": "3381077",
         "posterid": "0",
