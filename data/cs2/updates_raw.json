@@ -1,5 +1,29 @@
 [
     {
+        "gid": "4674264042203900861",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 10/3/2024",
+        "posttime": 1728000978,
+        "updatetime": 1728009826,
+        "body": "[ MISC ]\n[list]\n[*] Adjusted first-person sniper scope effect\n[*] Fixed some dark spots in Inferno\n[*] Fixed a bug where breakable objects weren't behaving as expected\n[/list]",
+        "commentcount": 176,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1728001880_0",
+            "ModAct_1426387032_1728010447_4"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4851030327585772230",
+        "event_gid": "4674264042203900860",
+        "voteupcount": 1042,
+        "votedowncount": 217,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4674264042199559951",
         "clanid": "3381077",
         "posterid": "0",
