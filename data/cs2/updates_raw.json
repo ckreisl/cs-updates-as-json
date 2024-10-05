@@ -1,5 +1,29 @@
 [
     {
+        "gid": "4674264042207544587",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 10/4/2024",
+        "posttime": 1728089263,
+        "updatetime": 1728089856,
+        "body": "[ MISC ][list]\n[*] Adjusted the score calculation in Casual, Competitive, and Wingman to exclude knife and utility damage\n[*] Fixed 3rd person weapon angles to fully incorporate recoil\n[*] Fixed missing cascade shadows on some community maps\n[*] Fixed the Armory weapon preview having extra models\n[*] Network jitter graphs now have a number in the upper right hand corner that gives the scale of the graph\n[*] Fixed some cases where shell casings could render as an error model\n[*] Various stability fixes[/list]",
+        "commentcount": 225,
+        "tags": [
+            "patchnotes",
+            "ModAct_1434573178_1728089457_0",
+            "mod_reviewed",
+            "ModAct_1434573178_1728091503_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4851030529135481830",
+        "event_gid": "4674264042207544586",
+        "voteupcount": 852,
+        "votedowncount": 572,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4674264042203900861",
         "clanid": "3381077",
         "posterid": "0",
