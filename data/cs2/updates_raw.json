@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4676516476953404526",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 10/8/2024",
+        "posttime": 1728432470,
+        "updatetime": 1728432470,
+        "body": "[ GRAPHICS ][list]\n[*] Fixed certain particle effects, like tracers, to fall back to mixed resolution for better performance when using low graphics settings with MSAA disabled.\n[*] Improved lighting artifacts in various interior places when compiling maps.\n[/list]\n\n[ MISC ][list]\n[*] Teammate colors will now be assigned on official servers as soon as all players press ACCEPT. This will ensure that colors are correct during Pick/Ban phase, and during Warmup.\n[*] Improvements in Charms reactivity physics system to better align with weapon animations.\n[/list]",
+        "commentcount": 157,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1728433171_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4843149663166295925",
+        "event_gid": "4676516476953404525",
+        "voteupcount": 872,
+        "votedowncount": 211,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4674264042207544587",
         "clanid": "3381077",
         "posterid": "0",
