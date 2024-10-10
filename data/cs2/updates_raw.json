@@ -1,5 +1,28 @@
 [
     {
+        "gid": "7514910232813947875",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 10/9/2024",
+        "posttime": 1728517260,
+        "updatetime": 1728517260,
+        "body": "[ MISC ][list]\n[*] Performance optimizations in hierarchies of unchanged entities.\n[*] Various stability improvements.\n[/list]\n\n[ MAPS ][list]\n[*] Mirage\n[list]\n[*] Fixed disappearing geometry in apartments.\n[/list]\n[/list]",
+        "commentcount": 129,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1728518965_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "6497096716246043937",
+        "event_gid": "7514910232813947874",
+        "voteupcount": 683,
+        "votedowncount": 129,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4676516476953404526",
         "clanid": "3381077",
         "posterid": "0",
