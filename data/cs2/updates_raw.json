@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4522268822998171357",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 10/15/2024",
+        "posttime": 1729032146,
+        "updatetime": 1729032146,
+        "body": "[ GRAPHICS ][list]\n[*] Fixed mixed resolution rendering from erroneously resetting during map changes.\n[*] Fixed a known crash when compiling lighting in Counter-Strike 2 Workshop Tools.\n[*] Fixed detail normal UV scaling.\n[*] Fixed several biplanar mapping bugs, added support for nonuniform scale in biplanar mapping mode.\n[*] Added an option to apply albedo color correction to transmissive foliage textures, and adjusted the foliage shader for more accurate color correction.\n[*] Added a startup warning when the game is launched under low available system memory conditions or with a limited pagefile size. These conditions may cause the game to be unstable or crash.\n[*] Various stability improvements.\n[/list]\n\n[ UI ][list]\n[*] Fixed UI checkboxes behaving inconsistently when depositing or extracting a large number of items into and from Storage Units.\n[*] Fixed a regression with loading animated Steam avatars, the cows are mooooving again.\n[/list]",
+        "commentcount": 236,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1519738978_1729034166_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4699035108376684466",
+        "event_gid": "4522268822998171356",
+        "voteupcount": 1110,
+        "votedowncount": 223,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "7514910232813947875",
         "clanid": "3381077",
         "posterid": "0",
