@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4522269457743085635",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 10/23/2024",
+        "posttime": 1729722511,
+        "updatetime": 1729722511,
+        "body": "[ MAPS ]\nVertigo\n[list]\n[*] Fixed a bad collision interaction between grenades and a prop.\n[*] Fixed a wall bang exploit.\n[/list]\nMills\n[list]\n[*] Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3152430710]Update Notes[/url]).\n[*] Added localization strings for location callouts.\n[/list]\n\n[ MISC ]\n[list]\n[*] Fixed mouselook inconsistencies when game render dimensions are different from game window dimensions.\n[*] Fixed erroneous target aim punch animation during client-side shooting.\n[*] Fixed erroneous Zeus shock effect during client-side shooting.\n[*] Fixed a bug where Zeus headshots wouldn't emit the death yelp.\n[/list]\n\n[ UI ]\n[list]\n[*] Prior Major results are now available in the Majors tab in the Watch menu.\n[/list]",
+        "commentcount": 311,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1729722815_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4699035743124775174",
+        "event_gid": "4522269457743085634",
+        "voteupcount": 1348,
+        "votedowncount": 402,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4522268822998171357",
         "clanid": "3381077",
         "posterid": "0",
