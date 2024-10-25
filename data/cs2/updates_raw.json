@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4522269457743085700",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 10/24/2024",
+        "posttime": 1729812287,
+        "updatetime": 1729812287,
+        "body": "[ MISC ]\n[list]\n[*] Fixed a bug where grenades were generating headshot sounds.\n[*] Fixed a bug where grenades were not bouncing off certain dynamic props.\n[*] Fixed a bug where Copenhagen 2024 winners were not showing up in the Majors tab in the Watch menu.\n[/list]\n",
+        "commentcount": 142,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1729812831_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4699035743124836336",
+        "event_gid": "4522269457743085699",
+        "voteupcount": 645,
+        "votedowncount": 146,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4522269457743085635",
         "clanid": "3381077",
         "posterid": "0",
