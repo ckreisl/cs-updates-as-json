@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4522269457743085933",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 10/28/2024",
+        "posttime": 1730163625,
+        "updatetime": 1730163625,
+        "body": "[ JUMPING ]\n[list]\n[*] Improved jump height consistency to be within 0.015625 of a unit regardless of distance from the map origin at coordinate (0,0,0).\n[list] [*] Previously, in both CS:GO and CS2, jump height could vary by up to 0.03125 of a unit depending on the distance from the map origin.\n[/list] [*] Improved consistency of successfully landing on surfaces very close to the maximum height of a jump.\n[*] Jump height is still affected by stamina; when using cl_showpos 2, stamina at takeoff is reported and output is color coded based on possible jump height.\n[*] Fixed a bug with cl_showpos display sometimes showing incorrect jump height when jumping from sloped surfaces.\n[*] Fixed some cases where the client would be pulled back down during a jump because the server disagreed that the jump had taken place.\n[/list]\n\n[ MISC ]\n[list]\n[*] Adjusted weapon pickup logic while near the C4, prioritizing defusing over accidental weapon pick-up.\n[*] Enemies will now consistently play a flinch animation on the closest hit when the bullet goes through two hitboxes of equal priority (e.g. when both right and left legs get hit).\n[*] HE grenade explosions within smoke now clear the accumulated smoke screen effect on players inside that smoke within range of the HE grenade explosion.\n[*] Stability improvements.\n[/list]\n\n[ MAPS ]\n[list]\n[*] Dust II\n[list]\n[*] Fixed a gap in geometry.\n[/list]\n[/list]",
+        "commentcount": 220,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1730163684_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4699036262719322207",
+        "event_gid": "4522269457743085932",
+        "voteupcount": 898,
+        "votedowncount": 155,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4522269457743085700",
         "clanid": "3381077",
         "posterid": "0",
