@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4461471496628338697",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 10/29/2024",
+        "posttime": 1730247351,
+        "updatetime": 1730247351,
+        "body": "[ MISC ]\n[list]\n[*] First-person inspect animation in Inventory and Loadout will now match in-game viewmodel settings and FOV.\n[*] Fixed a regression with smoke rendering from old demo files.\n[*] Fixed damage report to show correctly in Casual and Deathmatch game modes.\n[*] Added sv_jump_precision_enable so servers running certain custom game modes (e.g. surf) can opt out of jump precision improvements.\n[*] Fixed \"I have to go, my planet needs me.\"\n[/list]\n",
+        "commentcount": 142,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1519738978_1730248483_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4637111882089502502",
+        "event_gid": "4461471496628338696",
+        "voteupcount": 704,
+        "votedowncount": 103,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4522269457743085933",
         "clanid": "3381077",
         "posterid": "0",
