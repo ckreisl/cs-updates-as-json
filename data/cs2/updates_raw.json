@@ -1,5 +1,29 @@
 [
     {
+        "gid": "4461471496628338746",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Release Notes for 10/30/2024",
+        "posttime": 1730327594,
+        "updatetime": 1730330105,
+        "body": "[ MISC ]\n[list]\n[*] Increased jump tolerance for sliding along a surface to fix certain jumps like in the corner outside in cs_office.\n[*] Fixed a crash in page file usage when Vulkan initialization fails and the game falls back to DX11.\n[/list]\n",
+        "commentcount": 121,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1730328305_0",
+            "ModAct_871423085_1730330345_4"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4637111882089560323",
+        "event_gid": "4461471496628338745",
+        "voteupcount": 657,
+        "votedowncount": 112,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4461471496628338697",
         "clanid": "3381077",
         "posterid": "0",
