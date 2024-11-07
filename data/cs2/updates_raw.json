@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4472731215261073418",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1730939637,
+        "updatetime": 1730939637,
+        "body": "[ GAMEPLAY ]\n[list]\n[*] Various adjustments to bullet hit feedback.\n[*] Fixed a case mid-spray where lag compensation would rewind target hitboxes further into the past than what was on screen.\n[*] Jumping in place on a sloped surface will no longer result in players sliding a short distance.\n[*] Fixed a bug where C4 could be defused from any height.\n[/list]\n[ ANIMATION ]\n[list]\n[*] Fixes for IK logic to improve third-person feet posing, especially on slopes.\n[*] Fixed a case where the feet and legs of players could pop out of position when exiting the bomb-plant animation.\n[*] Reduced animation-related network bandwidth usage. \n[/list]\n[ MATCHMAKING ]\n[list]\n[*] Added more detailed matchmaking stats for players who try to find a match at off-peak times of day.\n[/list]\n[ MISC ]\n[list]\n[*] Activating an Armory Pass no longer grants the first Armory Credit immediately. All 40 Armory Credits can be earned by playing and earning XP.\n[/list]\n[ MAPS ]\n\nOffice\n[list]\n[*] Fixed geometry in the problematic jumping corner.\n[/list]\nAncient\n[list]\n[*] Reworked collision on the staircase to A-main for better player movement.\n[*] Removed a tree that was creating a distracting shadow at A site.\n[*] Adjusted collision to better match visible geometry so that players can hug the walls more closely.\n[*] Fixed a few lighting bugs.\n[*] Reduced shadows to increase perf in some areas.\n[*] Fixed some spots in house where you could get stuck.\n[*] Fixed collision gap at the bottom of B ramp.\n[*] Fixed some disappearing mesh.\n[/list]\nNuke\n[list]\n[*] Fixed some lighting errors on lower graphics settings.\n[/list]\nAnubis\n[list]\n[*] Fixed a gap in geometry.\n[/list]",
+        "commentcount": 240,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415727794_1730940603_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4637112519824036347",
+        "event_gid": "4472731215261073417",
+        "voteupcount": 1351,
+        "votedowncount": 254,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4461471496628338746",
         "clanid": "3381077",
         "posterid": "0",
