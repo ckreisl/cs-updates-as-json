@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4472731215261073716",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1731440537,
+        "updatetime": 1731441066,
+        "body": "[ NETWORK ]\n[list]\n[*] Fixed a case mid-spray where lag compensation wasn't aware of the user's \"Buffering to smooth over packet loss / jitter\" setting.\n[*] Improved clock synchronization to better handle downstream jitter bursts.\n[/list]\n\n[ TELEMETRY HUD ]\n[list]\n[*] Changed the method for measuring network quality to measure how much network is negatively impacting gameplay. It now measures how often a tick is missed due to network loss or jitter.\n[*] Added detailed network quality display option, which can be used to display the raw packet loss and jitter numbers.\n[*] For more details see [url=https://help.steampowered.com/en/faqs/view/5E6F-5B36-5485-F6B9]this article[/url].\n[/list]\n\n[ ABOUT THE NETWORK QUALITY READOUT ]\nPrior to the Armory Update, the network quality readout in the telemetry HUD considered packets to be \"bad\" under two circumstances.  1.) If the packet was dropped.  2.) If the packet was delivered out-of-order and was not corrected at a relatively low layer in the network stack.  This was not a useful metric for two reasons.  First, it counted some misdelivery events as \"bad\" even though they did not negatively impact gameplay.  This was especially a problem for packet reordering.  Second, it was not counting as \"bad\" packets that arrived late due to network jitter and [i]did[/i] negatively impact gameplay.  After debugging many instances of gameplay hitches with players, we determined that jitter was causing problems for many players, who believed (quite reasonably) that their network was working perfectly, since there was no packet loss.\n\nIn an attempt to let these players know that jitter might be the cause of the hitches, we changed the measurement method in the Armory Update on October 2, 2024.  Now, we counted a message as \"bad\" if it was lost, if packets arrived out of order in a way that could not be corrected, or if the packets experienced jitter above a threshold.  For players on a network connection with significant jitter, suddenly the network quality indicator became significantly worse.  Many players assumed that this meant that something had changed to introduce packet loss.\n\nUnfortunately, this method of measuring quality was also flawed.  The Source 2 Engine automatically adds buffering to smooth over jitter.  For many players, these automatic adjustments are enough, and the indicator was counting jittered packets as \"bad\" even when there was not negative impact on gameplay.\n\nToday's update changes the network quality readout to only measure network events that are negatively impacting gameplay.  See the [url=https://help.steampowered.com/en/faqs/view/5E6F-5B36-5485-F6B9]FAQ[/url] for more details.",
+        "commentcount": 264,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487176015_1731442633_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4637113068342519612",
+        "event_gid": "4472731215261073715",
+        "voteupcount": 1845,
+        "votedowncount": 256,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4472731215261073418",
         "clanid": "3381077",
         "posterid": "0",
