@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4458095069430284353",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1731540104,
+        "updatetime": 1731540104,
+        "body": "[ DAMAGE PREDICTION ][list]\n[*] Added damage prediction settings. Damage prediction allows clients to immediately play the audio/visual effects of inflicting damage without waiting for confirmation from the server. Damage prediction can make shooting feel significantly more responsive, but comes with the risk of occasionally being wrong (e.g. due to aim punch, tagging, or a death that your client isn't yet aware of).\n[*] Predicted body shot effects (disabled by default), head shot effects (disabled by default), and kill ragdolls (enabled by default) can each be toggled separately.\n[*] Damage prediction is not active when you have high ping.\n[/list]\n[ ANIMATION ][list]\n[*] Updated the third-person animation that plays when a player is blinded by a flashbang. The animation now accurately represents the player's visibility level, and the pose will only show the player's arm covering their eyes when they are completely blinded.\n[*] Fixed a case where legs weren't animating correctly while taking damage.\n[/list]\n[ GRAPHICS ][list]\n[*] Added ambient occlusion for first person legs to better ground them in the environment.\n[*] Performance optimizations for molotov and incendiary effects.\n[/list]\n[ GRENADES ][list]\n[*] Added axis labels to the grenade line-up reticle tick marks.\n[*] The grenade preview camera now shows the result of a jump throw while the jump button is held.\n[/list]\n[ MAP GUIDES ][list]\n[*] Added a map guide for Train, which demonstrates four simple Terrorist grenade line-ups. To load a map guide, go to Play\u2192Practice and toggle \"Load Map Guides\" on.\n[*]Added concommands annotation_* which enable the creation, saving, and loading of map guide nodes and files, which are stored in /annotations/.\n[/list]\n[ MISC ][list]\n[*] New game settings for radar map blending and background opacity.\n[*] Fixed a case where progress from a previously completed Armory Pass would show during activation of a new pass.\n[*] Fixed a regression with Chinese input via the Microsoft Input Methods.\n[*] CSTV now allows setting tv_delay and tv_delay1 to a value smaller than 6 seconds.\n[*] Charm Template number is now available in Charm descriptions.\n[/list]\n[ MAPS ]\n\nTrain[list]\n[*] Added Train to Competitive, Casual, and Deathmatch modes.\n[/list]\nCommunity Maps[list]\n[*] Added [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3329258290]Basalt[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3328169568]Edin[/url] to Competitive, Casual, and Deathmatch modes.\n[*] Added [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3257582863]Palais[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3308613773]Whistle[/url] to Wingman mode.\n[*] Removed Thera, Mills, Assembly, and Memento from all game modes.\n[/list]\nAncient[list]\n[*] Fixed some lighting errors.\n[*] Fixed some collision gaps.\n[*] Fixed some bad wall bang spots.\n[*] Fixed a stuck spot.\n[/list]\nItaly[list]\n[*] Fixed some bad boost spots.\n[/list]\nMirage[list]\n[*] Fixed a pixel peek. \n[/list]\nOverpass[list]\n[*] Visual updates to canals area and B-site.\n[*] Rework of heaven drop down mechanics.\n[*] Performance improvements, particularly in canals area and B-site.\n[*] Added a sign that blocks a bad line of sight from long boost to CT spawn.\n[*] Removed small fence at the edge of party/picnic that interfered with visibility to train station.\n[*] Removed some geometry under wrecked truck that looked like player legs.\n[*] Replaced some windows with opaque surfaces in train station to remove bad lines of sight.\n[*] Deleted a tree that interfered with a line of sight.\n[*] Moved one of the crate lids on A-site to block a bad line of sight.\n[*] Removed some lamps that could look like player heads at A-site.\n[*] Removed some trees and objects around park and train station that prevented players from backing into certain useful spaces.\n[*] Removed a chain link fence in alley that made players hard to see.\n[*] Adjustments to fog and decreased the distance at which character models get an increased visibility effect.\n[*] Made shelf in heaven look less like a player.\n[*] Adjusted props and lights in heaven to reduce noise and make players brighter.\n[*] Removed handcart behind barrels at B-site so players can back into the corner.\n[*] Adjusted collision around barrels for better player movement.\n[*] Added light behind barrels for better player visibility.\n[*] Fixed weird collision on barrel that made for inconsistent wall bangs.\n[*] Fixed bad graffiti rendering at B-site.\n[*] Removed concrete block behind the cement bags at B-site for less awkward player movement.\n[*] Set many smaller props to exclude player movement and grenade bounces.\n[*] Fixed some pixel peeks.\n[*] Small visual updates throughout the map.\n[/list]\nShoots[list]\n[*] Performance improvements in some areas.\n[/list]",
+        "commentcount": 189,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1731541124_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "6306822807244243311",
+        "event_gid": "4458095069430284352",
+        "voteupcount": 1832,
+        "votedowncount": 118,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4472731215261073716",
         "clanid": "3381077",
         "posterid": "0",
