@@ -1,5 +1,28 @@
 [
     {
+        "gid": "6562402086097518653",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1731628399,
+        "updatetime": 1731628399,
+        "body": "[ MAP GUIDES ][list]\n[*] Fixed a bug where missing text for a user's language wouldn't fall back to English\n[/list]\n[ MAPS ]\n\nTrain[list]\n[*] Fixed various collision issues including a higher fidelity for the orange train on B site\n[*] Minor fixes on textures stretching\n[*] Fixed various gaps in map\n[*] Disabled player collision on radio\n[*] Updated radio sound\n[*] Added vphysics clip to platform gap in T spawn for clumsy players\n[*] Players can now get on top of cratestack outside of longdog\n[/list]\nOverpass[list]\n[*] Fixed lighting bug on Bombsite B\n[*] Fixed footstep sound bug on mud surfaces\n[/list]\nBasalt[list]\n[*] Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290]Update Notes[/url])\n[/list]",
+        "commentcount": 159,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1731628643_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "6306822807244305438",
+        "event_gid": "6562402086097518652",
+        "voteupcount": 960,
+        "votedowncount": 103,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4458095069430284353",
         "clanid": "3381077",
         "posterid": "0",
