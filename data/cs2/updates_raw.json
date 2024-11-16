@@ -1,5 +1,28 @@
 [
     {
+        "gid": "6562402086097518697",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1731709232,
+        "updatetime": 1731709232,
+        "body": "[ MAPS ]\n\nTrain[list]\n[*] Removed unintended boost in B halls\n[*] Added grenade collision to out of bounds areas\n[*] Fixed gap in world by longdog exit\n[*] Added collision to B site broken ceiling\n[*] Fixed collision type on oilcar in B site\n[/list]",
+        "commentcount": 175,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1731709799_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "6306822807244356701",
+        "event_gid": "6562402086097518696",
+        "voteupcount": 1268,
+        "votedowncount": 104,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "6562402086097518653",
         "clanid": "3381077",
         "posterid": "0",
