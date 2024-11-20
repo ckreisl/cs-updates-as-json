@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4472732402493423623",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1732063504,
+        "updatetime": 1732063504,
+        "body": "[ GAMEPLAY ][list]\n[*] Fixed a case where a disconnected player could cause a poltergeist CT model to appear in the middle of the map\n[*] Player model of a disconnecting player should now immediately suicide when disconnect is detected instead of lingering for 10 additional seconds under certain conditions\n[*] Fixed a case where damage prediction was incorrect due to view angle changes mid-spray\n[*] Lag compensation now runs when shooting at teammates and mp_teammates_are_enemies is enabled even when mp_friendlyfire is disabled\n[/list]\n[ UI ][list]\n[*] Fixed layout inconsistencies for ranks display and player profiles\n[/list]\n[ MAPS ]\n\nTrain[list]\n[*] Updated sounds on main menu background\n[*] Improved movement around ladders\n[*] Fixed various gaps in map\n[*] Fixed z-fighting in various spots\n[/list]\nInferno[list]\n[*] Fixed various holes \n[*] Adjusted clipping in multiple spots\n[*] Fixed various texture bugs\n[/list]\nNuke[list]\n[*] Fixed a spot that players could get stuck on\n[/list]\nOffice[list]\n[*] Fixed a case where a T would spawn in the air\n[/list]",
+        "commentcount": 170,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1519738978_1732064455_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4637113788886158028",
+        "event_gid": "4472732402493423622",
+        "voteupcount": 949,
+        "votedowncount": 97,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "6562402086097518697",
         "clanid": "3381077",
         "posterid": "0",
