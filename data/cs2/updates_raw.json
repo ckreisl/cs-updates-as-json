@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4472733036435210472",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1732746538,
+        "updatetime": 1732746538,
+        "body": "[ SHANGHAI 2024 MAJOR ]\n[list]\n[*] The Shanghai Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.\n[*] Purchase a Shanghai 2024 Viewer Pass to receive an upgradable Shanghai 2024 Coin. With an active pass, you can upgrade your coin and earn extra souvenir packages by playing the Pick'Em Challenge. Additionally, you will show up on the Active Pass Leaderboard where you can compare your Pick'Em Challenge performance to your friends.\n[*] All players with Prime status can place Pick'Em picks for free! However, to complete challenges and earn rewards from an event stage, you will have to activate a Viewer Pass before that stage begins.\n[/list]\n[ MUSIC KITS ]\n[list]\n[*] A new music kit \u201cAy Hey\u201d by Perfect World is now available for purchase in-game in standard and StatTrak versions.\n[/list]\n[ GAMEPLAY ]\n[list]\n[*] Added \"sv_quantize_movement_input\" setting, enabled by default, to keep players from using analog binds to move at fractional speeds that the game is not designed to handle.\n[*] In cases when servers toggle some game rules from competitive to deathmatch and back to competitive mid-match, the weapons will no longer disappear when dropped on the ground, but toggling game rules settings without reloading the map is not a generally supported workflow for community servers.\n[/list]\n[ ANNOTATIONS ]\n[list]\n[*] Added support for turning off text background\n[*] Added support for grenade types other than Smoke\n[*] Increased node limit from 100 to 300\n[*] Fixed annotation_delete_previous_node not cleaning up particle effects\n[/list]\n[ MISC ]\n[list]\n[*] Added ability to rent weapons from all previous CS:GO weapon cases.\n[*] Added policy settings to enforce client delta ticks order, namely sv_deltaticks_enforce and sv_deltaticks_log, which should help diagnosing configurations causing delta ticks out of order disconnects.\n[*] Fixed a case where an unlocalized #SLOT prefix could appear in chat.\n[*] Added a reference Counter-Strike Broadcast Playcast Webserver implementation: https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Broadcast#Reference_Playcast_Webserver_Implementation\n[/list]\n[ MAPS ]\n\nBasalt\n[list]\n[*] Updated to latest version from Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290]Update Notes[/url])\n[/list]\nTrain\n[list]\n[*] Fixed various gaps in map                                                                                                                                                                                                           \n[*] Collision fidelity upgrades\n[*] Blockers added for train in B to avoid unfair angles\n[*] Various visual fixes\n[/list]",
+        "commentcount": 122,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1732747328_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4637114422843730324",
+        "event_gid": "4472733036435210471",
+        "voteupcount": 767,
+        "votedowncount": 96,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4472732402493423623",
         "clanid": "3381077",
         "posterid": "0",
