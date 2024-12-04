@@ -1,5 +1,28 @@
 [
     {
+        "gid": "4472733036435211444",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1733260779,
+        "updatetime": 1733260779,
+        "body": "[ SHANGHAI MAJOR ]\n[list]\n[*] Updated MIBR player sticker items autographed by Lucaozy with the autographs of brnz4n.\n[*] Fixed a UI bug that allowed dropping Pick'Em team logos outside of Major Pick'Em hub using both mouse buttons.\n[*] Pick'Em challenge picks can now be placed for the upcoming Elimination Stage of Shanghai Major.\n[/list]\n\n[ DAMAGE PREDICTION ]\n[list]\n[*] Predicted ragdolls without a confirmation or correction from the server within a short time window will now revert.\n[/list]\n\n[ MAPS ]\n[list]\n\n[*] Train\n[list]\n[*] Increased collision fidelity of several models\n[/list]\n\n[*] Overpass\n[list]\n[*] Replaced railing inside Heaven with a wall\nAdditional visibility improvements in Heaven\n[/list]\n\n[*] Edin\n[list]\n[*] Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3328169568]Update Notes[/url])\n[/list]\n\n[*] Palais\n[list]\n[*] Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3257582863]Update Notes[/url])\n[/list]\n[/list]\n[ MISC ]\n[list]\n[*] Fixed 'boost player contrast' visibility rendering option sometimes revealing parts of players or weapons through thin surfaces.\n[*] Added r_allow_low_gpu_memory_mode setting to allow running CS2 Workshop Tools in low memory GPU conditions.\n[*] Fixed various bugs in Hammer.\n[/list]\n",
+        "commentcount": 209,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487176015_1733261066_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "4637115050041016496",
+        "event_gid": "4472733036435211443",
+        "voteupcount": 1535,
+        "votedowncount": 208,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4472733036435210472",
         "clanid": "3381077",
         "posterid": "0",
