@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529833471389991083",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1734571536,
+        "updatetime": 1734571536,
+        "body": "[ SHANGHAI MAJOR ]\n[list]\n[*]Shanghai 2024 Major Champions Capsule is now available for purchase. The capsule features autographs for each member of the winning team in paper, glitter, holo, and gold. 50% of the proceeds go to the players and organizations.[/list]\n[ GAMEPLAY ]\n[list]\n[*]Adjusted the threshold at which death notice displays attacker as \"flashed\".\n[*]Explosions will now more reliably throw weapons around even if multiple weapons are dropped on top of each other.\n[*]During warmup, weapons will no longer drop on the ground when changing teams.\n[*]During warmup, changing teams now has a two second cooldown.\n[*]Added server settings controlling which items drop on the ground during warmup period: mp_warmup_items_drop_policy, mp_warmup_items_nocost, mp_warmup_items_nocount_policy. Community servers that run with free non-droppable weapons during warmup can set these settings as follows: mp_warmup_items_drop_policy 0, mp_warmup_items_nocost 1, mp_warmup_items_nocount_policy 251.\n[*]Give command will now always drop the held weapon if the given weapon needs an empty primary/secondary weapon slot to be used. For legacy behaviour, which would drop the new weapon on the ground, developers can use \"-keep_gear\" flag, e.g. give weapon_awp -keep_gear[/list]\n[ MAPS ]\n[list]\n[*]\nTrain\n[list]\n[*]Improved collision fidelity on various props\n[*]Updated and fixed surface types on several props\n[*]Adjusted wetness levels on some surfaces\n[*]Fixed various gaps in map[/list]\n[/list][ MAP GUIDES ]\n[list]\n[*]Map Guides are now supported in the Steam Workshop for submission and subscription.\n[*]Added a selector to pick which map guide gets loaded in practice mode.\n[*]Annotations nodes are now visible in the radar.\n[*]Added a tool (via console command \"workshop_annotation_submit\") to submit a map guide to the Steam Workshop.[/list]\n[ MISC ]\n[list]\n[*]Added a setting for CPU Cores Usage Preference to control how high performance and power efficiency cores are used by the game on CPUs with variable cores.\n[*]Fixed a case where graphics driver could render a corrupt graphics image for weapons in inventory item tiles.\n[*]Improvements to weapon inspect animations.\n[*]Improvements to display of extra-long custom weapon names in UI.\n[*]Stability improvements.\n[*]Added all-new 2025 Service Medal which will be available starting January 1st GMT\n[*]Workshop Tools - Fixed bug on shadows for low sunlight angles[/list]",
+        "commentcount": 126,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1734571826_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594009760474395040",
+        "event_gid": "529833471389991082",
+        "voteupcount": 773,
+        "votedowncount": 83,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "4472733036435211444",
         "clanid": "3381077",
         "posterid": "0",
