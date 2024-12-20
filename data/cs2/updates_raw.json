@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529833630239817741",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1734650497,
+        "updatetime": 1734650497,
+        "body": "[ MAPS ]\n[list]\n[*]\nInferno\n[list]\n[*]Adjusted clipping on scaffolding on B site[/list]\n[/list][ MISC ]\n[list]\n[*]Fixed a problem on team select screen for servers with no auto-select time limit.\n[*]Fixed a regression with annotation_load command.\n[*]Fixed a crash for give item_assaultsuit command.\n[*]Adjusted the rarity of the rare AK-47 inspect animation.\n[*]Fixed a regression with the rare Desert Eagle inspect animation.[/list]",
+        "commentcount": 186,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1734650633_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594009924939300036",
+        "event_gid": "529833630239817740",
+        "voteupcount": 1186,
+        "votedowncount": 165,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529833471389991083",
         "clanid": "3381077",
         "posterid": "0",
