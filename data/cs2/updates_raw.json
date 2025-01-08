@@ -1,5 +1,28 @@
 [
     {
+        "gid": "520828168477605890",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1736293344,
+        "updatetime": 1736293344,
+        "body": "[ MAPS ]\n[list]\n[*]\nInferno\n[list]\n[*]Adjusted clipping on stairs under balcony[/list]\n[/list][ MISC ]\n[list]\n[*]Fixed offset discrepancy in legacy SSG08 model.\n[*]Fixed stickers mask on legacy Dual Elites magazine model.\n[*]Fixed Dual Elite pistol holster floating off the local firstperson leg model.\n[*]Fixed a regression in grenade interactions with ragdolls.\n[*]Fixed a bug where +attack2 and +lookatweapon composite binding could get silenced weapon into an inconsistent silencer state.[/list]",
+        "commentcount": 459,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1519738978_1736294492_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "604144761581863833",
+        "event_gid": "520828168477605889",
+        "voteupcount": 1097,
+        "votedowncount": 691,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529833630239817741",
         "clanid": "3381077",
         "posterid": "0",
