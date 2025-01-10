@@ -1,5 +1,28 @@
 [
     {
+        "gid": "520828168477606336",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1736472361,
+        "updatetime": 1736472361,
+        "body": "[ MAPS ]\n[list]\n[*]\nTrain\n[list]\n[*]Fixed various minor visual bugs and gaps in world\n[*]Added dirt and wetness onto crates and tarps where appropriate\n[*]Widened opening on A site between Hell and Tunnels\n[*]Opened container door on back of the train near Ivy/Tunnels[/list]\n[/list][ MISC ]\n[list]\n[*]Fixed a case where ragdolls could get created with extreme initial velocities\n[*]Added markup for individual matches in Steam Game Recording timeline\n[*]Fixed a regression where deploying weapons weren't allowing immediate inspecting\n[*]Fixed fingers crossing into butterfly knife geometry during inspect animation\n[*]Fixed weekly care package preview of weapon cases not having a close button\n[*]When moving away from annotation nodes, required grenade is no longer removed[/list]",
+        "commentcount": 309,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1736472478_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "604144884892356511",
+        "event_gid": "520828168477606335",
+        "voteupcount": 1297,
+        "votedowncount": 300,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "520828168477605890",
         "clanid": "3381077",
         "posterid": "0",
