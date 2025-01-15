@@ -1,5 +1,28 @@
 [
     {
+        "gid": "518577002799693839",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1736904429,
+        "updatetime": 1736904429,
+        "body": "[ SHANGHAI MAJOR ]\n[list][*]Shanghai 2024 Major sticker capsules are now on sale for 75% off[/list]\n[ ARMORY ]\n[list][*][i]Desert Eagle | Heat Treated[/i] is no longer available to claim from The Armory[/list]\n[ MISC ]\n[list]\n[*]Fixed finger placement during Huntsman knife in-game inspect animation\n[*]Fixed a bug where grenade icons weren't disappearing on the spectator map\n[*]Fixed a case when spectator icon could show up at the wrong time on the radar\n[*]Fixed a bug related to changing inspect scenery while inspecting knives[/list]",
+        "commentcount": 144,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1736904832_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "595138196466045870",
+        "event_gid": "518577002799693838",
+        "voteupcount": 828,
+        "votedowncount": 225,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "520828168477606336",
         "clanid": "3381077",
         "posterid": "0",
