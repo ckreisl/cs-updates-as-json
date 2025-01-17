@@ -1,5 +1,28 @@
 [
     {
+        "gid": "523080783919841381",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1737076071,
+        "updatetime": 1737076071,
+        "body": "[ MISC ]\n[list]\n[*]Updating Steam libraries for Linux game servers to the latest version of Steam Client Beta\n[*]Improved Linux game servers ability to reconnect to Steam after a disconnection\n[*]Stability improvements[/list]",
+        "commentcount": 157,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1598046824_1737076405_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "777534074828939979",
+        "event_gid": "523080783919841380",
+        "voteupcount": 662,
+        "votedowncount": 135,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "518577002799693839",
         "clanid": "3381077",
         "posterid": "0",
