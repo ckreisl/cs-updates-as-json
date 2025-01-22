@@ -1,5 +1,28 @@
 [
     {
+        "gid": "520829437562847237",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1737506788,
+        "updatetime": 1737506788,
+        "body": "[ MISC ]\n[list]\n[*]Minor performance optimization for some CPU-bound cases.\n[*]Follow recoil setting during spectating will now obey spectator target's crosshair setting if target's crosshair is shown.\n[*]Added support for updating existing map annotations on Steam Workshop. For example use \"workshop_annotation_submit 123456\" to update your submission ID=123456 found in the workshop URL. Passing an ID that does not belong to you will create a brand new submission. After the first update the ID will get embedded in the annotation file and you can submit more changes without having to provide the ID again.[/list]",
+        "commentcount": 121,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1519738978_1737507719_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "604146030671301462",
+        "event_gid": "520829437562847236",
+        "voteupcount": 658,
+        "votedowncount": 119,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "523080783919841381",
         "clanid": "3381077",
         "posterid": "0",
