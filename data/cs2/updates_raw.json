@@ -1,5 +1,28 @@
 [
     {
+        "gid": "520829437562848529",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1738025810,
+        "updatetime": 1738025810,
+        "body": "[ PREMIER ]\n[list]\n[*]Premier Season One is now over, and Premier matchmaking has been temporarily disabled.[/list]",
+        "commentcount": 190,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1738027825_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "604146450928081209",
+        "event_gid": "520829437562848528",
+        "voteupcount": 963,
+        "votedowncount": 143,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "520829437562847237",
         "clanid": "3381077",
         "posterid": "0",
