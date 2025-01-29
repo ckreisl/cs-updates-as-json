@@ -1,5 +1,28 @@
 [
     {
+        "gid": "520830071182721027",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1738107647,
+        "updatetime": 1738107647,
+        "body": "[ PREMIER ]\n[list]\n[*]Premier Season Two is here, and Premier matchmaking has resumed\n[*]Every player who earned a CS Rating during Season One will receive a commemorative Premier Season One Medal which includes detailed Season Statistics\n[*]Every player will have their CS Rating recalibrated based on their Season One performance, and will need to re-establish their CS Rating by winning 10 matches\n[*]Train has been added to the Active Duty map pool\n[*]Vertigo has been removed from the Active Duty map pool\n[/list]\n\n[ GAMEPLAY ]\n[list]\n[*]M4A4 price reduced to $2,900\n[*]FAMAS accuracy improved and price reduced to $1,950\n[*]Reduced crouching accuracy for the MP9, MP5-SD, and MP7\n[*]Adjusted scope dot on AUG/SG to be more useable at range\n[/list]\n\n[ UI ]\n[list]\n[*]Added a new radar dynamic zoom option that will grow or shrink the radar to include your team mates, bomb and other detected elements\n[*]Adjusted grenade order in spectator UI to match weapon selection order\n[*]Increased brightness of carried C4 in UI\n[/list]\n\n[ MAPS ]\nTrain\n[list]\n[*]Removed a boost angle from Long Dog to Bombsite A\n[*]Fixed lighting artifacts on double-sided materials\n[/list]\n\n[ MISC ]\n[list]\n[*]Added fallback logic to allow playing incomplete demo files, either copied from an ongoing live match or recovered after a game server crash\n[*]Fixed an exploit where users could use secondary fire on R8 Revolver and then sell it back\n[*]Counter-strafe summaries are now available in game server log data distributed via log address in addition to console logs\n[/list]",
+        "commentcount": 140,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1519738978_1738108357_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "604146664297465231",
+        "event_gid": "520830071182721026",
+        "voteupcount": 1020,
+        "votedowncount": 97,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "520829437562848529",
         "clanid": "3381077",
         "posterid": "0",
