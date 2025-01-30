@@ -1,5 +1,28 @@
 [
     {
+        "gid": "520830071182721128",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1738200557,
+        "updatetime": 1738200557,
+        "body": "[ MAPS ]\n[list]\n[*]Basalt - updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290]Update Notes[/url]).[/list]\n[ MISC ]\n[list]\n[*]Activated Premier Season Two progress indicator in the play menu.\n[*]Fixed regressions with AUG/SG scope graphics.[/list]",
+        "commentcount": 129,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1738200709_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "604146664297536661",
+        "event_gid": "520830071182721127",
+        "voteupcount": 867,
+        "votedowncount": 109,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "520830071182721027",
         "clanid": "3381077",
         "posterid": "0",
