@@ -1,5 +1,28 @@
 [
     {
+        "gid": "520830071182721727",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1738630259,
+        "updatetime": 1738630259,
+        "body": "[ MISC ]\n[list]\n[*]Fixed AUG scope stencil filter bug near water surfaces.\n[*]Fixed Premier progress bar not displaying properly in low resolutions.\n[*]Fixed certain UI panels not rendering transparently when using CMAA2 and HDR performance settings simultaneously.\n[*]Improved dynamic radar scale to snap size when a newly discovered enemy/C4 enters radar view, but still shrink gradually when enemy/C4 disappears and enough time passes.\n[*]Fixed radar scale settings UI to support full range of radar scale from 0.25 to 1.0 values.\n[*]Fixed sounds from Train inspect scenery not getting cleared when going back to the main menu.\n[*]Fixed misprediction error smoothing near walls to avoid clipping through walls.\n[*]Fixed cloth simulation bug on loopback=1 local servers.[/list]",
+        "commentcount": 193,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415727794_1738630423_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "604147119540998759",
+        "event_gid": "520830071182721726",
+        "voteupcount": 1052,
+        "votedowncount": 151,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "520830071182721128",
         "clanid": "3381077",
         "posterid": "0",
