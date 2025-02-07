@@ -1,5 +1,28 @@
 [
     {
+        "gid": "520830705162257116",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1738883366,
+        "updatetime": 1738883366,
+        "body": "[ PREMIER ]\n[list]\n[*]Adjusted the logic that determines when players are too far apart in CS Rating to participate in matchmaking together as a party. In most cases, players who used to play together as a party in Premier Season One will be able to party together in Premier Season Two.[/list]\n\n[ UI ]\n[list]\n[*]Added \"Get Service Medal\" UI element directly to the main menu profile card.\n[*]Fixed a case where main menu profiles were missing display medals.\n[*]Updated Dust II radar image to be more accurate.[/list]\n\n[ MISC ]\n[list]\n[*]Fixed a case where inspect or reload button presses could cause prediction errors.[/list]",
+        "commentcount": 156,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1598046824_1738884080_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "604147460574562242",
+        "event_gid": "520830705162257115",
+        "voteupcount": 1229,
+        "votedowncount": 144,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "520830071182721727",
         "clanid": "3381077",
         "posterid": "0",
