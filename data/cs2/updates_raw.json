@@ -1,5 +1,28 @@
 [
     {
+        "gid": "748263301754912774",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1739491126,
+        "updatetime": 1739491126,
+        "body": "[ UI ]\n[list]\n[*]Fixed sizing and scaling of UI elements shared between buy menu and in-game HUD.\n[*]Fixed a bug with armor display for CSTV spectators.\n[*]Updated alternate AK-47 inspect animation.[/list]\n\n[ WORKSHOP ]\n[list]\n[*]Increased supported upload size for Counter-Strike 2 Steam Workshop Maps to 3 GB.[/list]\n",
+        "commentcount": 194,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1598046824_1739491505_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "521957336989892073",
+        "event_gid": "748263301754912773",
+        "voteupcount": 1077,
+        "votedowncount": 172,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "520830705162257116",
         "clanid": "3381077",
         "posterid": "0",
