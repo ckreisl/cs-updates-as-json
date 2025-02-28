@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529839807839339586",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1740703091,
+        "updatetime": 1740703091,
+        "body": "[ MAPS ]\n[list]\n[*]Inferno[list]\n[*]Fixed roof geometry at church that was visible from boiler entrance.[/list][/list]\n\n[ MISC ]\n[list]\n[*]Fixed a case where voice chat would break after unloading a Steam Workshop map.\n[*]Fixed a case where game client would crash if certain community server plugins were restricting networking of player entities.\n[*]Fixed several bugs in applying patches UI.[/list]\n",
+        "commentcount": 159,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1598046824_1740704507_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594016220529879225",
+        "event_gid": "529839807839339585",
+        "voteupcount": 797,
+        "votedowncount": 230,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "748263301754912774",
         "clanid": "3381077",
         "posterid": "0",
