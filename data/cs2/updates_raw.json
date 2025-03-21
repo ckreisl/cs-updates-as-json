@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529841887223218178",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1742512076,
+        "updatetime": 1742512076,
+        "body": "[ MAPS ]\n[list]\n[*]Updated Basalt to the latest version from Steam Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3329258290]Update Notes[/url])[/list]\n\n[ WORKSHOP ]\n[list]\n[*]Added ability to author and submit patterns for the Missing Link Charm to Counter-Strike 2 Steam Workshop.[/list]\n",
+        "commentcount": 338,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1598046824_1742512940_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594018181914298746",
+        "event_gid": "529841887223218177",
+        "voteupcount": 1166,
+        "votedowncount": 660,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529839807839339586",
         "clanid": "3381077",
         "posterid": "0",
