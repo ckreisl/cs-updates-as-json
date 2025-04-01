@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529842339955345113",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1743462392,
+        "updatetime": 1743462392,
+        "body": "[ WEEKLY CARE PACKAGE ]\n[list]\n[*] Added three all-new weapon collections to the Weekly Care Package drop list: Ascent, Boreal, and Radiant\n[*] Removed four weapon collections from the Weekly Care Package drop list: Bank, Italy, Lake, and the original Train collection\n[/list]\n\n[ ARMORY ]\n[list]\n[*] Added new Armory Content:\n[*] The Train 2025 Collection\n[*] The Fever Case\n[*] A new Limited Edition Item: the XM1014 | Solitude\n[/list]\n\n[ MAPS ]\n\n[i]Inferno[/i]\n[list]\n[*] Adjusted Banana to more closely match the size of the CS:GO version\n[*] Simplified background behind T ramp\n[*] Simplified view into Pit\n[*] Simplified background of Bombsite B\n[*] Removed step on sides of Arch hallway\n[*] Removed pixel gap at Coffin\n[*] Adjusted crates on steps up to balcony so players step up reliably\n[*] Adjusted or removed props throughout map\n[*] Adjusted Player and Grenade collision throughout map\n[/list]\n\n[i]Train[/i]\n[list]\n[*] Fixed a bug where player shadows would render through windows above A main\n[*] Fixed some holes in the world\n[*] Simplified back wall by door to Z\n[*] Simplified background by upper B entrance\n[*] Shortened overhead roof rail in A site, to make it easier to throw utility into site\n[*] Replaced see-through grating on catwalk outside of Z door\n[*] Replaced see-through fences at top if Ivy with solid version\n[*] Simplified brick wall by Ivy\n[*] Fixed grenade collision on upper B arch\n[/list]",
+        "commentcount": 339,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1743463012_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594019168548826204",
+        "event_gid": "529842339955345112",
+        "voteupcount": 2237,
+        "votedowncount": 278,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529841887223218178",
         "clanid": "3381077",
         "posterid": "0",
