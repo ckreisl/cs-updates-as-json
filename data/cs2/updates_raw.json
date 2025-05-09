@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529846144626329209",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1746742278,
+        "updatetime": 1746742278,
+        "body": "[ MISSIONS ]\n[list]\n[*] Fixed a case where mission progress appeared to be reset when reconnecting to a match in-progress.\n[/list]\n[ MAPS ]\n[list]\n[*] Grail:\n[list]\n[*] Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710]Update Notes[/url]).\n[/list][/list]\n[ GRAPHICS ]\n[list]\n[*] Fixed a case where fire was visible through smoke.\n[/list]\n[ AUDIO ]\n[list]\n[*] Various UI sound bug fixes and tweaks.\n[/list]\n[ MISC ]\n[list]\n[*] Various crash fixes and stability improvements.\n[/list]\n\n",
+        "commentcount": 158,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1598046824_1746743461_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594022553707664274",
+        "event_gid": "529846144626329208",
+        "voteupcount": 1248,
+        "votedowncount": 258,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529846144626327636",
         "clanid": "3381077",
         "posterid": "0",
