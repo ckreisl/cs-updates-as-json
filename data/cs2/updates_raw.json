@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529846144626329751",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1747090703,
+        "updatetime": 1747090703,
+        "body": "[ MAPS ]\n[list]\n[*] Fixed a bug where searching for Defusal Group Alpha would lead to Anubis and Defusal Group Delta would lead to Vertigo.\n[/list]\nJura:\n[list]\n[*] Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3261289969]Update Notes[/url]).\n[/list]\nGrail:\n[list]\n[*] Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710]Update Notes[/url]).\n[/list]\nBrewery:\n[list]\n[*] Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3070290240]Update Notes[/url]).\n[/list]\nDogtown:\n[list]\n[*] Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3414036782]Update Notes[/url]).\n[/list]\n[ AUDIO ]\n[list]\n[*] Remastered various UI sounds.\n[/list]\n[ MISC ]\n[list]\n[*] Various crash fixes and stability improvements.\n[*] Various fixes for running on Linux with SDL_VIDEODRIVER=wayland.\n[/list]",
+        "commentcount": 271,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1691520782_1747092297_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594022969417679386",
+        "event_gid": "529846144626329750",
+        "voteupcount": 1072,
+        "votedowncount": 276,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529846144626329209",
         "clanid": "3381077",
         "posterid": "0",
