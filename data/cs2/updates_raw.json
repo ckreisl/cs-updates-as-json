@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529846144626330002",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1747174382,
+        "updatetime": 1747174382,
+        "body": "[ GAMEPLAY ]\n[list]\n[*] Fixed a bug where weapons purchased with \"Buy & Throw\" could be refunded after firing.\n[/list]\n[ PREMIER ]\n[list]\n[*] Season Two world and regional leaderboards are now populated.\n[/list]\n[ MISC ]\n[list]\n[*] Added HUD \"Glow Weapon with Rarity Color\" setting.\n[*] Minimally scraped stickers now cover over the gap on the front grip of the AK-47.\n[/list]",
+        "commentcount": 383,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1747175674_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "604156172870615225",
+        "event_gid": "529846144626330001",
+        "voteupcount": 1401,
+        "votedowncount": 555,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529846144626329751",
         "clanid": "3381077",
         "posterid": "0",
