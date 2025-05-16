@@ -1,5 +1,28 @@
 [
     {
+        "gid": "820329049655083174",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1747348176,
+        "updatetime": 1747348176,
+        "body": "[ GAMEPLAY ]\n[list]\n[*] Deathmatch mode now allows unbalanced teams.\n[/list]\n[ GRAPHICS ]\n[list]\n[*] Fixed a case where molotov and incendiary fire was visible through the AK-47 viewmodel.\n[*] Fixed a case where stickers covering the gap on the front grip of the AK-47 weren't lit correctly in left hand mode.\n[*] Fixed a case where inventory item icons rendered incorrectly while scoped in-game.\n[/list]\n[ AUDIO ]\n[list]\n[*] Shortened front end of the AK-47 fire sound.\n[*] Reduced delay for body shot impact sounds from the attacker perspective.\n[*] Body shot impact sounds from the attacker perspective will momentarily reduce the volume of weapon fire and ambience to help ensure feedback remains audible.\n[/list]",
+        "commentcount": 204,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1598046824_1747348580_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "827084449419156732",
+        "event_gid": "820329049655083173",
+        "voteupcount": 1488,
+        "votedowncount": 188,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529846144626330002",
         "clanid": "3381077",
         "posterid": "0",
