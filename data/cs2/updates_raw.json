@@ -1,5 +1,28 @@
 [
     {
+        "gid": "820329049655084171",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1747690932,
+        "updatetime": 1747690932,
+        "body": "[ MAPS ]\nJura:\n[list]\n[*] Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3261289969]Update Notes[/url]).\n[/list]",
+        "commentcount": 246,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487176015_1747691322_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "827084776213149723",
+        "event_gid": "820329049655084170",
+        "voteupcount": 1183,
+        "votedowncount": 522,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "820329049655083174",
         "clanid": "3381077",
         "posterid": "0",
