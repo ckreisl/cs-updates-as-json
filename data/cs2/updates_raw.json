@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529847413482979456",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1747866730,
+        "updatetime": 1747866730,
+        "body": "[ GAMEPLAY ]\n[list]\n[*] Rendered viewangle adjustments due to recoil are now calculated per frame.\n[/list]",
+        "commentcount": 209,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1747867165_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594023708174119877",
+        "event_gid": "529847413482979455",
+        "voteupcount": 1252,
+        "votedowncount": 170,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "820329049655084171",
         "clanid": "3381077",
         "posterid": "0",
