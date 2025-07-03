@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529850584204839877",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1751494314,
+        "updatetime": 1751494314,
+        "body": "[ AUSTIN 2025 MAJOR ]\n[list]\n[*] Champions Autographs Capsule is now available for purchase, congratulations to Team Vitality!\n[*] Highlight Souvenir Packages can now be acquired for the Playoff matches.\n[/list]\n\n[ MISC ]\n[list]\n[*] Added in-game lobby voice chat and voice chat during Premier Pick/Ban phase.\n[*] Fixed bad command flows in point_servercommand entities.\n[*] Fixed community maps not reloading correctly with \"restart\" command.\n[*] Buy binds are now disabled during halftime freeze phase.\n[*] Fixed scoreboard column text formatting in Japanese.\n[/list]\n",
+        "commentcount": 224,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1751498235_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594027571354572938",
+        "event_gid": "529850584204839876",
+        "voteupcount": 1571,
+        "votedowncount": 212,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529847413482979456",
         "clanid": "3381077",
         "posterid": "0",
