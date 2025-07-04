@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529850584204840489",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1751582741,
+        "updatetime": 1751582966,
+        "body": "[ MISC ]\n[list]\n[*]Added a description note to Souvenir Highlight Packages explaining that they will become tradable and marketable after 7 days.\n[*]Various stability improvements.\n[/list]",
+        "commentcount": 150,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1751555285_1751582991_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594027571354644695",
+        "event_gid": "529850584204840488",
+        "voteupcount": 1106,
+        "votedowncount": 190,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529850584204839877",
         "clanid": "3381077",
         "posterid": "0",
