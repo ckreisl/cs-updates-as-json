@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529852487375519750",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1752624090,
+        "updatetime": 1752625170,
+        "body": "[ Premier Season Three ]\n[list]\n[*]Premier Season Three is now open for business\n[*]Added Overpass to the Active Duty Map Pool\n[*]Removed Anubis from the Active Duty Map Pool\n[/list]\n[ GAMEPLAY ]\n[list]\n[*]Incendiary Grenade - incendiary grenade fire spreads more rapidly\n[*]MP9 - increased recoil magnitude and substantially reduced jumping accuracy\n[*]In Competitive modes, Counter-Terrorists now receive a $50 team award for each Terrorist eliminated in a round\n[/list]",
+        "commentcount": 412,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1752626510_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594028782065553319",
+        "event_gid": "529852487375519749",
+        "voteupcount": 1851,
+        "votedowncount": 700,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529850584204840489",
         "clanid": "3381077",
         "posterid": "0",
