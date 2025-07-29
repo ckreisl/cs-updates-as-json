@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529853121068793940",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1753737366,
+        "updatetime": 1753737366,
+        "body": "[ ANIMATION ]\n[list]\n[*] The animation system in CS2 is in the process of being upgraded to AnimGraph2, which requires reauthoring existing game content. Today's update replaces all first-person animations, including weapon deploy, firing, reload, and inspect animations\n[*] Replaced/updated all chicken animations\n[/list]\n\n[ GAMEPLAY ]\n[list]\n[*] Improvements to damage prediction when shooting while moving\n[*] Shotgun reloads will no longer resume automatically after being interrupted\n[*] Fixed several cases where a player would get stuck on map geometry while surfing (i.e., on surf maps)\n[/list]\n\n[ AUDIO ]\n[list]\n[*] Fixed a case where individual player voice volume adjustments weren't working correctly\n[*] Various improvements to weapon reload and draw sounds in conjunction with AnimGraph2 updates.\n[*] Added new speed-sensitive sounds that play while surfing (can be turned on with sv_surf_sounds, and can be adjusted via snd_surf_volume_inair, snd_surf_volume_map, snd_surf_volume_slide)\n[*] Various improvements to ambient sound content for community map makers\n[/list]\n\n[ MISC ]\n[list]\n[*] The Community Server Browser will now open in the Steam Overlay when playing in fullscreen exclusive mode\n[/list]\n\n[ MAPS ]\nOverpass\n[list]\n[*] Breakable glass added to B doors\n[*] Adjusted Heaven railing\n[*] Adjusted angle of truck on A site\n[*] Blocked view from truckbed to stairs\n[*] Moved up wall behind dumpster, by A stairs\n[*] Adjusted texturing on dumpster back wall\n[*] Removed some grass near A site\n[*] Flattened tops of broken walls near B site\n[*] Re-enabled wires around the map\n[/list]\nTrain\n[list]\n[*] Added new cover on A site by Hell train\n[*] Added new cover and adjusted platform on B site outside of Z\n[*] Added new cover in Upper B halls\n[*] Adjusted cover in Ivy\n[*] Removed horizontal stripes on large doors in A site\n[*] Raised CT side platform in B\n[*] Adjusted lighting on B site\n[*] Adjusted clipping throughout\n[/list]\nInferno\n[list]\n[*] Church windows opened above Coffins\n[*] Church garden pathway narrowed by entrance door and widened by Coffins\n[*] Adjusted shape of first box on B site\n[*] Repairs on A site balcony railing have been completed\n[*] Curbs removed along Mid\n[*] Arch light moved to ceiling\n[*] Adjusted Banana visuals to improve player legibility\n[*] Adjusted props throughout\n[/list]\nDogtown\n[list]\n[*] Updated to the latest version from the Community Workshop ([url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3414036782]Update Notes[/url])\n[/list]",
+        "commentcount": 1487,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1803566692_1753738552_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594029764725088208",
+        "event_gid": "529853121068793939",
+        "voteupcount": 5206,
+        "votedowncount": 4097,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529852487375519750",
         "clanid": "3381077",
         "posterid": "0",
