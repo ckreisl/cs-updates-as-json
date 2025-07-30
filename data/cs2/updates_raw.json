@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529853754800865284",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1753835381,
+        "updatetime": 1753835381,
+        "body": "[ GAMEPLAY ]\n[list]\n[*] Fixed a case where weapons could be fired prematurely due to a redeploy after a reload\n[*] Fixed a case where movement button changes were ignored while adjusting view angles at very high frame rates\n[*] Fixed a case where air strafing would result in higher than usual velocities\n[*] Speculative fix for a rare case where the dropped bomb appears in the wrong location\n[/list]\n\n[ MISC ]\n[list]\n[*] Various bug fixes and and changes to first-person animations and sounds\n[*] Fixed various nametag and StatTrak positions\n[*] Various fixes for AWP materials\n[*] Speculative fix for a rare case where holstered weapons appear attached to the deployed weapon\n[*] Fixed a bug where the CS2 music kit was replaced by the CS:GO music kit\n[*] Fixed a vote UI bug sometimes displaying vote result of another team's vote\n[/list]\n\n[ MAPS ]\nInferno\n[list]\n[*] Fixed a gap on the first stack at bombsite B\n[/list]\nOverpass\n[list]\n[*] Fixed clipping on the T fountain stairs\n[/list]\n\n",
+        "commentcount": 342,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1753835909_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594030049494048943",
+        "event_gid": "529853754800865283",
+        "voteupcount": 1603,
+        "votedowncount": 585,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529853121068793940",
         "clanid": "3381077",
         "posterid": "0",
