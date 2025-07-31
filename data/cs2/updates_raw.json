@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529853754800865381",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1753924058,
+        "updatetime": 1753924058,
+        "body": "[ GAMEPLAY ] \n[list]\n[*] Fixed a case where weapons (including dropped bombs) would appear in the wrong location.\n[*] Weapons can be fired immediately after a redeploy if reloading was cancelled before adding ammo.\n[/list]",
+        "commentcount": 158,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1753925978_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594030049494153896",
+        "event_gid": "529853754800865380",
+        "voteupcount": 787,
+        "votedowncount": 199,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529853754800865284",
         "clanid": "3381077",
         "posterid": "0",
