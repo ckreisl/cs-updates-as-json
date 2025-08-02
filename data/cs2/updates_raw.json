@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529853754800866484",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1754087653,
+        "updatetime": 1754087653,
+        "body": "[ GAMEPLAY ] \n[list]\n[*] Fixed a bug that would allow you to inspect a grenade after priming.\n[*] Fixed a bug that would prevent firstperson viewmodel lag.\n[*] Molotov again uses the correct fire particle.\n[*] Incendiary and smoke grenades now play the correct sounds.\n[*] Adjusted firstperson molotov audio and particle event timing.\n[*] Fixed a bug that would cause bhopping penalty to continue to accumulate even when jump had not been pressed.\n[*] Bhopping jump spam clock now starts at the instant the input is registered, rather than then end of the subtick where that command was processed.\n[/list]\n\n[ MAPS ]\nJura\n[list]\n[*] Updated to the latest version from the Community Workshop.\n[/list]\n",
+        "commentcount": 357,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1598046824_1754087737_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594030049494319010",
+        "event_gid": "529853754800866483",
+        "voteupcount": 2161,
+        "votedowncount": 461,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529853754800865381",
         "clanid": "3381077",
         "posterid": "0",
