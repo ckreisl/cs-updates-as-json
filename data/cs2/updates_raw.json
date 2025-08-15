@@ -1,5 +1,28 @@
 [
     {
+        "gid": "657081807721726197",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1755202903,
+        "updatetime": 1755202903,
+        "body": "[ MAPS ]\n\nAncient and Shoots\n[list]\n[*]Added nighttime versions.\n[*]Refreshed all ancient materials to use latest CS2 shaders.\n[*]Added new blending options for ancient materials including wetness and moss.\n[*]Added \"ancient_zoo.vmap\" with all assets and blending examples for mapmakers.\n[/list]\n[ ITEMS ]\n[list]\n[*]Deluge Music Kit Box is now available for purchase in standard and StatTrak versions.\n[*]New Limited Time Item, the M4A1-S | Solitude, is now available in The Armory.\n[/list]\n[ ANIMATION ]\n[list]\n[*]Sawed-off shotgun deploy modified and fixed shell penetration on reload.\n[*]Improved deploy +quick inspect animations for all knives.\n[*]Improved deploy +quick inspect animations for the AK, Galil, AUG, PP-Bizon.\n[*]Improved deploy animations for the AWP, M4A4, M4A1-S.\n[*]Improved animations for legacy SSG08 models.\n[*]Removed the deploy inspect delay for most weapons.\n[*]Fixed XM1014 blocking crosshair during reload.\n[/list]\n[ MISC ]\n[list]\n[*]Rendering performance improvements across most maps.\n[*]Rendering resolution and aspect ratio can now be changed in fullscreen windowed mode.\n[*]fps_max can no longer be changed while connected to a server.\n[*]Fixed a case where certain weapons could be fired sooner after a re-deploy.\n[/list]",
+        "commentcount": 1004,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1691520782_1755203680_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "778678997657659851",
+        "event_gid": "657081807721726196",
+        "voteupcount": 5654,
+        "votedowncount": 1699,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529853754800866484",
         "clanid": "3381077",
         "posterid": "0",
