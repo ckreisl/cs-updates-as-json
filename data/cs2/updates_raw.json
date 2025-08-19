@@ -1,5 +1,28 @@
 [
     {
+        "gid": "657081807721726695",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1755556326,
+        "updatetime": 1755556326,
+        "body": "[ MAPS ]\n\nAncient\n[list]\n[*] Reverted \"house\" roof decorations near CT spawn.\n[*] Restored the ability to wallbang the plywood in \"cave\".\n[*] Various changes to the daytime soundscape.\n[*] Fixed items getting stuck behind the rubble pile on T side of B.\n[*] Player clipping adjustments.\n[/list]\nShoots\n[list]\n[*] Player clipping adjustments.\n[/list]\nAncient and Shoots\n[list]\n[*]More Ancient and Shoots source content is now available for community map makers in maps/editor/zoo/ancient_zoo.vmap.\n[/list]\n[ MISC ]\n[list]\n[*] Fixed knife slashes applying a 'dry' attack decal on wet surfaces.\n[*] Fixed a case where clients would mispredict shots if the attack button was held across round respawn.\n[*] Fixed a case where the viewmodel would stick to the camera when cl_lock_camera was set.\n[*] Fixed a case where fullscreen windowed mode wasn't offering resolutions with extreme aspect ratios.\n[*] Fixed a case where fullscreen windowed mode wasn't actually stretching to fill the screen.\n[*] Fixed a case where relative mouse motion was incorrect on Linux.\n[*] Various stability improvements.\n[/list]",
+        "commentcount": 364,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1278681683_1755556956_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "778679330918222747",
+        "event_gid": "657081807721726694",
+        "voteupcount": 2419,
+        "votedowncount": 446,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "657081807721726197",
         "clanid": "3381077",
         "posterid": "0",
