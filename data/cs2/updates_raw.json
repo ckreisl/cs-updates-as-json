@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529856292184915972",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1756251356,
+        "updatetime": 1756251356,
+        "body": "[ MAPS ]\n\nAncient\n[list]\n[*] Restored some grenade lineup visuals.\n[*] Misc clipping fixes.\n[/list]\n[ ANIMATION ]\n[list]\n[*]Fixed issues with the classic knife's inspect animations.\n[*]Fixed the deploy for the Stiletto knife.\n[*]Fixed the deploy for the Butterfly knife.\n[*] Updated Talon knife inspect while 'fidgeting' to be more responsive.\n[*]Adjusted Flip knife animation when inspecting immediately after deploying.\n[*]Adjusted Bayonet knife animation when inspecting immediately after deploying.\n[/list]\n[ MISC ]\n[list]\n[*]Fixed a performance regression when creating bullet impact effects.\n[*]View angle velocity now affects spectator target viewmodels the same way it affects local player viewmodels.\n[*]Fixed a case where looping weapon inspects weren't networking to spectators.\n[*]Fixed a bug where matchmaking was avoiding servers playing the nighttime version of Ancient.\n[*]Removed legacy sprite-based shell casing fallback particle effects.\n[*]Fixed case where overlapping smoke clouds would prematurely extinguish molotov fire.\n[/list]\n",
+        "commentcount": 254,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1756254713_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594032586879143171",
+        "event_gid": "529856292184915971",
+        "voteupcount": 1362,
+        "votedowncount": 213,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "657081807721726695",
         "clanid": "3381077",
         "posterid": "0",
