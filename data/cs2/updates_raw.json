@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529856292184916390",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1756334073,
+        "updatetime": 1756334073,
+        "body": "[ MISC ]\n[list]\n[*]Stability improvements when using multi-command input binds.\n[*]Fixed issue where Jonathan Young music kit would loop incorrectly.\n[/list]\n",
+        "commentcount": 136,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1756336959_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594032586879221902",
+        "event_gid": "529856292184916389",
+        "voteupcount": 902,
+        "votedowncount": 189,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529856292184915972",
         "clanid": "3381077",
         "posterid": "0",
