@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529856925490218409",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1756941482,
+        "updatetime": 1756942009,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Fixed an issue where player sounds would not visualize correctly on the minimap.[/p][/*][*][p]Fixed a crash when changing sound devices.[/p][/*][*][p]Fixed a case where sounds would play incorrectly as players move through water.[/p][/*][*][p]Fixed a case where viewmodel motion due to view angle changes misbehaved at certain frame rates.[/p][/*][/list][p]\\[\u00a0UI [u]][/u][/p][list][*][p]Minor fixes to the Loadout UI layout on certain resolutions.[/p][/*][*][p]Trade-protected and rental items now allow \"Unfavorite for CT\" action.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Ancient[/p][list][*][p]Various grenade and player clipping fixes.[/p][/*][/list][p]Shoots[/p][list][*][p]Various grenade and player clipping fixes.[/p][/*][/list][p]Grail[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710\"]Update Notes[/url])[/p][/*][/list][p]Agency[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3339983232\"]Update Notes[/url])[/p][/*][/list][p]Dogtown[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3414036782\"]Update Notes[/url])[/p][/*][/list][p]\n[/p]",
+        "commentcount": 376,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1756942050_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594033220190810626",
+        "event_gid": "529856925490218408",
+        "voteupcount": 1451,
+        "votedowncount": 463,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529856292184916390",
         "clanid": "3381077",
         "posterid": "0",
