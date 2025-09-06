@@ -1,5 +1,28 @@
 [
     {
+        "gid": "529856925490218819",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1757119056,
+        "updatetime": 1757119056,
+        "body": "[p]\\[ AUDIO ][/p][list][*][p]Fixed an issue that caused sound dropouts while playing Agency.[/p][/*][/list][p]\n[/p]",
+        "commentcount": 172,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1757119706_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594033220191003556",
+        "event_gid": "529856925490218818",
+        "voteupcount": 706,
+        "votedowncount": 169,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529856925490218409",
         "clanid": "3381077",
         "posterid": "0",
