@@ -1,5 +1,29 @@
 [
     {
+        "gid": "529856925490219041",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1757373439,
+        "updatetime": 1757377034,
+        "body": "[p]\\[ MAPS ][/p][p]Agency[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3339983232\"]Update Notes[/url])[/p][/*][/list][p]Grail[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3246527710\"]Update Notes[/url])[/p][/*][/list][p]\\[ ANIMATION ][/p][list][*][p]Viewmodel animation fixes for the Bowie, Bayonet, Kukri, Nomad, Paracord, and Skeleton knives.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Improved performance when firing weapons.[/p][/*][*][p]Fixed a case where viewmodel motion due to view angle changes depended on the direction you were facing.[/p][/*][/list]",
+        "commentcount": 217,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1278681683_1757374170_0",
+            "ModAct_1278681683_1757377745_4"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "594033613915462128",
+        "event_gid": "529856925490219040",
+        "voteupcount": 1207,
+        "votedowncount": 204,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529856925490218819",
         "clanid": "3381077",
         "posterid": "0",
