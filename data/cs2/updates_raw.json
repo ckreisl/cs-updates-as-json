@@ -1,5 +1,28 @@
 [
     {
+        "gid": "545620158577639656",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1757540974,
+        "updatetime": 1757540974,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Fixed an issue that would allow exec_async to continue executing in cheat protected servers resulting in random user input dropout.[/p][/*][*][p]Last chance to pick up the Gallery Case, Graphic Collection, and Character Craft stickers from The Armory.[/p][/*][/list]",
+        "commentcount": 177,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1691520782_1757541377_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "599663354106166026",
+        "event_gid": "545620158577639655",
+        "voteupcount": 1241,
+        "votedowncount": 196,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "529856925490219041",
         "clanid": "3381077",
         "posterid": "0",
