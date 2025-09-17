@@ -1,5 +1,28 @@
 [
     {
+        "gid": "498332997840273410",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1758065072,
+        "updatetime": 1758065072,
+        "body": "[p]\\[ GENESIS COLLECTION ][/p][list][*][p]The Genesis Collection is now available, featuring 17 finishes from community contributors.[/p][/*][*][p]Access items in the Genesis Collection via the Genesis Uplink Terminal, available as a weekly drop.[/p][/*][/list][p]\\[ MAP SCRIPTING ][/p][list][*][p]Added cs_script, a JavaScript based scripting system for Counter-Strike maps.[/p][/*][*][p]Added script_zoo.vmap to demonstrate cs_script usage and functionality.[/p][/*][/list][p]\\[ UI ][/p][list][*][p]Added ability to inspect another player's loadout when spectating.[/p][/*][*][p]Added zoom (mousewheel) and pan (shift+drag) to all inspect panels.[/p][/*][/list][p]\\[ SOUND ][/p][list][*][p]Each grenade now has unique higher-fidelity sounds for draw, inspect, pin-pull, and throw.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Various improvements to subtick shooting consistency.[/p][/*][/list]",
+        "commentcount": 305,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415716708_1758067658_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "595160389826644276",
+        "event_gid": "498332997840273409",
+        "voteupcount": 1820,
+        "votedowncount": 338,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "545620158577639656",
         "clanid": "3381077",
         "posterid": "0",
