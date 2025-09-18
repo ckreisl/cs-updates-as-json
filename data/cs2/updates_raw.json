@@ -1,5 +1,28 @@
 [
     {
+        "gid": "498332997840273548",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1758150955,
+        "updatetime": 1758150955,
+        "body": "[p]\\[ GENESIS COLLECTION ][/p][list][*][p]Customers in Belgium, Netherlands, and France can now unseal their Sealed Genesis Terminal items.[/p][/*][*][p]Fixed purchasing errors for users with Steam Wallet funds in Chilean Peso, Colombian Peso, Costa Rican Col\u00f3n, Indonesian Rupiah, Indian Rupee, Japanese Yen, South Korean Won, Kazakhstani Tenge, New Taiwan Dollar, Ukrainian Hryvnia, Uruguayan Peso, and Vietnamese Dong.[/p][/*][/list][p]\\[ ITEMS ][/p][list][*][p]Fixed position of the nametag and StatTrak module on Shadow Daggers.[/p][/*][/list][p]\\[ MAP SCRIPTING ][/p][list][*][p]Added javascript to the list of asset types.[/p][/*][*][p]Fixed type declaration for the newAngles parameter of Entity.Teleport.[/p][/*][*][p]Fixed a bug where GetTraceHit would crash when the config parameter was not specified.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Improved timestep-independence of subtick movement acceleration.[/p][/*][/list]",
+        "commentcount": 144,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1758152489_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "595160389826762347",
+        "event_gid": "498332997840273547",
+        "voteupcount": 911,
+        "votedowncount": 161,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "498332997840273410",
         "clanid": "3381077",
         "posterid": "0",
