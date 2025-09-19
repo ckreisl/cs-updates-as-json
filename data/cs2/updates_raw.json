@@ -1,5 +1,28 @@
 [
     {
+        "gid": "498332997840274526",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1758243201,
+        "updatetime": 1758243201,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Fixed a regression to view punch which affected weapon sprays.[/p][/*][*][p]Fixed a regression in server performance that caused frequent long server frames, primarily in drop-in drop-out modes. [/p][/*][/list]",
+        "commentcount": 136,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1751555285_1758244277_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "595160389826865639",
+        "event_gid": "498332997840274525",
+        "voteupcount": 686,
+        "votedowncount": 129,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "498332997840273548",
         "clanid": "3381077",
         "posterid": "0",
