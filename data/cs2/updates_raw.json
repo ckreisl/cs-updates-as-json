@@ -1,5 +1,28 @@
 [
     {
+        "gid": "498333631688737093",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1758759471,
+        "updatetime": 1758759471,
+        "body": "[ MAP SCRIPTING ]\n[list][*]Updated tsconfig.json in the script_zoo, setting the target to \"es2022\" for more accurate type analysis.\n[*]Changed point_script entity to no longer remove itself on a failed script load during spawn. Instead it will remain in an inactive state and listen for script changes if the game is running in tools mode.\n[*]Fixed point_script entity to no longer potentially crash after an unsuccessful reload from an invalid script while running the game in tools mode.\n[*]Changed point_script entity to hold onto the memory value returned by an Instance.OnBeforeReload callback until the next successful reload instead of forgetting it if the reload is unsuccessful.\n[*]Changed methods expecting arguments of string type to now error instead of calling toString for arguments of the wrong type.\n[*]Changed Instance.Msg and Instance.DebugScreenText to accept any type for the text value.\n[*]Fixed a bug where RunScriptInput would crash the game when triggered with a null caller or activator.\n[*]Removed Instance.OnGameEvent in favor of per-event registration methods. This gives us tools for stronger API stability and creates a consistent API for events that are not gameevents.\n[*]Added Instance.DebugLine\n[*]Added Instance.DebugBox\n[*]Added Instance.OnPlayerConnect\n[*]Added Instance.OnPlayerActivate\n[*]Added Instance.OnPlayerDisconnect\n[*]Added Instance.OnRoundStart\n[*]Added Instance.OnRoundEnd\n[*]Added Instance.OnBombPlant\n[*]Added Instance.OnBombDefuse\n[*]Added Instance.OnPlayerKill\n[*]Added Instance.OnPlayerChat\n[*]Added Instance.OnGunFire\n[*]Added Instance.OnGrenadeThrow\n[*]Added an overload to Instance.EntFireAtName that allows setting caller and activator\n[*]Added an overload to Instance.EntFireAtTarget that allows setting caller and activator\n[*]Added normal vector to the result of Instance.GetTraceHit\n[*]Added Entity.GetGroundEntity\n[*]Added CSWeaponBase.GetOwner\n[*]Added CSPlayerController.GetName\n[*]Added CSObserverPawn.GetOriginalPlayerController\n[*]Added CSPlayerPawn.GetOriginalPlayerController\n[*]Added CSPlayerPawn.IsCrouching\n[*]Added CSPlayerPawn.IsCrouched\n[*]Added CSPlayerPawn.IsNoclipping\n[*]See maps/editor/zoo/scripts/point_script.d.ts for comprehensive details on the API\n[*]Added \"train_zoo.vmap\" with all de_train assets and examples for mapmakers.[/list]",
+        "commentcount": 112,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1758761510_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "595161023680469089",
+        "event_gid": "498333631688737092",
+        "voteupcount": 669,
+        "votedowncount": 101,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "498333631688736879",
         "clanid": "3381077",
         "posterid": "0",
