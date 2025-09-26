@@ -1,5 +1,28 @@
 [
     {
+        "gid": "498333631688737199",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1758846282,
+        "updatetime": 1758846282,
+        "body": "[ MISC ]\n[list][*]Updated collision around Mirage top of ladder hole.\n[*]Updated R8 Revolver geometry and animation scale.\n[*]sv_subtick_movement_view_angles will now only send subtick view angles to the server with other subtick events instead of sending them for every frame they change.\n[*]Enabled Vulkan defragmentation to help alleviate texture streaming overhead.[/list]",
+        "commentcount": 157,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1751555285_1758846575_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "595161023680586428",
+        "event_gid": "498333631688737198",
+        "voteupcount": 926,
+        "votedowncount": 164,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "498333631688737093",
         "clanid": "3381077",
         "posterid": "0",
