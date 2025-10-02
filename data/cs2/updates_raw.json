@@ -1,5 +1,28 @@
 [
     {
+        "gid": "498333631688738078",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1759362184,
+        "updatetime": 1759362184,
+        "body": "[p]\\[ ARMORY ][/p][list][*][p]Added Missing Link Community Charms collection featuring 23 new charms created by Counter-Strike Workshop community artists.[/p][/*][*][p]Added Dr. Boom Charms collection featuring 22 new charms.[/p][/*][*][p]Added 2025 Community Stickers collection featuring 29 new stickers created by Counter-Strike Workshop community artists.[/p][/*][*][p]Added Sugarface 2 Stickers collection featuring 9 new stickers with the Sugarface theme.[/p][/*][*][p]Removed Gallery Case, Graphic Collection, and Character Craft stickers from The Armory.[/p][/*][/list][p]\\[ GAMEPLAY ][/p][list][*][p]Death count in scoreboard will now increment when players die to C4 bomb detonation.[/p][/*][*][p]Limited Zeus-x27 kill streak bonus in deathmatch.[/p][/*][*][p]Fixed incorrect pixel offset for greater than one pixel width sniper scope.[/p][/*][*][p]Added inaccuracy representation in sniper scopes.[/p][/*][*][p]Keychains will now slightly jolt when a player makes an audible footstep sound.[/p][/*][/list][p]\\[ SPECTATING ][/p][list][*][p]Added support on select maps for new spectator camera transitions that follow the shortest path through the level to the next spectator target player.[/p][/*][*][p]In-game loadout of spectated player will auto-close at the end of the match.[/p][/*][*][p]In-game loadout of spectated player will now show wear and pattern of gloves.[/p][/*][/list][p]\\[ MAPS ][/p][list][*][p]Removed community maps Jura, Grail, Dogtown, and Brewery from all game modes.[/p][/*][*][p]Added community maps Palacio and Golden to Competitive, Casual, and Deathmatch modes.[/p][/*][*][p]Added community maps Rooftop and Transit to Wingman mode.[/p][/*][*][p]Ancient / Shoots[/p][list][*][p]Various player clipping fixes.[/p][/*][/list][/*][/list][p]\\[ MISC ][/p][list][*][p]Minor adjustments to MAC-10 and R8 Revolver skinning.[/p][/*][*][p]Fixed a crash for missing bullet impact effects.[/p][/*][*][p]Added deformers (lattice deformer and simple bend deformer) to Workshop Tools - Hammer.[/p][/*][*][p]Re-enabled example content in train_zoo using lattice and bend deformers.[/p][/*][/list][p]\\[ MAP SCRIPTING ][/p][list][*][p]Updated general error handling for methods. An exception will be thrown when the method is invoked with an incorrect 'this' value. An error will be logged and a default value that matches the declared return type will be returned when the method is invoked with unsupported arguments.[/p][/*][*][p]Improved performance of handling Vector, QAngle, and Color values as arguments and return values.[/p][/*][*][p]When interpreting a Color argument, rgba values will be clamped to a maximum of 255.[/p][/*][*][p]Added an overload for each of the following methods that accepts a single object holding all parameters. Deprecated the previous overload.[/p][list][*][p]Instance.DebugScreenText[/p][/*][*][p]Instance.DebugLine[/p][/*][*][p]Instance.DebugBox[/p][/*][*][p]Instance.DebugSphere[/p][/*][*][p]Instance.EntFireAtName[/p][/*][*][p]Instance.EntFireAtTarget[/p][/*][*][p]Entity.Teleport[/p][/*][/list][/*][*][p]Changed all callbacks to accept a single object holding all parameters.[/p][/*][*][p]Added Instance.OnScriptReload[/p][/*][*][p]Deprecated Instance.OnReload and Instance.OnBeforeReload[/p][/*][*][p]Added Instance.TraceLine[/p][/*][*][p]Added Instance.TraceSphere[/p][/*][*][p]Added Instance.TraceBox[/p][/*][*][p]Added Instance.TraceBullet[/p][/*][*][p]Deprecated Instance.GetTraceHit[/p][/*][*][p]Added Instance.OnPlayerReset[/p][/*][*][p]Added Instance.OnBeforePlayerDamage[/p][/*][*][p]Added Instance.OnPlayerDamage[/p][/*][*][p]Added Instance.OnPlayerJump[/p][/*][*][p]Added Instance.OnPlayerLand[/p][/*][*][p]Added Instance.OnGunReload[/p][/*][*][p]Added Instance.OnBulletImpact[/p][/*][*][p]Added Instance.OnPlayerPing[/p][/*][*][p]Added Instance.OnGrenadeBounce[/p][/*][*][p]Added Instance.OnKnifeAttack[/p][/*][*][p]Added Instance.IsFreezePeriod[/p][/*][*][p]Added Entity.GetOwner[/p][/*][*][p]Added Entity.SetOwner[/p][/*][*][p]Added Entity.GetParent[/p][/*][*][p]Added Entity.SetParent[/p][/*][*][p]Added Entity.IsAlive[/p][/*][*][p]Added Entity.IsWorld[/p][/*][*][p]Added Entity.TakeDamage[/p][/*][*][p]Added CSPlayerPawn.DropWeapon[/p][/*][*][p]Added CSWeaponData.GetDamage[/p][/*][*][p]Added CSWeaponData.GetRange[/p][/*][*][p]Added CSWeaponData.GetRangeModifier[/p][/*][*][p]Added CSWeaponData.GetPenetration[/p][/*][/list]",
+        "commentcount": 297,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1759362823_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "595161733884034534",
+        "event_gid": "498333631688738077",
+        "voteupcount": 1833,
+        "votedowncount": 461,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "498333631688737199",
         "clanid": "3381077",
         "posterid": "0",
