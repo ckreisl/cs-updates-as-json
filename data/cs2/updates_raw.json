@@ -1,5 +1,28 @@
 [
     {
+        "gid": "498333631688738239",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1759448145,
+        "updatetime": 1759448145,
+        "body": "[p]\\[ MAPS ][/p][list][*][p]Updated Palacio, Rooftop, and Golden to the latest Community Workshop versions.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Adjusted AUG and SG 553 scope dot sizes.[/p][/*][*][p]Added game options for dot scale and sniper rifle scope thickness.[/p][/*][*][p]Added letterbox for camera path transitions.[/p][/*][*][p]Fixed a regression in certain bullet penetration scenarios.[/p][/*][*][p]Stability improvements.[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Fixed a bug where old callbacks could be invoked after a script reload.[/p][/*][*][p]Fixed a bug where new callbacks could be invoked multiple times after a script reload.[/p][/*][*][p]Fixed missing Instance.IsFreezePeriod.[/p][/*][*][p]Fixed Instance.OnGunReload and Instance.OnGunFire not working for XM1014, Nova, and Sawed-Off.[/p][/*][/list]",
+        "commentcount": 149,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1751555285_1759448633_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "595161733884139503",
+        "event_gid": "498333631688738238",
+        "voteupcount": 1143,
+        "votedowncount": 178,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "498333631688738078",
         "clanid": "3381077",
         "posterid": "0",
