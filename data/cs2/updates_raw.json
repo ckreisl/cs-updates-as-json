@@ -1,5 +1,28 @@
 [
     {
+        "gid": "498333631688738355",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1759533512,
+        "updatetime": 1759533512,
+        "body": "[p]\\[ MAPS ][/p][list][*][p]Updated Palacio to the latest Community Workshop version. ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3249860053\"]Update Notes[/url])[/p][/*][*][p]Removed Transit from official matchmaking.[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Fixed Instance.OnPlayerPing not sending position.[/p][/*][/list]",
+        "commentcount": 241,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1598046824_1759533794_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "595161733884248710",
+        "event_gid": "498333631688738354",
+        "voteupcount": 924,
+        "votedowncount": 267,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "498333631688738239",
         "clanid": "3381077",
         "posterid": "0",
