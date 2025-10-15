@@ -1,5 +1,28 @@
 [
     {
+        "gid": "528734830800666626",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1760480890,
+        "updatetime": 1760480890,
+        "body": "[p]\\[ ENGINE ][/p][list][*][p]Updated engine code to the latest version of Source 2.[/p][/*][*][p]Reworked bullet penetration simulation to reduce CPU usage.[/p][/*][*][p]Improved core utilization of some client particle and sound effects processing, reducing overall CPU usage when players are shooting.[/p][/*][/list][p]\\[ GAMEPLAY ][/p][list][*][p]Defusing C4 will now lower the viewmodel weapon, prevent scoping, and delay firing the weapon by 150ms after exiting the defuse.[/p][/*][*][p]C4 will no longer detonate in the middle of halftime intermission or after the end of the match.[/p][/*][*][p]Fixed a case where 1 tick was incorrectly subtracted from sv_predictable_damage_tag_ticks.[/p][/*][/list][p]\\[ UI ][/p][list][*][p]Major Highlight clips are now viewable from the Spectator Loadout.[/p][/*][*][p]Selected player is now more visible in the Team Counter.[/p][/*][*][p]Context menu in the Inventory now opens in a position relative to the cursor.[/p][/*][*][p]HUD weapon mode indicator has been moved to the ammo count.[/p][/*][*][p]Raindrops are now removed from weapons when switching to a dry inspect environment.[/p][/*][/list][p]\\[ MAP SCRIPTING ][/p][list][*][p]cs_script enums can now be imported and behave the same as TypeScript enums.[/p][list][*][p]CSWeaponType.PISTOL == 1[/p][/*][*][p]CSWeaponType\\[1] == \"PISTOL\"[/p][/*][/list][/*][*][p]Added enums CSRoundEndReason, CSHitGroup, CSLoadoutSlot, CSDamageTypes, CSDamageFlags and CSWeaponAttackType[/p][/*][*][p]Added BOOSTS value to CSGearSlot. This is the gear slot for healthshots.[/p][/*][*][p]Updated Instance.OnRoundEnd to now receive the reason[/p][/*][*][p]Updated Instance.OnBeforePlayerDamage to now receive damageType and damageFlags and the result can now modify damageType and damageFlags[/p][/*][*][p]Updated Instance.OnPlayerDamage to now receive damageType and damageFlags[/p][/*][*][p]Updated Instance.OnKnifeAttack to now receive attackType[/p][/*][*][p]Updated Instance.TraceLine, Instance.TraceSphere and Instance.TraceBox[/p][list][*][p]The trace config now accepts an array of ignore entities or just one[/p][/*][*][p]The trace config can specify to trace against hitboxes[/p][/*][*][p]The trace result will include hitGroup if tracing against hitboxes[/p][/*][/list][/*][*][p]Updated Instance.BulletTrace result to include hitGroup[/p][/*][*][p]Updated Entity.TakeDamage to accept damageType and damageFlags[/p][/*][*][p]Added CSWeaponData.GetGearSlot()[/p][/*][/list]",
+        "commentcount": 279,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1760481874_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "595162925303333887",
+        "event_gid": "528734830800666625",
+        "voteupcount": 1817,
+        "votedowncount": 463,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "498334899948749339",
         "clanid": "3381077",
         "posterid": "0",
