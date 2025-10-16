@@ -1,5 +1,28 @@
 [
     {
+        "gid": "527609017446432772",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1760573182,
+        "updatetime": 1760573182,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Fixed a case of incorrect damage report data at the end of the rounds.[/p][/*][*][p]Updated King Crasswater and Queen Ava stickers for clarity.[/p][/*][*][p]Skinning fixes on Driver Gloves and Sport Gloves.[/p][/*][*][p]Fixed a crash when playing back some demo files.[/p][/*][*][p]Stability improvements.[/p][/*][/list]",
+        "commentcount": 106,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415727794_1760574671_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "624436409752624541",
+        "event_gid": "527609017446432771",
+        "voteupcount": 727,
+        "votedowncount": 102,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "528734830800666626",
         "clanid": "3381077",
         "posterid": "0",
