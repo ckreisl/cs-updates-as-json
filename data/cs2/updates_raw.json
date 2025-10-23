@@ -1,5 +1,28 @@
 [
     {
+        "gid": "516350567072662005",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1761174020,
+        "updatetime": 1761174020,
+        "body": "[p]\\[ GAMEPLAY ][/p][list][*][p]Adding Retakes as official game mode supporting Defusal Group Alpha and Defusal Group Delta maps on official matchmaking servers.[/p][/*][*][p]Fixed Molotov and Smoke interaction logic in cases when multiple smokes are active in the map.[/p][/*][/list][p]\\[ MAPS ][/p][list][*][p]Updated Golden to the latest version from Steam Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3286163323\"]Update Notes[/url])[/p][/*][*][p]Updated Palacio to the latest version from Steam Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3249860053\"]Update Notes[/url])[/p][/*][*][p]Updated Rooftop to the latest version from Steam Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3536622725\"]Update Notes[/url])[/p][/*][/list][p]Inferno[/p][list][*][p]Adjustments to top of Quad and under Balcony to improve visibility.[/p][/*][*][p]Various optimizations.[/p][/*][/list][p]\\[ CONTRACTS ][/p][list][*][p]Extended functionality of the \"Trade Up Contract\" to allow exchanging 5 items of Covert quality as follows:[/p][list][*][p]5 StatTrak\u2122 Covert items can be exchanged for one StatTrak\u2122 Knife from a collection of one of the items provided[/p][/*][*][p]5 regular Covert items can be exchanged for one regular Knife item or one regular Gloves item from a collection of one of the items provided[/p][/*][/list][/*][/list][p]\\[ MISC ][/p][list][*][p]Performance optimizations when the game is in the main menu and item inspect UI[/p][/*][*][p]Fixed inventory item icons sometimes rendering in blurry state or not rendering[/p][/*][*][p]Fixed several server-only sound events to not start multiple times[/p][/*][*][p]Stability improvements[/p][/*][/list]",
+        "commentcount": 551,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415727794_1761175602_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "595163560549669956",
+        "event_gid": "516350567072662004",
+        "voteupcount": 2617,
+        "votedowncount": 1979,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "527609017446432772",
         "clanid": "3381077",
         "posterid": "0",
