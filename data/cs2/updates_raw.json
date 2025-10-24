@@ -1,5 +1,28 @@
 [
     {
+        "gid": "516350567072664088",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1761258728,
+        "updatetime": 1761258728,
+        "body": "[p]\\[ GAMEPLAY ][/p][list][*][p]Increased matchmaking party size for Retakes to allow 4 players in a party.[/p][/*][*][p]Fixed a case where players joining Retakes round during freeze time could spawn at a wrong spawn point.[/p][/*][*][p]Fixed bot manager logic to make room for players by first kicking dead bots and bots who are not controlled by a human.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Stability improvements.[/p][/*][/list]",
+        "commentcount": 289,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1761259362_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "595163560549793769",
+        "event_gid": "516350567072664087",
+        "voteupcount": 1553,
+        "votedowncount": 672,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "516350567072662005",
         "clanid": "3381077",
         "posterid": "0",
