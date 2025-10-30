@@ -1,5 +1,28 @@
 [
     {
+        "gid": "771930569635266573",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1761780997,
+        "updatetime": 1761780997,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Improved player movement prediction when colliding with other moving players.[/p][/*][*][p]Added scope in/out sound prediction to play immediately for local player.[/p][/*][*][p]Retake loadout cards will now randomly offer M4A1-S or M4A4 if player has both equipped in their CT loadout.[/p][/*][*][p]Added Body Armor to 4v3, 4 Bad Guys Left, and Blind Fire cards.[/p][/*][*][p]Added Dual Berettas to T Blind Fire card.[/p][/*][*][p]Replaced Flashbang with HE Grenade on CT Enemy Loadout Card[/p][/*][*][p]Fixed idle animations on CZ75-Auto, SSG 08, AUG, Galil AR.[/p][/*][*][p]Performance improvements.[/p][/*][*][p]Stability improvements.[/p][/*][*][p]Improvements to animation fidelity during demo playback.[/p][/*][/list]",
+        "commentcount": 233,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415727794_1761782383_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "840610464762170943",
+        "event_gid": "771930569635266572",
+        "voteupcount": 1642,
+        "votedowncount": 280,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "516350567072664088",
         "clanid": "3381077",
         "posterid": "0",
