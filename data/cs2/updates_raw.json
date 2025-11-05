@@ -1,5 +1,28 @@
 [
     {
+        "gid": "578276333072678915",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1762300751,
+        "updatetime": 1762300751,
+        "body": "[p]\\[ GAMEPLAY ][/p][list][*][p]Fixed a case where air acceleration was clamped incorrectly while surfing.[/p][/*][*][p]Fixed a case where slowly surfing up a ramp was handled incorrectly due to misidentification as a jump apex.[/p][/*][*][p]Fix a bug causing \"Delay Sniper Rifle Un-Scope after Shot\" to be inconsistent.[/p][/*][/list][p][/p][p]\\[ DEMO ][/p][list][*][p]Added TrueView demo playback, which reconstructs the observed player's original experience more accurately by re-running client-side prediction.[/p][/*][*][p]TrueView playback will show the effects of Damage Prediction, if it was enabled by the observed player at the time.[/p][/*][*][p]TrueView does not reconstruct the precise timings of rendered frames, so some differences between the original player's experience and TrueView playback will remain, especially in very slow motion playback.\u00a0 The player's frame at the time when the mouse was clicked, which is used for hit\u00a0registration, is shown accurately to the nearest demo playback frame. However, reaction effects such as recoil, muzzle flash, blood splatter, and ragdoll are delayed while playing the game by one or two frames due to the way CPU and GPU work is pipelined, and will not appear at the same time during demo playback.[/p][/*][*][p]TrueView demo playback might not work properly on old demos and is disabled by default if the playback client version does not match the client version when the demo was recorded.\u00a0You can set cl_demo_predict 2 to override this.[/p][/*][*][p]Fixed a bug causing third person models to not animate smoothly.[/p][/*][*][p]Fixed a bug causing time to lurch forward by one tick when unpausing a demo.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Animation fixes for G3SG1 bolt.[/p][/*][*][p]Fixed developer console scrollbar to accept mouse clicks.[/p][/*][/list]",
+        "commentcount": 79,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1426387032_1762303908_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "666096525818989755",
+        "event_gid": "578276333072678914",
+        "voteupcount": 572,
+        "votedowncount": 64,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "771930569635266573",
         "clanid": "3381077",
         "posterid": "0",
