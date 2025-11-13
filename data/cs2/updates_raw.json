@@ -1,5 +1,28 @@
 [
     {
+        "gid": "616557564382937291",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1762988337,
+        "updatetime": 1762988337,
+        "body": "[p]\\[ MAJOR ][/p][list][*][p]The StarLadder Budapest Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.[/p][/*][*][p]Purchase a Budapest 2025 Viewer Pass to receive an upgradable Budapest 2025 Coin. With an active pass, you can upgrade your coin and earn extra souvenir packages by playing the Pick'Em Challenge. Additionally, you will show up on the Active Pass Leaderboard where you can compare your Pick'Em Challenge performance to your friends.[/p][/*][/list][p]\\[ STORE ][/p][list][*][p]Added new \"Sticker Slab\" item, a charm that seals any sticker and can be attached to weapons. The sealed sticker can be returned to your inventory at any time by cracking open and discarding the slab.[/p][/*][*][p]Newly purchased Name Tag and StatTrak\u2122 Swap Tool items can no longer be traded or listed on Community Market.[/p][/*][/list][p]\\[ GAMEPLAY ][/p][list][*][p]Increased the maximum effective sv_maxvelocity to 16,384 units per second. The default value of 3500 is unchanged.[/p][/*][*][p]Fixed a case where clients would mispredict jump button presses.[/p][/*][*][p]Fixed a case where clients would mispredict jump apexes.[/p][/*][/list][p]\\[ MAPS ][/p][list][*][p]Fixed skybox on Inferno that was blocking grenades.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Increased default bullet decal rendering distance.[/p][/*][*][p]Glove models and animations in the UI/inventory now use Animgraph2, matching first-person in-game gloves.[/p][/*][*][p]Enabled the pulsing light on the C4 view model.[/p][/*][*][p]Updated the color scheme of Counter-Strike items in Steam Community Market and Web Inventory to match item quality colors.[/p][/*][*][p]Performance improvements.[/p][/*][/list]",
+        "commentcount": 233,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415727794_1762990012_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "687489258514119250",
+        "event_gid": "616557564382937290",
+        "voteupcount": 1807,
+        "votedowncount": 305,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "578276333072678915",
         "clanid": "3381077",
         "posterid": "0",
