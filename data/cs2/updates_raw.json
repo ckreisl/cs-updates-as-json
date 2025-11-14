@@ -1,5 +1,28 @@
 [
     {
+        "gid": "616557663605489979",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1763082076,
+        "updatetime": 1763082076,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Fixed ability to plant C4 while standing on top of a teammate.[/p][/*][*][p]Fixed a rendering bug on transparent charms attached to planted C4 or dropped weapons.[/p][/*][*][p]Fixed a bug where Budapest 2025 Coin sometimes wasn't showing up in the scoreboard.[/p][/*][*][p]Fixed a replay bug causing infinite shell casing effects.[/p][/*][*][p]Updated the Budapest 2025 Imperial Esports sticker artwork.[/p][/*][/list]",
+        "commentcount": 127,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1763082203_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "687489258514233605",
+        "event_gid": "616557663605489978",
+        "voteupcount": 831,
+        "votedowncount": 137,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "616557564382937291",
         "clanid": "3381077",
         "posterid": "0",
