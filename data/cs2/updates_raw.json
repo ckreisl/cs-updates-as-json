@@ -1,5 +1,28 @@
 [
     {
+        "gid": "625565405086220597",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1763596068,
+        "updatetime": 1763596068,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Fixed a case of observers experiencing incorrect post-processing effects when switching observer targets.[/p][/*][*][p]Disabled TrueView while watching a live playcast to match on-server observing experience.[/p][/*][*][p]Fixed a wiggle at the end of SG 556 deploy animation.[/p][/*][*][p]Stability improvements.[/p][/*][/list]",
+        "commentcount": 194,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1415727794_1763596682_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "689741692082912893",
+        "event_gid": "625565405086220596",
+        "voteupcount": 957,
+        "votedowncount": 140,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "616557663605489979",
         "clanid": "3381077",
         "posterid": "0",
