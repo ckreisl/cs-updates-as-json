@@ -1,5 +1,29 @@
 [
     {
+        "gid": "500591777095354040",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1765231628,
+        "updatetime": 1765233962,
+        "body": "[p]\\[ RENDERING ][/p][list][*][p]Improved shadow fidelity on view models.[/p][/*][*][p]Added local client icon cache for inventory items.[/p][/*][*][p]Fixed a case that caused a small number of users to receive an erroneous VAC ban. The bans will be removed.[/p][/*][/list]",
+        "commentcount": 261,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_871423085_1765231733_0",
+            "ModAct_871423085_1765234368_4"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "694247086511635496",
+        "event_gid": "500591777095354039",
+        "voteupcount": 1640,
+        "votedowncount": 233,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "625565405086220597",
         "clanid": "3381077",
         "posterid": "0",
