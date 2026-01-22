@@ -1,5 +1,28 @@
 [
     {
+        "gid": "511855214544814591",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1769036288,
+        "updatetime": 1769038981,
+        "body": "[p]\\[ PREMIER ][/p][list][*][p]Premier Season Four has begun[/p][/*][*][p]Added Anubis to the Active Duty Map Pool[/p][/*][*][p]Removed Train from the Active Duty Map Pool[/p][/*][/list][p][/p][p]\\[ COMPETITIVE ][/p][list][*][p]Adjusted underlying per-map competitive matchmaking rank values. Existing per-map competitive Skill Groups have been expired, and will be displayed again once the player obtains the required number of wins[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Minor adjustments to the MP7 and MP5-SD:[/p][list][*][p]Slightly increased damage[/p][/*][*][p]Slightly reduced damage fall-off[/p][/*][*][p]Reduced price by $100.[/p][/*][/list][/*][*][p]Reduced price of the PP-Bizon by $100.[/p][/*][*][p]Jump changes:[/p][list][*][p]Landing time is now calculated with subtick precision[/p][/*][*][p]Jumping and landing no longer affect stamina. The landing speed penalty is now a simple function of landing time[/p][/*][*][p]Any jump press within sv_bhop_time_window centered on the landing time that hasn't been penalized by sv_jump_spam_penalty_time will be treated as a successful bunnyhop[/p][/*][*][p]Legacy jump behavior can be restored on private servers with sv_legacy_jump[/p][/*][/list][/*][*][p]Map Guides can now be loaded in online games of casual and retakes (via the ESC menu)[/p][/*][/list][p][/p][p]\\[ SOUND ]\u00a0[/p][list][*][p]Reduced audio output latency[/p][/*][*][p]Higher fidelity knife draw and inspect sounds[/p][/*][*][p]Weapon, knife and utility draw sounds no longer overlap when switching quickly between them[/p][/*][*][p]Knife impact sounds are now unique based on primary fire or alt fire swings as well as front and rear attacks. This reflects the different damage amounts dealt with each attack\u00a0[/p][/*][*][p]Ambient sounds no longer restart from the beginning when transitioning between zones[/p][/*][/list][p][/p][p]\\[ WEEKLY CARE PACKAGE ][/p][list][*][p]Added two all-new weapon collections to the Weekly Care Package drop list: Harlequin, Achroma[/p][/*][*][p]Removed four weapon collections from the Weekly Care Package drop list: Safehouse, Dust 2, 2018 Nuke Collection, and the 2018 Inferno Collection[/p][/*][/list][p][/p][p]\\[ ARMORY ][/p][list][*][p]Added a new Limited Edition Item: the AK47 | Aphrodite[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Increased material fidelity on some of the base guns:[/p][list][*][p]Ak47[/p][/*][*][p]Aug[/p][/*][*][p]AWP[/p][/*][*][p]Berettas[/p][/*][*][p]Deagle[/p][/*][*][p]Galil[/p][/*][*][p]Mac-10[/p][/*][*][p]MP7[/p][/*][*][p]P250[/p][/*][*][p]Tec9[/p][/*][*][p]USP-S[/p][/*][*][p]Bizon[/p][/*][*][p]Cz75a[/p][/*][*][p]Famas[/p][/*][*][p]MP9[/p][/*][/list][/*][/list][list][*][p]Changed voice status behavior to always show a mic for local player if mic is open\u00a0[/p][/*][*][p]Fixed a bug related to Deathcam intersection[/p][/*][*][p]Fixed some cases where the player would collide with internal edges while sliding along a ramp in surf mode[/p][/*][*][p]Improved the resolution of the PVS for some static level geometry[/p][/*][*][p]Fixed some small interpenetrations in Butterfly Knife animations[/p][/*][*][p]Fixed a case where blood decals weren't appearing[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Fixed a bug where activator was sometimes incorrect for func_door outputs OnOpen, OnFullyOpen, OnClose, and OnFullyClosed[/p][list][*][p]Added BaseModelEntity.GetModelName[/p][/*][*][p]Added BaseModelEntity.GetModelScale[/p][/*][*][p]Added BaseModelEntity.GetColor[/p][/*][*][p]Added BaseModelEntity.IsGlowing[/p][/*][/list][/*][/list][p][/p][p]\\[ MAPS ][/p][list][*][p]Removed community maps: Golden, Palacio, Agency, and Rooftop from all game modes[/p][/*][*][p]Added community maps Warden, Stronghold, and Alpine to Competitive, Casual, and Deathmatch modes[/p][/*][*][p]Added community maps Sanctum and Poseidon to Wingman mode[/p][/*][/list][p][/p][p]Anubis[/p][list][*][p]Bridge drop moved near Mid Doors[/p][/*][*][p]Mid doors orientation reversed[/p][/*][*][p]Hole added between E-box and Back of B[/p][/*][*][p]Bombsite A crates moved up steps on to Walkway[/p][/*][*][p]Scaffolding added to pillar on Bombsite A[/p][/*][/list]",
+        "commentcount": 287,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1769047775_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "694250999467018479",
+        "event_gid": "511855214544814590",
+        "voteupcount": 1622,
+        "votedowncount": 265,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "500593045099512837",
         "clanid": "3381077",
         "posterid": "0",
