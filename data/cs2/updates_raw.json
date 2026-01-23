@@ -1,5 +1,28 @@
 [
     {
+        "gid": "511855214544815766",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1769122494,
+        "updatetime": 1769122494,
+        "body": "[p]\\[ GAMEPLAY ][/p][list][*][p]Landing vertical velocity now affects landing speed penalties similar to sv_legacy_jump stamina.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed an issue that led to a small number of users to erroneously receive a VAC ban. Those bans have been reversed.[/p][/*][*][p]Fixed a case where HUD safezone settings were not being applied.[/p][/*][*][p]Various server stability improvements.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Anubis[/p][list][*][p]Fixed a case where physics objects would interact with multiple overlapping convex water volumes.[/p][/*][*][p]Various player clipping adjustments.[/p][/*][*][p]Radar minimap updated to match recent changes.[/p][/*][/list]",
+        "commentcount": 150,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1519738978_1769124058_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "694251179407835871",
+        "event_gid": "511855214544815765",
+        "voteupcount": 1446,
+        "votedowncount": 196,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "511855214544814591",
         "clanid": "3381077",
         "posterid": "0",
