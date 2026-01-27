@@ -1,5 +1,28 @@
 [
     {
+        "gid": "511855214544817165",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1769472540,
+        "updatetime": 1769472540,
+        "body": "[p]\\[ GAMEPLAY ][/p][list][*][p]Molotov/incendiary grenades that bounce off an enemy player have a one-time fuse extension added to prevent them from air-bursting when their has-never-hit-the-world timer elapses.[/p][/*][/list][p][/p][p]\\[ SOUND ][/p][list][*][p]Fixed a performance issue when running CS2 without a sound device.[/p][/*][*][p]Various knife sound adjustments.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed broken cl_ent_bbox visualization for some classes of rigid dynamic entities.[/p][/*][*][p]Various stability improvements.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Nuke[/p][list][*][p]Adjusted hanging hard hat model render bounds to prevent shadow popping when model exited the view frustum.[/p][/*][/list][p]Warden[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3256988376\"]Update Notes[/url])[/p][/*][/list][p]Sanctum[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442\"]Update Notes[/url])[/p][/*][/list]",
+        "commentcount": 184,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1278681683_1769474503_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "694251506632798325",
+        "event_gid": "511855214544817164",
+        "voteupcount": 1100,
+        "votedowncount": 163,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "511855214544815766",
         "clanid": "3381077",
         "posterid": "0",
