@@ -1,5 +1,28 @@
 [
     {
+        "gid": "499470950023037645",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1769732256,
+        "updatetime": 1769732256,
+        "body": "[p]\\[ GAMEPLAY ][/p][list][*][p]Damage from HE grenades that explode mid-air near the ground will no longer be calculated as if they exploded on the ground.[/p][/*][/list][p][/p][p]\\[ SOUND ][/p][list][*][p]Various knife sound adjustments.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Performance optimizations for exploding chickens.[/p][/*][*][p]Fixed a map scripting bug where Entity.SetOwner wasn't accepting undefined.[/p][/*][*][p]Added a method for community maps to save modified user settings. Running 'host_writeconfig_with_prompt' will prompt the user for permission to save. If accepted, some of the modified settings (radar, viewmodel, safezones, etc) will be kept after the map exits.\u00a0[/p][/*][*][p]Community maps are now restricted to a smaller list of allowed console commands.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Stronghold[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3477094554\"]Update Notes[/url])[/p][/*][/list]",
+        "commentcount": 181,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1519738978_1769733094_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "725776831304860290",
+        "event_gid": "499470950023037644",
+        "voteupcount": 1090,
+        "votedowncount": 210,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "511855214544817165",
         "clanid": "3381077",
         "posterid": "0",
