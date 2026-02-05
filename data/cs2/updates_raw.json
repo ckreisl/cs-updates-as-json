@@ -1,5 +1,28 @@
 [
     {
+        "gid": "519737782627729504",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1770248033,
+        "updatetime": 1770248033,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Fixed a case where switching firstperson spectator targets would cause viewmodel animations to reset.[/p][/*][*][p]Fixed a case where physics calculations far from the origin were causing performance issues.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Anubis[/p][list][*][p]Adjusted player clipping around new drop.[/p][/*][*][p]Adjusted grenade clipping around connector (e-box :P) hole and old drop.[/p][/*][/list][p]Poseidon[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3522144043\"]Update Notes[/url])[/p][/*][/list]",
+        "commentcount": 228,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1301790999_1770248389_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "758428562866907294",
+        "event_gid": "519737782627729503",
+        "voteupcount": 1535,
+        "votedowncount": 335,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "499470950023037645",
         "clanid": "3381077",
         "posterid": "0",
