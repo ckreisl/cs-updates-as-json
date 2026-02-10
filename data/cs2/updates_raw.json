@@ -1,5 +1,28 @@
 [
     {
+        "gid": "519737782627730642",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1770677957,
+        "updatetime": 1770677957,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Localization code and text changes.[/p][/*][/list]",
+        "commentcount": 215,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1888979151_1770678293_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "758428924213631069",
+        "event_gid": "519737782627730641",
+        "voteupcount": 1222,
+        "votedowncount": 291,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "519737782627729504",
         "clanid": "3381077",
         "posterid": "0",
