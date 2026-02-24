@@ -1,5 +1,28 @@
 [
     {
+        "gid": "526494450238621926",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1771889921,
+        "updatetime": 1771889921,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.[/p][/*][*][p]Fixed a case where the Delete Item inventory option wasn't working.[/p][/*][*][p]Fixed a case of visual corruption using iron sights on AMD GPUs.[/p][/*][*][p]Expanding list of console variables addons are allowed to change.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Overpass[/p][list][*][p]Fixed the Party balloons.[/p][/*][/list]",
+        "commentcount": 274,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1888979151_1771891667_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "759556070305890026",
+        "event_gid": "526494450238621925",
+        "voteupcount": 1415,
+        "votedowncount": 315,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "519737782627730642",
         "clanid": "3381077",
         "posterid": "0",
