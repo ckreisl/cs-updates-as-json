@@ -1,5 +1,28 @@
 [
     {
+        "gid": "526495084411093118",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1772060032,
+        "updatetime": 1772060032,
+        "body": "[p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.SetSaveData[/p][/*][*][p]Added Instance.GetSaveData[/p][list][*][p]Workshop maps can write up to 1MB of save data.[/p][/*][*][p]Workshop saves leverage Steam Cloud and persist across installs.[/p][/*][*][p]Save data size limit can be configured with sv_workshop_map_save_data_max_filesize_mb.[/p][/*][/list][/*][*][p]Added Instance.OnModifyPlayerDamage[/p][list][*][p]Called after all damage properties have been calculated, just before armor and health are modified[/p][/*][*][p]Replaces Instance.OnBeforePlayerDamage[/p][/*][*][p]Includes hitgroup in event data[/p][/*][/list][/*][*][p]Added hitgroup to OnPlayerDamage event data[/p][/*][*][p]Added CSDamageFlags.IGNORE_ARMOR[/p][/*][*][p]Added CSPlayerPawn.IsInputPressed[/p][/*][*][p]Added CSPlayerPawn.WasInputJustPressed[/p][/*][*][p]Added CSPlayerPawn.WasInputJustReleased[/p][/*][*][p]Added enum CSInputs[/p][/*][*][p]Fixed bug where CSDamageTypes was exported under the name CSDamageType[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Map guides for de_ancient can now be used on de_ancient_night and vice versa.[/p][/*][/list]",
+        "commentcount": 131,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1301790999_1772062492_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "759556365112931085",
+        "event_gid": "526495084411093117",
+        "voteupcount": 998,
+        "votedowncount": 182,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "526494450238621926",
         "clanid": "3381077",
         "posterid": "0",
