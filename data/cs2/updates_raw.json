@@ -1,5 +1,28 @@
 [
     {
+        "gid": "502851820603834534",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1772664700,
+        "updatetime": 1772664700,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Starting today, items listed for sale on Steam Community Market will remain in your inventory for use while they are listed (e.g., your weapon can be equipped in your loadout while it is listed). While listed, items cannot be consumed or modified. You can cancel your listings at any time.[/p][/*][*][p]Added ability to set your max offer limit for items in the Terminal, and the Arms Dealer will only show offers up to that limit.[/p][/*][*][p]Fixed a slight tilt in the chicken running animation.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Inferno[/p][list][*][p]Balcony at Bombsite A has been extended.[/p][/*][*][p]Graveyard at Bombsite A has been closed to the public.\u00a0[/p][/*][*][p]Clipping adjusted at small window next to Second Mid Balcony.[/p][/*][/list][p]Warden[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3256988376\"]Update Notes[/url])[/p][/*][/list][p]Sanctum[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442\"]Update Notes[/url])[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Added hitEntity to OnBulletImpact event data[/p][/*][*][p]Added Entity.GetAbsAngularVelocity()[/p][/*][*][p]Added Entity.GetLocalAngularVelocity()[/p][/*][*][p]Added angularVelocity to Entity.Teleport()[/p][/*][*][p]Added CSWeaponBase.GetClipAmmo()[/p][/*][*][p]Added CSWeaponBase.SetClipAmmo()[/p][/*][*][p]Added CSWeaponBase.GetReserveAmmo()[/p][/*][*][p]Added CSWeaponBase.SetReserveAmmo()[/p][/*][*][p]Added CSWeaponData.GetMaxClipAmmo()[/p][/*][*][p]Added CSWeaponData.GetMaxReserveAmmo()[/p][/*][*][p]Fixed missing CSPlayerPawn.IsDucking()[/p][/*][*][p]Fixed missing CSPlayerPawn.IsDucked()[/p][/*][*][p]Fixed a bug where JUMP wouldn't trigger for WasInputJustPressed() and WasInputJustReleased() if the press didn't cross a tick boundary.[/p][/*][*][p]Fixed a bug where Entity methods GetEyePosition(), GetEyeAngles(), GetHealth(), GetMaxHealth(), and SetMaxHealth() would only work on CSPlayerPawns.[/p][/*][/list]",
+        "commentcount": 240,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1888979151_1772667245_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "800089396009334753",
+        "event_gid": "502851820603834533",
+        "voteupcount": 1643,
+        "votedowncount": 299,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "526495084411093118",
         "clanid": "3381077",
         "posterid": "0",
