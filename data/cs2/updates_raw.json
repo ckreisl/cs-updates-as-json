@@ -1,5 +1,28 @@
 [
     {
+        "gid": "518615049848226730",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1773698794,
+        "updatetime": 1773698794,
+        "body": "[p]\\[ X-Ray Scanner ][/p][list][*][p]Players in Germany and Netherlands will have an [url=\"https://help.steampowered.com/en/faqs/view/7336-6EBC-1923-EE1B\"]X-Ray Scanner[/url] tab in their Inventory. For those players, containers can only be opened via X-ray Scanner. The X-Ray Scanner will come preloaded with a one-time exclusive non-tradable \"Genuine P250 | X-ray\", which must be claimed before using the X-Ray Scanner to reveal items in other containers.[/p][/*][*][p]Keyless Containers, like Souvenir Packages, can be opened without the X-Ray Scanner.[/p][/*][/list]",
+        "commentcount": 206,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1890460210_1773699153_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "804593950944073018",
+        "event_gid": "518615049848226729",
+        "voteupcount": 1339,
+        "votedowncount": 434,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "518615049848225875",
         "clanid": "3381077",
         "posterid": "0",
