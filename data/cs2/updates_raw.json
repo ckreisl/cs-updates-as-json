@@ -1,5 +1,28 @@
 [
     {
+        "gid": "532126482488623361",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1773873327,
+        "updatetime": 1773873327,
+        "body": "[ GAMEPLAY ][list]\n[*]Reloading has been refactored to encourage more careful consideration of the use of ammo. When you reload a magazine-fed weapon, all remaining ammo in the magazine is discarded and a new, full magazine is taken from the reserves.\n[*]Reserve ammunition is now represented either as number of magazines, shells, or bullets, depending on the weapon.\n[*]The fill-level of the current weapon is now displayed below the ammo count. \n[*]Tuned reserve magazine counts per-weapon.[/list]\n[ MAP GUIDES ][list]\n[*]Limited map guides are now available in Competitive and Retakes (first 5 rounds of the half, 30 node max).\n[*]sv_allow_annotations_access_level supports 3 values: 0 \u2013 disabled. 1 \u2013 limited view. 2 \u2013 full and editable. \n[*]sv_annotation_limits_max_rounds_per_half (default 5) determines how many rounds into the half guides are allowed. -1 for unlimited.\n[*]Minimal starter map guides have been added for all Active Duty maps.[/list]\n[ WORKSHOP MAPS ]\n[list]\n[*]Friends playing a Practice or Workshop map can be joined through the friends menu if they have Open Party set.[/list]",
+        "commentcount": 1300,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1888979151_1773873705_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "801216566149595270",
+        "event_gid": "532126482488623360",
+        "voteupcount": 2325,
+        "votedowncount": 4426,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "518615049848226730",
         "clanid": "3381077",
         "posterid": "0",
