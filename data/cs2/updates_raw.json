@@ -1,5 +1,29 @@
 [
     {
+        "gid": "528750051218948827",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1775082945,
+        "updatetime": 1775092845,
+        "body": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]valvesoftware.com[/url] with the subject \"AG2 Beta\".[/p][p][/p][p]\\[ ANIMGRAPH 2 ][/p][p]The CS2 animation system has been updated to Animgraph 2, which reduces CPU and networking costs associated with animation.[/p][list][*][p]All third-person animations have been re-authored, and in several cases adjusted in response to player feedback.[/p][/*][*][p]Smoothed in-air crouching transitions in first and third-person.[/p][/*][*][p]In support of Animgraph 2, the logic adjusting player height on sloped surfaces has been refactored.[/p][list][*][p]Player height on ramps is now consistent and no longer depends on approach direction.[/p][/*][*][p]As a result of this change, grenade lineups on sloped surfaces may have changed.[/p][/*][/list][/*][/list][p][/p][p]\\[ ENGINE ][/p][list][*][p]Updated engine code to the latest version of Source 2.[/p][/*][/list][p][/p][p]\\[ CS SCRIPT ][/p][list][*][p]Added function GetRoundRemainingTime.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ]\u00a0[/p][list][*][p]Player occlusion now uses a GPU query to prevent players clipping through thin walls when none of their bounding volume is visible.[/p][/*][/list][p][/p][p]\\[ SOUND\u00a0][/p][list][*][p]Mix adjustments to help accentuate jump landing sounds during combat.[/p][/*][*][p]New c4 equip sound.[/p][/*][*][p]Minor adjustments to ambient sound levels.[/p][/*][*][p]Fixed missing ambient sounds on team selection and end of match screens.[/p][/*][*][p]Fixed missing sounds in the main menu UI[/p][/*][*][p]Mix tweaks while taking damage[/p][/*][*][p]Fixed bug where DeathCam music cue was causing volume ducking for too long.\u00a0[/p][/*][*][p]Vertical occlusion is now more gradual at the edges of transition points in Nuke and Vertigo.[/p][/*][*][p]Various map audio adjustments in Baggage, Shoots, Ancient, Nuke, and Vertigo.[/p][/*][/list][p][/p][p]\\[ KNOWN ISSUES ][/p][list][*][p][strike]In some rare cases, when you turn your head there will be a slight unintended camera shift.[/strike][/p][/*][*][p][strike]The Karambit crouch animation has a strange wrist rotation.[/strike][/p][/*][*][p][strike]Certain combinations of graphics settings result in many things rendering as solid black.[/strike][/p][/*][*][p][strike]Some materials are missing their normal tint.[/strike][/p][/*][/list]",
+        "commentcount": 104,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1294976491_1775084755_0",
+            "ModAct_1870293249_1775093851_4"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "801217828677066099",
+        "event_gid": "528750051218948826",
+        "voteupcount": 1036,
+        "votedowncount": 139,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "532126482488623361",
         "clanid": "3381077",
         "posterid": "0",
