@@ -1,5 +1,28 @@
 [
     {
+        "gid": "534380184755767867",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Animgraph 2 Beta Update",
+        "posttime": 1775776671,
+        "updatetime": 1775776771,
+        "body": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [/p][p][url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@valvesoftware.com with the subject \"AG2 Beta\".[/p][p][/p][p] \\[ NETWORK][/p][list][*][p]Reduced network bandwidth utilization[/p][/*][/list][p][/p][p]Please note that the client may produce a fatal error message when attempting to connect to a server running a different build.[/p]",
+        "commentcount": 76,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1888979151_1775780306_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "801218545819176592",
+        "event_gid": "534380184755767866",
+        "voteupcount": 639,
+        "votedowncount": 61,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "528750051218948827",
         "clanid": "3381077",
         "posterid": "0",
