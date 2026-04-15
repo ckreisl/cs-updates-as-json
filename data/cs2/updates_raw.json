@@ -1,5 +1,28 @@
 [
     {
+        "gid": "534380184755770152",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1776204460,
+        "updatetime": 1776204486,
+        "body": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]valvesoftware.com[/url] with the subject \"AG2 Beta\".[/p][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed wrong pose when backing into corners[/p][/*][*][p]Improved stuttering of 3rd person aim[/p][/*][*][p]Fixed main menu pistol poses[/p][/*][*][p]Added missing knife draw animations[/p][/*][*][p]Fix pop when running and switching weapons[/p][/*][*][p]Fix pop when switching weapons after throwing a grenade[/p][/*][*][p]Fixed head wobbling when planting C4[/p][/*][*][p]Fixed issue\u00a0when holding inspect and changing weapons[/p][/*][/list][p]\\[ OTHER ][/p][list][*][p]Fixed a case where it was possible to climb down ladders faster than before.[/p][/*][/list][p][/p][p]Please note that the client may produce a fatal error message when attempting to connect to a server running a different build.[/p]",
+        "commentcount": 108,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487176015_1776206497_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "801219096906563899",
+        "event_gid": "534380184755770151",
+        "voteupcount": 832,
+        "votedowncount": 78,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "534380184755767867",
         "clanid": "3381077",
         "posterid": "0",
