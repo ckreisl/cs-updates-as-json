@@ -1,5 +1,28 @@
 [
     {
+        "gid": "577165112126734784",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1776458858,
+        "updatetime": 1776458858,
+        "body": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]valvesoftware.com[/url] with the subject \"AG2 Beta\".[/p][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed viewmodel and worldmodel HE grenade throw[/p][/*][*][p]Adjusted foot IK when idle[/p][/*][*][p]Minor polish for turn animations when planting[/p][/*][*][p]Fixed fast-weapon switching when holding inspect[/p][/*][*][p]Minor adjustments to viewmodel animations[/p][/*][*][p]Adjusted counter-strafe animation head dip amount[/p][/*][/list][p][/p][p]Please note that the client may produce a fatal error message when attempting to connect to a server running a different build.[/p]",
+        "commentcount": 72,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1294976491_1776459548_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "801219096906841902",
+        "event_gid": "577165112126734783",
+        "voteupcount": 1039,
+        "votedowncount": 81,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "534380184755770152",
         "clanid": "3381077",
         "posterid": "0",
