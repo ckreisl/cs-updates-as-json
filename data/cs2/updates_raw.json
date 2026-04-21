@@ -1,5 +1,28 @@
 [
     {
+        "gid": "577165112126735190",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1776733888,
+        "updatetime": 1776733888,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Fixed a bug that removed the delay between burst fire bullets.[/p][/*][/list]",
+        "commentcount": 245,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1809568072_1776734250_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "801219423226871640",
+        "event_gid": "577165112126735189",
+        "voteupcount": 1478,
+        "votedowncount": 301,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "577165112126734784",
         "clanid": "3381077",
         "posterid": "0",
