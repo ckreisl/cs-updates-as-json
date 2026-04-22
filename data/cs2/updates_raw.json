@@ -1,5 +1,28 @@
 [
     {
+        "gid": "508485755865137154",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1776810660,
+        "updatetime": 1776810660,
+        "body": "[p]\\[ GAMEPLAY ][/p][list][*][p]Adjusted camera motion due to recoil to match CS:GO more closely. Bullet trajectories should continue to match CS2.[/p][/*][*][p]Players will now experience the full camera motion due to external sources of aim punch (e.g. getting shot) regardless of network latency. The effects of aim punch on bullet trajectories are still applied immediately on the server.[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Minor adjustments to viewmodel animations.[/p][/*][*][p]Fixed several cases where crouch transitions in the air were instantaneous.[/p][/*][*][p]Fixed a bug where MVP panel characters weren't resetting correctly.[/p][/*][/list]",
+        "commentcount": 207,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487176015_1776811370_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "801219731626394735",
+        "event_gid": "508485755865137153",
+        "voteupcount": 2231,
+        "votedowncount": 244,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "577165112126735190",
         "clanid": "3381077",
         "posterid": "0",
