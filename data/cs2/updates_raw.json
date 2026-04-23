@@ -1,5 +1,28 @@
 [
     {
+        "gid": "508485755865137698",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1776897651,
+        "updatetime": 1776897651,
+        "body": "[p]\\[ GAMEPLAY ][/p][list][*][p]Adjusted ground smoothing at locations where the player can stand on very thin ledges.[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Minor adjustments to viewmodel animations.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Corrected some improper character texture assignments.[/p][/*][*][p]Trade offers containing Counter-Strike 2 items are now limited to 1,000 items.[/p][/*][/list]",
+        "commentcount": 159,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1294976491_1776898754_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "801219731626497005",
+        "event_gid": "508485755865137697",
+        "voteupcount": 1376,
+        "votedowncount": 178,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "508485755865137154",
         "clanid": "3381077",
         "posterid": "0",
