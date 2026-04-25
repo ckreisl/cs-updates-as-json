@@ -1,5 +1,28 @@
 [
     {
+        "gid": "508485755865137964",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1777070708,
+        "updatetime": 1777070708,
+        "body": "[p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed XM1014 shells flickering when starting a reload.[/p][/*][*][p]Fixed bugs with dual berettas in first person and in spectator mode.[/p][/*][*][p]Fixed inspect/cancel causing multiple worldmodel deploys.[/p][/*][*][p]Fixed a bug where players can get stuck in a planted-turn state.[/p][/*][*][p]Made foot IK transitions smoother.[/p][/*][*][p]Adjusted the firstperson in-air crouch transition time to match the thirdperson animation better.[/p][/*][*][p]Fixed a case where high frequency stutter steps would cause large pose changes.[/p][/*][*][p]Fixed a case where legs would snap when quickly stopping and then continuing in same direction.[/p][/*][*][p]Adjusted thirdperson bomb plant animation to more closely match firstperson animation.[/p][/*][*][p]Minor adjustments to viewmodel animations.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed random crash on startup when a non-default Audio Device was specified in settings or when sound_device_override was specified in a config file or on the command line.[/p][/*][*][p]Adjusted official map guides to match new surface smoothing.[/p][/*][*][p]Dropped weapons with silencers now correctly reflect the silenced state.[/p][/*][/list]",
+        "commentcount": 140,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1877905169_1777071868_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "801219948950125737",
+        "event_gid": "508485755865137963",
+        "voteupcount": 1762,
+        "votedowncount": 160,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "508485755865137698",
         "clanid": "3381077",
         "posterid": "0",
