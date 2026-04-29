@@ -1,5 +1,28 @@
 [
     {
+        "gid": "508486359454843161",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1777415058,
+        "updatetime": 1777415058,
+        "body": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Added Cache to Competitive, Casual, Deathmatch, and Retakes modes.[/p][/*][/list][p]Dust II[/p][list][*][p]Uncovered Mid Box (Xbox) to reveal a previously hidden jump spot. On purpose this time.[/p][/*][/list][p]Office[/p][list][*][p]Enabled collision on tarp on boxes used around CT spawn.[/p][/*][/list][p]Stronghold[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3477094554\"]Update Notes[/url])[/p][/*][/list][p]Poseidon[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3522144043\"]Update Notes[/url])[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Minor adjustments to viewmodel animations.[/p][/*][*][p]Talon and Karambit knives are now held correctly while defusing.[/p][/*][/list][p][/p][p]\\[ SOUND ][/p][list][*][p]Minor mix changes and adjustments.[/p][/*][*][p]Fixed issue where C4 equip sound was not getting interrupted by other equip sounds.[/p][/*][*][p]Removed first-person death sound effect that played in the case of music kit death cue being inaudible.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Shader fix for AO while using alpha test causing overly dark and chunky silhouettes, as seen on railings in Mirage.[/p][/*][*][p]Fixed a case where it was possible to hold no weapon by requesting a hand switch after throwing a grenade.[/p][/*][/list]",
+        "commentcount": 270,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1803566692_1777416473_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "845130462379639421",
+        "event_gid": "508486359454843160",
+        "voteupcount": 3244,
+        "votedowncount": 248,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "508485755865137964",
         "clanid": "3381077",
         "posterid": "0",
