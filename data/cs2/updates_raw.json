@@ -1,5 +1,28 @@
 [
     {
+        "gid": "702141174212723088",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1777499165,
+        "updatetime": 1777499165,
+        "body": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Bomb explosion radius increased.[/p][/*][*][p]Lighting Adjustments around Vent.[/p][/*][*][p]Disabled player collision on sign and removed lamp by squeaky.[/p][/*][*][p]Reworked e-box on A-site for better visibility.[/p][/*][*][p]Lowered Checkers entrance frame height at B Main.[/p][/*][*][p]Removed AC unit above Sandbags and moved pipes.[/p][/*][*][p]Fixed lack of footstep sounds on top of crates at A-site.[/p][/*][*][p]Fixed hole in world on door in Sun Room.[/p][/*][*][p]Fixed wall bangs on A Main wall.[/p][/*][*][p]Fixed some z-fighting around Garage.[/p][/*][*][p]Adjusted grenade clipping throughout map.[/p][/*][*][p]Adjusted player clipping throughout map.[/p][/*][/list][p]Dust II[/p][list][*][p]Blocked visibility through corner of Mid Box (Xbox).[/p][/*][/list][p][/p][p]\\[ SOUND ][/p][list][*][p]Speculative fix for a case where all audio drops out.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed cases where crouch-jumping in confined spaces could cause the player camera to intersect the ceiling.[/p][/*][*][p]Adjusted particle effect sprite opacity for fully occluded flashbangs.[/p][/*][*][p]Improved smoke lighting consistency.[/p][/*][*][p]Minor adjustments to dropped pistol magazine velocity.[/p][/*][*][p]Ambient Occlusion adjustment settings in Environment Blend shader restored.[/p][/*][*][p]Fixed a case where money was subtracted from the wrong player during bot takeover.[/p][/*][/list]",
+        "commentcount": 212,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1890460210_1777500334_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "845130462379743339",
+        "event_gid": "702141174212723087",
+        "voteupcount": 2740,
+        "votedowncount": 226,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "508486359454843161",
         "clanid": "3381077",
         "posterid": "0",
