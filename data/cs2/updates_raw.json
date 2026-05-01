@@ -1,5 +1,28 @@
 [
     {
+        "gid": "702141174212723292",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1777589209,
+        "updatetime": 1777589209,
+        "body": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Map-wide clipping fixes and geometry polish.[/p][/*][*][p]Fixed some spots where bomb would be unreachable when dropped.[/p][/*][*][p]Fixed dynamic shadows breaking in some spots.[/p][/*][*][p]Fixed some surface sound types.[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed hand popping when counter-strafing with a grenade equipped.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Limit aim punch to 90 degrees.[/p][/*][*][p]Added secondary intersection trace for partially-occluded thirdperson weapons.[/p][/*][*][p]Adjusted ground smoothing at locations where sloped ground surfaces join with step-height transitions.[/p][/*][*][p]Fixed issue that caused defuse-cables from completely occluded players to also be occluded.[/p][/*][*][p]Fixed 'FATAL ERROR: Failed to on-demand compile shader' affecting some older GPUs.[/p][/*][/list]",
+        "commentcount": 130,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1888979151_1777591870_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "845130462379846640",
+        "event_gid": "702141174212723291",
+        "voteupcount": 1763,
+        "votedowncount": 142,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "702141174212723088",
         "clanid": "3381077",
         "posterid": "0",
