@@ -1,5 +1,29 @@
 [
     {
+        "gid": "702141807556821889",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1778191777,
+        "updatetime": 1778195086,
+        "body": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map.[/p][/*][*][p]Simplified grenade clipping in various areas.[/p][/*][*][p]Fixed sounds and surfacetypes for various materials.[/p][/*][*][p]Orange wire spool at Sandbags has been exchanged for white wire.[/p][/*][/list][p]\\[ MUSIC KITS ][/p][list][*][p]NIGHTMODE II Music Kits are now available for purchase in standard and StatTrak versions through the STORE tab.[/p][/*][/list][p]\\[ WORKSHOP ][/p][list][*][p]Fixed progressive refinement rendering Source Film Maker.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]User Viewmodel FOV now correctly networks to remote clients.[/p][/*][*][p]Adjusted player model occlusion bounds.[/p][/*][*][p]Fixed ragdolls missing death velocity when shot in specific body locations.[/p][/*][*][p]Minor adjustments to ground smoothing transitions when leaving the ground and when landing.[/p][/*][*][p]Fixed a case where post-processing transitions weren't smooth (e.g. at the end of freeze time).[/p][/*][*][p]Fixed a case where map guides for Ancient wouldn't load in the nighttime version[/p][/*][*][p]Adjusted score values for various weapons in Deathmatch.[/p][/*][*][p]Adjusted XP limits in Deathmatch and Arms Race.[/p][/*][/list]",
+        "commentcount": 125,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1870293249_1778192397_0",
+            "ModAct_1870293249_1778196060_4"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "845131095727058030",
+        "event_gid": "702141807556821888",
+        "voteupcount": 1367,
+        "votedowncount": 166,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "702141174212723292",
         "clanid": "3381077",
         "posterid": "0",
