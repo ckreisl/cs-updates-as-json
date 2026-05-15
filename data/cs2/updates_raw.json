@@ -1,5 +1,28 @@
 [
     {
+        "gid": "672869045073084966",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1778797438,
+        "updatetime": 1778797438,
+        "body": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map[/p][/*][*][p]Fixed surfacetypes for various materials.[/p][/*][*][p]Added grating to some windows to make them block bullets.[/p][/*][*][p]Tweaks to player and grenade clipping.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Fixed a case where it was possible to cancel a grenade throw after the throw was started near the end of the pin pull animation.[/p][/*][*][p]Miscellaneous stability improvements.[/p][/*][/list][p]\\[ TOOLS ][/p][list][*][p]Fixed\u00a0bug that prevented the asset in use from being selected when model browser was opened.[/p][/*][*][p]Fixed bug with layered materials with same surface property on all layers.\u00a0[/p][/*][/list][p]\\[ MUSIC KITS ][/p][list][*][p]Added roundmvpanthem_02 for all NIGHTMODE II music kits which plays at 1:5 ratio.[/p][/*][/list][p][/p]",
+        "commentcount": 248,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1751692459_1778797723_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "842880102665565313",
+        "event_gid": "672869045073084965",
+        "voteupcount": 1897,
+        "votedowncount": 386,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "702141807556821889",
         "clanid": "3381077",
         "posterid": "0",
