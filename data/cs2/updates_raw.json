@@ -1,5 +1,28 @@
 [
     {
+        "gid": "672869045073086087",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1779147368,
+        "updatetime": 1779147368,
+        "body": "[p]\\[ SPECTATING ][/p][list][*][p]Fixed a case of post-processing glitch when switching spectator targets on maps with different post-processing volumes.[/p][/*][*][p]Fixed a case of stuck x-ray silhouettes when switching spectator targets.[/p][/*][*][p]Fixed spectator damage overlay effect.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added weapon_accuracy_stack_boost_limit (default value \"2\") to apply ladder inaccuracy to players boosted by a stack of this many or more players.[/p][/*][*][p]Adjustments to AWP draw to idle animation transition.[/p][/*][*][p]Improved consistency of grenade jump throws and the accuracy of the jump throw preview camera.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Adjusted model for window covers to show collision / decals when shot.[/p][/*][*][p]Adjustments to player clipping and grenade clipping around windows, window covers, and vent entrance.[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.RegisterCheatCommand[/p][/*][*][p]Added Instance.GetAllPlayerControllers[/p][/*][*][p]Added Instance.OnBeginRoundRestart[/p][/*][*][p]Added Instance.SetRoundRemainingTime[/p][/*][*][p]Added CSPlayerController.AddMoneySpendableNow[/p][/*][*][p]Added CSPlayerController.GetMoneySpendableNow[/p][/*][*][p]Added CSPlayerController.AddMoneyEarnedForNextRound[/p][/*][*][p]Added CSPlayerController.GetMoneyEarnedForNextRound[/p][/*][*][p]Added CSPlayerPawn.HasHelmet[/p][/*][*][p]Added CSPlayerPawn.SetHasHelmet[/p][/*][*][p]Added CSPlayerPawn.IsScoped[/p][/*][*][p]Added CSWeaponBase.IsSilencerOn[/p][/*][*][p]Changed the activator for OnPlayerUse to always be the player[/p][/*][*][p]Changed the caller for OnPlayerUse to always be the used entity[/p][/*][*][p]Fixed the value of CSInputs.LOOK_AT_WEAPON[/p][/*][*][p]Fixed a potential crash in exception handling[/p][/*][/list]",
+        "commentcount": 200,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1888979151_1779147978_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "842880460116744084",
+        "event_gid": "672869045073086086",
+        "voteupcount": 1365,
+        "votedowncount": 281,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "672869045073084966",
         "clanid": "3381077",
         "posterid": "0",
