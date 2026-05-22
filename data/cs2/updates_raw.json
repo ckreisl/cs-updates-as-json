@@ -1,5 +1,28 @@
 [
     {
+        "gid": "685254577766793647",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1779410434,
+        "updatetime": 1779410434,
+        "body": "[p]\\[ MAJOR ][/p][list][*][p]The IEM Cologne 2026 Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge and more.[/p][/*][*][p]Purchase a Cologne 2026 Viewer Pass to receive an upgradable Cologne 2026 Coin. With an active pass, you can upgrade your coin and earn rewards by playing the Pick'Em Challenge. Additionally, you will show up on the Active Pass Leaderboard where you can compare your Pick'Em Challenge performance to your friends.[/p][/*][/list][p]\\[ UI ][/p][list][*][p]Fixed a case of incorrect scoreboard timeline presentation in overtime.[/p][/*][*][p]Fixed weapon entities disallowing pickup from showing pick up weapon hint text.[/p][/*][*][p]Increased spectator in-eye flash amount.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Souvenir quality items can now be selected in Trade Up Contract alongside normal quality items. All Souvenir attributes will be removed from any souvenir items selected, and the result of a Trade Up Contract will be a single normal item of a quality one higher, from a collection of all of the items selected for exchange.[/p][/*][*][p]Fixed a case where tire fire particles were flickering in the advanced video preview.[/p][/*][*][p]Adjusted finger animation on Bayonet model.[/p][/*][/list]",
+        "commentcount": 82,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434278705_1779412905_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "841754670748844700",
+        "event_gid": "685254577766793646",
+        "voteupcount": 755,
+        "votedowncount": 127,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "685254577766793433",
         "clanid": "3381077",
         "posterid": "0",
