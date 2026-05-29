@@ -1,5 +1,28 @@
 [
     {
+        "gid": "672870313012233013",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1780013843,
+        "updatetime": 1780013843,
+        "body": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added ability to bookmark stickers in Cologne 2026 Shop.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added convar r_spectator_flashbang_opacity to control flashbang opacity for remote spectators.[/p][/*][*][p]Flashbang effect for remote spectators now renders underneath the HUD.[/p][/*][*][p]Stability improvements[/p][/*][/list][p]\\[ MAPS ][/p][p]Ancient[/p][list][*][p]Updated clipping to prevent certain boost locations[/p][/*][/list][p]Sanctum[/p][list][*][p]Updated to the latest version from Steam Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442\"]Update Notes[/url])[/p][/*][/list]",
+        "commentcount": 224,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1870293249_1780015102_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "659359514129288535",
+        "event_gid": "672870313012233012",
+        "voteupcount": 1484,
+        "votedowncount": 448,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "685254577766793647",
         "clanid": "3381077",
         "posterid": "0",
