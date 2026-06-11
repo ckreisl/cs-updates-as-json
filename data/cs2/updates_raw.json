@@ -1,5 +1,28 @@
 [
     {
+        "gid": "697641379212296486",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1781126525,
+        "updatetime": 1781126525,
+        "body": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added display of lowest and highest sticker price in the last 7 days in the Cologne 2026 Major Shop.[/p][/*][*][p]Added stickers showcase to the Cologne 2026 Major Hub tile on the main menu.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added multi-select functionality in Storage Units deposit/retrieve UI.[/p][/*][*][p]Added appropriate error message when user's inventory is full and they try to redeem Weekly Care Package rewards, Armory items, or items in the Major Shop cart.[/p][/*][*][p]Fixed number wrapping rules in some languages.[/p][/*][/list]",
+        "commentcount": 263,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1751692459_1781126651_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "572666489558114031",
+        "event_gid": "697641379212296485",
+        "voteupcount": 1798,
+        "votedowncount": 386,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "672870313012233013",
         "clanid": "3381077",
         "posterid": "0",
