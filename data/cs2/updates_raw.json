@@ -1,5 +1,28 @@
 [
     {
+        "gid": "701021228894259246",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1783551091,
+        "updatetime": 1783551091,
+        "body": "[p]\\[ PREMIER ][/p][list][*][p]Premier Season Five has begun[/p][/*][*][p]Added Cache to the Active Duty Map Pool[/p][/*][*][p]Removed Overpass from the Active Duty Map Pool[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Re-designed effective range and extent of C4 explosion damage on all official defusal-mode maps.[/p][list][*][p]Damage is now applied according to precomputed simulation values, baked into the compiled map.[/p][/*][*][p]Explosion shockwave damage now rapidly expands from the center of the explosion instead of being applied instantly.[/p][/*][/list][/*][*][p]Fixed case where picking up dropped weapons through the Buy Menu would fail to complete.[/p][/*][/list][p][/p][p]\\[ ARMORY ][/p][list][*][p]Added two new weapon collections based on the recent Call to Arms community announcement: Spy Tech + Arabesque[/p][/*][*][p]Added two new sticker collections based on the recent Call to Arms community announcement: Fruits & Vegetables + Auto Racing[/p][/*][*][p]Train 2025 and Sport & Field weapon collections are no longer available in the Armory[/p][/*][*][p]Sugarface 2 and Elemental Craft sticker collections are no longer available in the Armory[/p][/*][/list][p][/p][p]\\[ WORKSHOP ][/p][list][*][p]Updated \"Custom Paint Job Extended\"\u00a0[/p][list][*][p]Added option to include a dedicated overlay mask texture\u00a0[/p][/*][*][p]Added option to set unique overlay UV randomization separate from albedo UV randomization\u00a0[/p][/*][/list][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Reduced the performance cost of showing the scoreboard.[/p][/*][*][p]Fixed a case where material blending effects would disappear when you got too close (e.g. the dirt on the barrels in Inferno Banana).[/p][/*][*][p]Increased sticker rotation precision to allow half-degree increments on application screen.[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.QueueAfterThinks[/p][/*][*][p]Added Instance.OnWeaponDrop[/p][/*][*][p]Added CSWeaponBase.GetOriginalOwner[/p][/*][*][p]Fixed a crash when the name passed to Instance.RegisterCheatCommand collided with an existing command.[/p][/*][*][p]Added file name and line number to errors caught during the CompileModule step of script loading.[/p][/*][*][p]Removed support for deprecated vts assets.[/p][/*][/list][p][/p][p]\\[ ENGINE ][/p][list][*][p]Updated engine code to the latest version of Source 2[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][list][*][p]Removed community maps: Warden, Stronghold, Alpine, and Sanctum from all game modes[/p][/*][*][p]Added community maps Boulder, Fachwerk, and Shelter to Competitive, Casual, and Deathmatch modes[/p][/*][*][p]Added community maps Debris and El Dorado to Wingman mode[/p][/*][/list][p]Cache[/p][list][*][p]Various clipping adjustments[/p][/*][/list][p]Dust II[/p][list][*][p]Fixed pixel gap Outside Tunnel[/p][/*][*][p]Clipping adjustment Outside Tunnel[/p][/*][/list][p]Inferno[/p][list][*][p]Clipping fix to prevent pixel boost at Top of Mid[/p][/*][/list]",
+        "commentcount": 513,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1751692459_1783552262_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "562535810309798227",
+        "event_gid": "701021228894259245",
+        "voteupcount": 3966,
+        "votedowncount": 647,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "701020348316912159",
         "clanid": "3381077",
         "posterid": "0",
