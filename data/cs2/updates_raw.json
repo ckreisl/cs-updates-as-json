@@ -1,5 +1,28 @@
 [
     {
+        "gid": "701021228894259657",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1783633576,
+        "updatetime": 1783633576,
+        "body": "[p]\\[ GAMEPLAY ][/p][list][*][p]Removed map-wide minimum one point of damage from new C4 explosions.[/p][/*][*][p]Fixed a case where new C4 damage was calculated incorrectly near boundaries to other map areas.[/p][/*][*][p]New C4 explosions now apply more force to dropped weapons.[/p][/*][/list][p][/p][p]\\[ ARMORY ][/p][list][*][p]Adjusted the \"Sniper Ahead\" sticker visibility when scraped.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed a case where season medals were missing their gold tint on one of the bars.[/p][/*][*][p]Fixed a case where the scoreboard wouldn't update while open.[/p][/*][*][p]Various stability improvements.[/p][/*][/list]",
+        "commentcount": 282,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1888979151_1783634427_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "562536063730508637",
+        "event_gid": "701021228894259656",
+        "voteupcount": 2871,
+        "votedowncount": 515,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "701021228894259246",
         "clanid": "3381077",
         "posterid": "0",
