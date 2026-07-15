@@ -1,5 +1,28 @@
 [
     {
+        "gid": "698770449667981327",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1784076120,
+        "updatetime": 1784076120,
+        "body": "[p]\\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035\"]Update Notes[/url]).[/p][/*][/list][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989\"]Update Notes[/url]).[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295\"]Update Notes[/url]).[/p][/*][/list][p]El Dorado[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3408790618\"]Update Notes[/url]).[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Various stability and security fixes.[/p][/*][/list]",
+        "commentcount": 623,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1784076414_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "569291960381093425",
+        "event_gid": "698770449667981326",
+        "voteupcount": 6227,
+        "votedowncount": 1605,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "701021228894259657",
         "clanid": "3381077",
         "posterid": "0",
