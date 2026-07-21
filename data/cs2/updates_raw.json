@@ -1,5 +1,28 @@
 [
     {
+        "gid": "698770449667982801",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1784589216,
+        "updatetime": 1784589216,
+        "body": "[p]\\[ GAMEPLAY ][/p][list][*][p]The bomb damage health preview is now revealed when the bomb becomes audible.[/p][/*][*][p]The bomb explosion now interacts with smoke grenade clouds and molotov/incendiary fire.\u00a0[/p][/*][/list][p]\n\\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035\"]Update Notes[/url])[/p][/*][/list][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989\"]Update Notes[/url])[/p][/*][/list][p]Debris[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3539217452\"]Update Notes[/url])[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added Workshop maps section to Play menu for Counter-Strike in Steam China.[/p][/*][*][p]Added a shortcut to Community Servers list to Play menu for Counter-Strike in Steam China.[/p][/*][/list]",
+        "commentcount": 379,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1751555285_1784590964_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "569292334908507935",
+        "event_gid": "698770449667982800",
+        "voteupcount": 1938,
+        "votedowncount": 490,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "698770449667981327",
         "clanid": "3381077",
         "posterid": "0",
