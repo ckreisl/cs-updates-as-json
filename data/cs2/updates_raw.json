@@ -1,5 +1,28 @@
 [
     {
+        "gid": "692016318956699786",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1785285504,
+        "updatetime": 1785285504,
+        "body": "[p]\\[ COLOGNE 2026 MAJOR ][/p][list][*][p]The Ranked Series stickers are now available for purchase. 50% of royalties are shared with players, teams, and the tournament organizer.[/p][/*][*][p]Items in the the Cologne 2026 Shop will be available for purchase until September 29th.[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Fixed a bug where scripts would fail to load in tools mode until a manual recompile.[/p][/*][/list][p]\n\\[ MAPS ][/p][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989\"]Update Notes[/url])[/p][/*][/list][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035\"]Update Notes[/url])[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295\"]Update Notes[/url])[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed a bug which prevented some users from claiming Collection Catalog XP for The Dead Hand Collection.[/p][/*][*][p]Fixed a bug that allowed malicious players to avoid being processed by VACnet.[/p][/*][/list]",
+        "commentcount": 404,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1434573178_1785285946_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "582804027998219158",
+        "event_gid": "692016318956699785",
+        "voteupcount": 2158,
+        "votedowncount": 522,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "698770449667982801",
         "clanid": "3381077",
         "posterid": "0",
