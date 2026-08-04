@@ -1,5 +1,28 @@
 [
     {
+        "gid": "692016318956701713",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1785791934,
+        "updatetime": 1785792049,
+        "body": "[p]\\[ GAMEPLAY ][/p][list][*][p]Fixed a case where grenades could be thrown through level geometry[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various gaps in map[/p][/*][*][p]Fixed collision in various spots across map[/p][/*][*][p]Fixed flickering on some assets[/p][/*][*][p]Removed boost spot in Outside A[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295\"]Update Notes[/url])[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.TracePlayer[/p][/*][*][p]Added Instance.OnWeaponPickup[/p][/*][*][p]Added Instance.OnBombExplode[/p][/*][*][p]Added Instance.SpawnGrenadeProjectile[/p][/*][*][p]Added dropper to Instance.OnWeaponDrop event[/p][/*][*][p]Added hitEntity to Instance.OnGrenadeBounce event[/p][/*][*][p]Added normal to Instance.OnGrenadeBounce event[/p][/*][*][p]Added CSGrenadeProjectileBase.GetGrenadeType[/p][/*][*][p]Added CSGrenadeProjectileBase.GetThrower[/p][/*][*][p]Added CSGrenadeProjectileBase.Detonate[/p][/*][*][p]Added CSPlantedC4.IsBombsiteA[/p][/*][*][p]Added CSPlantedC4.IsBombsiteB[/p][/*][*][p]Added CSPlantedC4.GetPlanter[/p][/*][*][p]Added CSPlantedC4.GetDefuser[/p][/*][*][p]Added CSPlantedC4.IsActive[/p][/*][*][p]Added CSPlantedC4.IsExploded[/p][/*][*][p]Added CSPlantedC4.IsDefused[/p][/*][*][p]Added CSPlantedC4.GetPlantTime[/p][/*][*][p]Added CSPlantedC4.GetExplodeTime[/p][/*][*][p]Added CSPlantedC4.GetDefuseStartTime[/p][/*][*][p]Added CSPlantedC4.GetDefuseFinishTime[/p][/*][*][p]Added CSPlayerPawn.HasDefuser[/p][/*][*][p]Added CSPlayerPawn.SetHasDefuser[/p][/*][*][p]Added CSGrenadeType enum[/p][/*][*][p]Fixed a bug where Instance.RegisterCheatCommand would not work on script reload.[/p][/*][*][p]Deprecated bounces from Instance.OnGrenadeBounce event.[/p][/*][/list]",
+        "commentcount": 384,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1751555285_1785792674_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "582804312418477549",
+        "event_gid": "692016318956701712",
+        "voteupcount": 2330,
+        "votedowncount": 595,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "692016318956699786",
         "clanid": "3381077",
         "posterid": "0",
