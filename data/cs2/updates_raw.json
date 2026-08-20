@@ -1,5 +1,28 @@
 [
     {
+        "gid": "717913919982665979",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1787182593,
+        "updatetime": 1787182593,
+        "body": "[p]\\[ MAPS ][/p][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989\"]Update Notes[/url])[/p][/*][/list][p]Poseidon[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3522144043\"]Update Notes[/url])[/p][/*][/list][p]\\[ GAMEPLAY ][/p][list][*][p]Fixed a case where player speed was too high when moving against walls.[/p][/*][/list]",
+        "commentcount": 236,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1890460210_1787184079_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "587309530805816813",
+        "event_gid": "717913919982665978",
+        "voteupcount": 1100,
+        "votedowncount": 366,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "689765787249934891",
         "clanid": "3381077",
         "posterid": "0",
