@@ -1,5 +1,28 @@
 [
     {
+        "gid": "717913919982667305",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1787614760,
+        "updatetime": 1787614871,
+        "body": "[p]\\[ MAP SCRIPTING ][/p][list][*][p]Added custom_hud_layout entity:[/p][list][*][p]custom_hud_layouts are the entry point for scripted maps to provide custom UI.[/p][/*][*][p]Panel, Label, Image, and Button panel types are supported.[/p][/*][*][p]Styling with css is supported.[/p][/*][*][p]Events and client side scripting are not supported.[/p][/*][*][p]Maintains state during tools mode reloads.[/p][/*][/list][/*][*][p]Added cs_player_camera entity:[/p][list][*][p]Gives control of a player's view without moving their pawn.[/p][/*][*][p]Can be configured to let the player look around from the scripted position.[/p][/*][/list][/*][*][p]Added Instance.Delay[/p][/*][*][p]Added Instance.OnBombPlantStart[/p][/*][*][p]Added Instance.OnBombPlantAbort[/p][/*][*][p]Added Instance.OnBombDefuseStart[/p][/*][*][p]Added Instance.OnBombDefuseAbort[/p][/*][*][p]Added Instance.OnCustomHudClicked[/p][/*][*][p]Added Instance.IsDedicatedServer[/p][/*][*][p]Added Entity.Move[/p][/*][*][p]Added Entity.GetMoveType[/p][/*][*][p]Added Entity.SetMoveType[/p][/*][*][p]Added CSPlayerPawn.GetC4[/p][/*][*][p]Added CSPlayerPawn.GetDefuseTarget[/p][/*][*][p]Added CSPlayerPawn.IsBuyMenuOpen[/p][/*][*][p]Added CSPlayerPawn.GetCamera[/p][/*][*][p]Added C4.GetPlantStartTime[/p][/*][*][p]Added C4.GetPlantFinishTime[/p][/*][*][p]Added C4.AbortPlant[/p][/*][*][p]Added CustomHudLayout.SetHasClass[/p][/*][*][p]Added CustomHudLayout.SetHasClassForPlayer[/p][/*][*][p]Added CustomHudLayout.SetDialogVariableString[/p][/*][*][p]Added CustomHudLayout.SetDialogVariableStringForPlayer[/p][/*][*][p]Added CustomHudLayout.SetInputCaptureEnabled[/p][/*][*][p]Added CustomHudLayout.IsInputCaptureEnabled[/p][/*][*][p]Added CSPlayerCamera.IsEnabled[/p][/*][*][p]Added CSPlayerCamera.SetEnabled[/p][/*][*][p]Added CSPlayerCamera.SetIsControllingAngles[/p][/*][*][p]Added enum CSMoveType[/p][/*][*][p]Corrected types for some events where parameters were maybe undefined.[/p][/*][*][p]Errors encountered during initial script run are now logged to the console.[/p][/*][*][p]Unhandled promise rejections are now logged to the console.[/p][/*][*][p]Added the column number to errors caught during the CompileModule step of script loading.[/p][/*][*][p]Deprecated planter from Instance.OnBombPlant event[/p][/*][*][p]Deprecated defuser from Instance.OnBombDefuse event[/p][/*][/list]",
+        "commentcount": 210,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487176015_1787615671_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "587309829717332374",
+        "event_gid": "717913919982667304",
+        "voteupcount": 1080,
+        "votedowncount": 206,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "717913919982665979",
         "clanid": "3381077",
         "posterid": "0",
