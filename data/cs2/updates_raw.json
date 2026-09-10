@@ -1,5 +1,29 @@
 [
     {
+        "gid": "692020124159312045",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1788994268,
+        "updatetime": 1788994963,
+        "body": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various gaps in map.[/p][/*][*][p]Fixed a wallbang spot on B site.[/p][/*][*][p]Added a missing competitive CT spawn point.[/p][/*][*][p]Added additional T spawn points.[/p][/*][/list][p]\\[ MAP SCRIPTING ][/p][list][*][p]Reworked CSPlayerCamera:[/p][list][*][p]Renamed it to CustomPlayerCamera.[/p][/*][*][p]Added GetPlayer, GetMode, SetMode, and SetFollowConfig.[/p][/*][*][p]Deprecated IsEnabled, SetEnabled, and SetIsControllingAngles.[/p][/*][/list][/*][*][p]Added an 'observable' property to custom_hud_layout that controls whether an observer sees the UI as the spectated player sees it. Defaults to false.[/p][/*][*][p]Fixed several bugs related to stale custom_hud_layout state when changing spectator targets.[/p][/*][*][p]Added top-level custom_hud_layout classes driven by client state:[/p][list][*][p]HUD_BUYMENU_VISIBLE[/p][/*][*][p]HUD_SCOREBOARD_VISIBLE[/p][/*][/list][/*][*][p]custom_hud_layout now always draws on top of the base HUD.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Chat is now encrypted in demo files using the same rules as CS:GO :[/p][list][*][p]Team chat is no longer readable when playing back demo files.[/p][/*][*][p]Global chat is only readable in demo files when played back via the in-game watch UI.[/p][/*][/list][/*][/list]",
+        "commentcount": 243,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487176015_1788994844_0",
+            "ModAct_487176015_1788996725_4"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "563667534781483012",
+        "event_gid": "692020124159312044",
+        "voteupcount": 1549,
+        "votedowncount": 329,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "717913919982667305",
         "clanid": "3381077",
         "posterid": "0",
