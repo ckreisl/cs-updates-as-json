@@ -1,5 +1,28 @@
 [
     {
+        "gid": "674006995886407686",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1790120256,
+        "updatetime": 1790120785,
+        "body": "[p]\\[ PREMIER ][/p][list][*][p]Updated the map selection process to give players more opportunities to play maps they've been learning.[/p][/*][*][p]Map selection process:[/p][list][*][p]Team 1 picks one map[/p][/*][*][p]Team 2 picks two maps[/p][/*][*][p]Team 1 picks a final map.\u00a0[/p][/*][*][p]One of the four maps will be randomly selected and the match will begin.[/p][/*][/list][/*][/list][p][/p][p]\\[ RUSH ][/p][list][*][p]Rush is a fast-paced queued 3v3 game mode.\u00a0[/p][/*][*][p]Players battle through a series of battle arenas to reach the opponent's castle and win the match.[/p][/*][*][p]Battle arenas are randomly selected for each match, so no two matches are the same.[/p][/*][*][p]Control the tower when you eliminate the enemy team (or time expires) to win the round.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Players can now reload silently (but slowly) by pressing and holding the reload key.[/p][/*][*][p]Un-scoping a sniper weapon no longer produces a sound.[/p][/*][*][p]Globally increased visual clarity and improved fidelity of bullet impact decals.[/p][/*][*][p]ammo_grenade_limit_total setting now also enforces the total number of grenades a player is allowed to purchase in a round.[/p][/*][*][p]Chickens now take damage from the Zeus x27.\n[/p][/*][/list][p]\\[ SETTINGS ][/p][list][*][p]Crosshairs have been updated to be resolution independent.[/p][list][*][p]A new \"Crosshair/Scopes\" tab is available in the Settings menu, and includes updated crosshair settings.[/p][/*][*][p]Added new crosshair styles[/p][/*][*][p]Updated the default crosshair to \"Dynamic Quad,\" which better represents weapon accuracy.[/p][/*][/list][/*][/list][p][/p][p]\\[ ENGINE ][/p][list][*][p]Updated engine code to the latest version of Source 2.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Ancient[/p][list][*][p]Fixed holes in world in Long A Main Hall.[/p][/*][*][p]Adjusted door geometry and grenade clipping inside Jaguar.[/p][/*][/list][p]Cache[/p][list][*][p]Some gap fixes and clipping adjustments around the blue doors in Mid.[/p][/*][/list][p]Mirage[/p][list][*][p]Reinforced scaffolding by balcony in A site.[/p][/*][/list][p]Train[/p][list][*][p]Blocked pixel gap in crates on bombsite A.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added ability to set a \"Clan Tag\" for players who are members of Steam Community Groups. You can adjust your Clan Tag from your Player Profile.[/p][/*][*][p]Added support for applying stickers to C4.[/p][/*][*][p]The Starjunk 95, Industrial Sunset Memories Music Kit is now available for purchase in standard and StatTrak versions through the STORE tab.[/p][/*][*][p]Halftime scoreboard stats should now fully reflect the results of the previous round.[/p][/*][*][p]Fixed a case where players could avoid a kick ban.[/p][/*][*][p]Players can now adjust music volume per game-mode.[/p][/*][/list][p][/p][p]\\[ WORKSHOP ]\u00a0[/p][list][*][p]Added \"minimap_volume\" entity which enables a custom minimap image when a player is within the volume.[/p][/*][*][p]Added \"sky_camera_volume\" and \"sky_camera_volume_target\", which enable custom location-specific skybox rendering.[/p][/*][*][p]Added \"point_deathcam_bounds\" entity that constrains the player death camera.[/p][/*][*][p]Added \"env_shake_volume\" entity that allows camera shake only within a specified volume.[/p][/*][/list][p][/p][p]\\[ SCRIPTING ][/p][list][*][p]Added CSRadarPoint entity.[/p][/*][*][p]Added CSObservablePoint entity.[/p][/*][*][p]Added AddTeamMoney API method.[/p][/*][*][p]Added OnPlayerTeamChanged callback.[/p][/*][*][p]SetDialogVariableString now accepts a localization string.[/p][/*][/list]",
+        "commentcount": 326,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487176015_1790122204_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "587312703064772940",
+        "event_gid": "674006995886407685",
+        "voteupcount": 2952,
+        "votedowncount": 411,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "692020124159312045",
         "clanid": "3381077",
         "posterid": "0",
