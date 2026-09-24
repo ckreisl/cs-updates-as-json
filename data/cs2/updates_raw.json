@@ -1,5 +1,28 @@
 [
     {
+        "gid": "674006995886408820",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1790204844,
+        "updatetime": 1790204844,
+        "body": "[p]\\[ RUSH ][/p][list][*][p]Increased the maximum countdown-after-elimination time from 7 seconds to 14 seconds on end rooms and Convoy.[/p][/*][*][p]The countdown-after-elimination time does not activate in cases where an entire team dies to suicides, team kills, and/or disconnects.[/p][/*][*][p]Warmup time once all players have connected, freeze time, and technical timeout time are all reduced.[/p][/*][*][p]Various gap fixes and clipping adjustments.[/p][/*][/list][p][/p][p]\\[ CROSSHAIR ][/p][list][*][p]Some additional information about the new crosshair system:[/p][list][*][p]The new crosshair thickness and length units are in pixels. In the past, the values were defined with an arbitrary scale and converted to pixels based on display resolution so the same value would result in different pixel counts at different resolutions. With the new settings, if you want a 1-pixel wide crosshair with a bar length of 8 pixels and a gap of 4 pixels, then you would set: thickness = 1, length = 8, and gap = 4.\u00a0[/p][/*][*][p]Please be aware that the new crosshair system automatically rescales pixel counts when the display resolution changes. For example, if a crosshair was configured at display resolution 1280x720 with a thickness of 2 pixels and then the display resolution changes to 2560x1440, it will now automatically rescale the thickness to 4 pixels so that it remains proportionally the same as when it was configured.[/p][/*][/list][/*][/list][list][*][p]Added option to draw half-outlines. This will only draw the top-left portions of the outline for a crosshair.[/p][/*][*][p]Fixed a bug preventing 0 gap width from being respected.[/p][/*][*][p]Added a static square crosshair style[/p][/*][*][p]Reduced the minimum dynamic spread distance to 64 pixels. The new dynamic crosshair styles will show you the real weapon spread and inaccuracy and the 'Dynamic Spread Limit' setting is a limit on how far the crosshair will spread at maximum inaccuracy and spread. There is a baseline spread distance of 64 pixels which covers the weapons with the largest spread so that players can better understand how accurate they actually are with their equipped weapon.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed a case where left-handed viewmodels would animate incorrectly while silent reloading.[/p][/*][*][p]Fixed a case where thirdperson player models would animate too fast while silent reloading.[/p][/*][*][p]Fixed a case where firstperson Dual Berettas would animate incorrectly while reloading.[/p][/*][*][p]Clan tags now appear in death notices.[/p][/*][/list]",
+        "commentcount": 322,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1890460210_1790205123_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "587312703064905646",
+        "event_gid": "674006995886408819",
+        "voteupcount": 2895,
+        "votedowncount": 334,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "674006995886407686",
         "clanid": "3381077",
         "posterid": "0",
