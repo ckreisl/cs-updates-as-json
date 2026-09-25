@@ -1,5 +1,28 @@
 [
     {
+        "gid": "674006995886409096",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1790286698,
+        "updatetime": 1790286698,
+        "body": "[p]\\[ RUSH ][/p][list][*][p]Added a better description of the rules to the loading screen.[/p][/*][*][p]Adjusted rules for determining when to kick players due to team damage.[/p][/*][*][p]Various clipping adjustments.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Fixed a case where it was possible to get a slightly faster silent reload by tapping the reload button before holding it.[/p][/*][*][p]Fixed a case where it was possible to use silent reload to fire shotguns faster than normal.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed a case where the AK-47 inspect animation sometimes popped.[/p][/*][/list]",
+        "commentcount": 309,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1447510170_1790287522_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "587312703065038799",
+        "event_gid": "674006995886409095",
+        "voteupcount": 3394,
+        "votedowncount": 701,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "674006995886408820",
         "clanid": "3381077",
         "posterid": "0",
