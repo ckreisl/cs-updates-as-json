@@ -1,5 +1,28 @@
 [
     {
+        "gid": "674006995886409298",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1790373294,
+        "updatetime": 1790373294,
+        "body": "[p]\\[ RUSH ][/p][list][*][p]Various gap fixes and clipping adjustments.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Fixed some cases where loud reloads would persist while trying to stealth reload.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added sv_clantags_enabled option so custom servers can disable clan tags.[/p][/*][*][p]The eggs of background players in main menu lobbies now rest in nests.[/p][/*][/list]",
+        "commentcount": 236,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1878895840_1790374140_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "587312703065179202",
+        "event_gid": "674006995886409297",
+        "voteupcount": 2949,
+        "votedowncount": 463,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "674006995886409096",
         "clanid": "3381077",
         "posterid": "0",
