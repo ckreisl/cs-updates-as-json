@@ -1,5 +1,28 @@
 [
     {
+        "gid": "674006995886409693",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1790635105,
+        "updatetime": 1790635105,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Fixed pixel-gaps in various Rush rooms.[/p][/*][*][p]Clipping adjustments in T/CT Castle rooms.[/p][/*][/list]",
+        "commentcount": 219,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_783923276_1790636504_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "587313051305553860",
+        "event_gid": "674006995886409692",
+        "voteupcount": 1992,
+        "votedowncount": 396,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "674006995886409298",
         "clanid": "3381077",
         "posterid": "0",
