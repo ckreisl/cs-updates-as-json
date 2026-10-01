@@ -1,5 +1,28 @@
 [
     {
+        "gid": "675133527946166403",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1790808379,
+        "updatetime": 1790808379,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Various clipping fixes in Rush maps[/p][/*][/list][p]\\[ CROSSHAIR ][/p][list][*][p]Fixed visualization of weapon inaccuracy + spread[/p][/*][*][p]Added crosshair outline color option[/p][/*][*][p]Added a new style \"Static Quadrant\"[/p][/*][*][p]Enabled grenade crosshairs in freeze time for insta-smokes (just hold any grenade attack button)[/p][/*][*][p]Allowed negative gaps for classic dynamic crosshair style[/p][/*][*][p]Changed the classic dynamic crosshair alpha increments to 0.01[/p][/*][*][p]Scope dot scale and color preferences are now included in the new crosshair share code[/p][/*][*][p]Changed the format of the crosshair share code to accommodate newly included crosshair settings[/p][/*][/list]",
+        "commentcount": 730,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487176015_1790809994_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "587313335212588474",
+        "event_gid": "675133527946166402",
+        "voteupcount": 3998,
+        "votedowncount": 1591,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "674006995886409693",
         "clanid": "3381077",
         "posterid": "0",
