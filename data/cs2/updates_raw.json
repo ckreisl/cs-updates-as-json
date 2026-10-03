@@ -1,5 +1,28 @@
 [
     {
+        "gid": "675133527946167653",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1790979853,
+        "updatetime": 1790979853,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Agents now wear their equipped gloves during the photobooth photography sessions and in buy menu[/p][/*][*][p]Fixed grenade crosshair rendering when crosshair thickness is set to 3 pixels[/p][/*][*][p]Fixed formatting of titles in commend and report dialogs[/p][/*][*][p]Improved lighting in the Warehouse map[/p][/*][*][p]Updated workshop convars whitelist with the new crosshair settings[/p][/*][*][p]Stability improvements[/p][/*][/list]",
+        "commentcount": 197,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1890460210_1790981148_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "587313335212898086",
+        "event_gid": "675133527946167652",
+        "voteupcount": 2334,
+        "votedowncount": 371,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "675133527946166403",
         "clanid": "3381077",
         "posterid": "0",
