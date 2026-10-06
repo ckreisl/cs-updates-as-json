@@ -1,5 +1,28 @@
 [
     {
+        "gid": "675133527946168309",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1791243583,
+        "updatetime": 1791243583,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Pet photobook pages now have localized text art.[/p][/*][*][p]Added play menu buttons to manage downloaded Workshop maps.[/p][/*][*][p]Adjusted VK shader cache extension flags.[/p][/*][/list]",
+        "commentcount": 277,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_783923276_1791245766_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "587313700791456692",
+        "event_gid": "675133527946168308",
+        "voteupcount": 2178,
+        "votedowncount": 657,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "675133527946167653",
         "clanid": "3381077",
         "posterid": "0",
