@@ -1,5 +1,28 @@
 [
     {
+        "gid": "675134162359814147",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1791499009,
+        "updatetime": 1791499009,
+        "body": "[p]\\[ MISC ][/p][list][*][p]Added a ping icon for dropped defuse kits[/p][/*][*][p]Reduced the time for AUG reload by half second[/p][/*][*][p]Fixed the sound event during silent reload for Desert Eagle[/p][/*][*][p]Fixed a case of buzzing soundscape sounds during demo playback[/p][/*][*][p]Clipping fixes for Rush maps[/p][/*][*][p]Localization updates[/p][/*][*][p]Stability updates[/p][/*][/list]",
+        "commentcount": 296,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1787316731_1791499864_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "587313969629570500",
+        "event_gid": "675134162359814146",
+        "voteupcount": 3311,
+        "votedowncount": 680,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "675133527946168309",
         "clanid": "3381077",
         "posterid": "0",
