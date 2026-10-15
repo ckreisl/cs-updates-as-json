@@ -1,5 +1,28 @@
 [
     {
+        "gid": "687519694976975305",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1792018968,
+        "updatetime": 1792018968,
+        "body": "[p]\\[ UI ][/p][p]Demo/Replay viewer improvements:[/p][list][*][p]Added a progress bar for demo/replay downloads[/p][/*][*][p]Camera controls now use click-and-drag scheme[/p][/*][*][p]Free and chase camera are usable during a paused demo[/p][/*][*][p]Fixed some minor issues when seeking to a different position in the demo file[/p][/*][/list][p][/p][p]\\[ MISC ][/p][p]Round backup files now require the game server startup flag \"-allow_round_backup_files\"[/p][p]Updated AUG reload animations for standing and crouch reloads to better match new reload duration[/p][p]Allowed radio commands now have an explicit list[/p][p]Added toolsskybox_occluder tool material for CS2 Workshop Tools[/p][p]Stability improvements for Vulkan renderer[/p]",
+        "commentcount": 238,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487176015_1792019293_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "567048404944986212",
+        "event_gid": "687519694976975304",
+        "voteupcount": 1953,
+        "votedowncount": 373,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "675134162359814147",
         "clanid": "3381077",
         "posterid": "0",
