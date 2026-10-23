@@ -1,5 +1,28 @@
 [
     {
+        "gid": "694275728822244200",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1792709770,
+        "updatetime": 1792709770,
+        "body": "[p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.Precache[/p][list][*][p]Returns a CSPrecache object[/p][/*][*][p]Added CSPrecache.IsServerLoading[/p][/*][*][p]Added CSPrecache.IsServerLoaded[/p][/*][*][p]Added CSPrecache.IsClientLoading[/p][/*][*][p]Added CSPrecache.IsClientLoaded[/p][/*][*][p]Added CSPrecache.IsLoadedForAll[/p][/*][*][p]Added CSPrecache.Release[/p][/*][/list][/*][*][p]Added CSHostage[/p][list][*][p]Added CSHostage.IsBeingPickedUp[/p][/*][*][p]Added CSHostage.IsBeingCarried[/p][/*][*][p]Added CSHostage.IsRescued[/p][/*][*][p]Added CSHostage.GetRescuer[/p][/*][*][p]Added CSHostage.GetPickUpStartTime[/p][/*][*][p]Added CSHostage.GetPickUpFinishTime[/p][/*][*][p]Added CSPlayerPawn.GetHostage[/p][/*][*][p]Added Instance.OnHostagePickUpStart[/p][/*][*][p]Added Instance.OnHostagePickUpAbort[/p][/*][*][p]Added Instance.OnHostagePickUp[/p][/*][*][p]Added Instance.OnHostageDrop[/p][/*][*][p]Added Instance.OnHostageRescue[/p][/*][*][p]Added Instance.OnHostageKill[/p][/*][/list][/*][*][p]Added new top level export Console[/p][list][*][p]Added Console.GetConvarBoolean[/p][/*][*][p]Added Console.GetConvarNumber[/p][/*][*][p]Added Console.GetConvarString[/p][/*][*][p]Added Console.GetConvarVector[/p][/*][*][p]Added Console.GetConvarQAngle[/p][/*][*][p]Added Console.GetConvarColor[/p][/*][*][p]Added Console.SetConvar[/p][list][*][p]Console.SetConvar is not restricted by sv_cheats and executes synchronously[/p][/*][/list][/*][*][p]Renamed Instance.Msg to Console.Log[/p][/*][*][p]Moved Instance.ClientCommand, ServerCommand and RegisterCheatCommand to Console[/p][/*][/list][/*][*][p]Added new top level export GameRules[/p][list][*][p]Added GameRules.StartWarmup[/p][/*][*][p]Added GameRules.EndWarmup[/p][/*][*][p]Added GameRules.GetTeamScore[/p][/*][*][p]Added GameRules.AddTeamScore[/p][/*][*][p]Added GameRules.TerminateRound[/p][/*][*][p]Moved Instance.IsWarmupPeriod, IsFreezePeriod, IsTeamIntroPeriod, GetRoundsPlayed, GetRoundRemainingTime, SetRoundRemainingTime and AddTeamMoney to GameRules[/p][/*][/list][/*][*][p]Moved and renamed methods are still available in their original location, deprecated[/p][/*][*][p]Added top-level custom_hud_layout classes HUD_TEAMMENU_VISIBLE and\u00a0HUD_CHAT_VISIBLE[/p][/*][*][p]radar_element can now appear on the radar in every game mode, not just Rush[/p][/*][*][p]Added support for GameRules.AddTeamMoney with CSTeamMoneyReason.NONE and an amount[/p][/*][*][p]Fixed a crash in GameRules.AddTeamMoney with CSTeamMoneyReason.NONE[/p][/*][*][p]Fixed CSTeamMoneyReason enum values not matching point_script.d.ts[/p][/*][*][p]Fixed CSWeaponAttackType enum values not matching point_script.d.ts[/p][/*][*][p]Fixed CSRadarPoint.IsVisibleToTeam returning a number instead of a boolean[/p][/*][*][p]Fixed CSObservablePoint.IsObservableForTeam returning a number instead of a boolean[/p][/*][*][p]Logged warnings now include the JS call stack[/p][/*][*][p]Logged warnings now include details about bad argument values[/p][/*][*][p]Logged warnings now count arguments from 0 instead of 1[/p][/*][*][p]Improved auto complete of the map_workshop command[/p][/*][/list]",
+        "commentcount": 238,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1447510170_1792710701_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "564797239535643173",
+        "event_gid": "694275728822244199",
+        "voteupcount": 1741,
+        "votedowncount": 349,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "687519694976975305",
         "clanid": "3381077",
         "posterid": "0",
