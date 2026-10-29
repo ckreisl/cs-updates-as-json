@@ -1,5 +1,28 @@
 [
     {
+        "gid": "694276363007296021",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1793224089,
+        "updatetime": 1793224089,
+        "body": "[p]\\[ GAMEPLAY ][/p][list][*][p]Added an option to switch Silent Reload Mode between Hold and Toggle. With toggle enabled, once the silent reload starts you can let go of the reload button. To cancel a silent reload and go back to a fast reload, you can tap the reload button again.[/p][/*][*][p]Fixed various cases where the first sound of a reload was audible irrespective if a user requested a silent reload or not.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Fixed a bug where liquid could render as black on AMD video cards[/p][/*][*][p]Fixed some sound and UI bugs when rewinding during demo playback[/p][/*][/list]",
+        "commentcount": 271,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1751656904_1793225813_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "563671973816851679",
+        "event_gid": "694276363007296020",
+        "voteupcount": 2396,
+        "votedowncount": 454,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "694275728822244200",
         "clanid": "3381077",
         "posterid": "0",
