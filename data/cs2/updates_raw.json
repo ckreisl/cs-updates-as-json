@@ -1,5 +1,28 @@
 [
     {
+        "gid": "694277000588690212",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1793840047,
+        "updatetime": 1793840047,
+        "body": "[p]\\[ GAMEPLAY ][/p][list][*][p]Bomb defusal in Retakes mode will now instantly finish when there is sufficient time remaining in the round and no active utility remains to prevent the defuse.[/p][/*][*][p]Reduced freeze time and round restart delay in Retakes mode.[/p][/*][*][p]Pinging pet chickens during freeze time will request a trick from them.[/p][/*][*][p]Pet chicken names are no longer displayed when customized item text game option is set to hidden.[/p][/*][/list][p]\\[ MAP SCRIPTING ][/p][list][*][p]Instance.Precache now accepts entities to precache[/p][/*][*][p]Added new top level export Entities[/p][/*][*][p]Added Entities.Spawn[/p][/*][*][p]Added Instance.OnBotControl[/p][/*][*][p]Added CSPlayerController.IsControllingBot[/p][/*][*][p]Added CSPlayerController.GetControlledBotPawn[/p][/*][*][p]Added CSPlayerPawn.Reset[/p][/*][*][p]Moved Instance.ConnectOutput to Entities and changed it to accept a config object[/p][/*][*][p]Moved Instance.DisconnectOutput to Entities[/p][/*][*][p]Renamed Instance.EntFireAtName to Entities.FireInput[/p][/*][*][p]Renamed Instance.FindEntitiesByName to Entities.FindByName[/p][/*][*][p]Renamed Instance.FindEntitiesByClass to Entities.FindByClass[/p][/*][*][p]Renamed Instance.EntFireAtTarget to Entity.FireInput[/p][/*][*][p]Moved and renamed methods are still available in their original location, deprecated[/p][/*][*][p]Deprecated Instance.FindEntityByName and FindEntityByClass[/p][/*][*][p]Calling a method on an invalid (removed) Entity now reports that the Entity is invalid[/p][/*][*][p]ConnectOutput now logs a warning when the target has no output with that name[/p][/*][/list]",
+        "commentcount": 193,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_487176015_1793840207_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "563672611395126950",
+        "event_gid": "694277000588690211",
+        "voteupcount": 1727,
+        "votedowncount": 337,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "694276363007296021",
         "clanid": "3381077",
         "posterid": "0",
