@@ -1,5 +1,28 @@
 [
     {
+        "gid": "687522235410284762",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1794438200,
+        "updatetime": 1794438200,
+        "body": "[p]\\[ ANIMATION ][/p][list][*][p]Fixed some cases of popping and glitching when switching weapons and reloading at extreme angles[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Fixed bot pathing issue in Retakes game mode[/p][/*][*][p]Fixed a rendering hang on DX11[/p][/*][*][p]Improved avx / avx512 instruction set detection[/p][/*][*][p]Miscellaneous stability and performance improvements[/p][/*][/list]",
+        "commentcount": 364,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1787316731_1794439595_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "563673245657753462",
+        "event_gid": "687522235410284761",
+        "voteupcount": 3199,
+        "votedowncount": 814,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "694277000588690212",
         "clanid": "3381077",
         "posterid": "0",
