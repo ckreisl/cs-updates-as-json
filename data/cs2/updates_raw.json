@@ -1,5 +1,28 @@
 [
     {
+        "gid": "687522235410286588",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1794958807,
+        "updatetime": 1794958807,
+        "body": "[ SINGAPORE 2026 MAJOR ][list]\n[*] The PGL Singapore 2026 Major Hub is now available. Visit the hub to purchase tournament items, play the Pick'Em Challenge, and more.\n[*] Purchase a Singapore 2026 Viewer Pass to receive an upgradable Singapore 2026 Coin. With an active pass, you can upgrade your coin and earn rewards by playing the Pick'Em Challenge. Additionally, you will show up on the Active Pass Leaderboard where you can compare your Pick'Em Challenge performance to your friends.[/list]\n[ MAPS ][list]\n[*] Added Cobblestone map to official Casual, Competitive, Wingman, Retakes, and Deathmatch matchmaking.\n[*] Removed Boulder, Fachwerk, and Shelter from official matchmaking pool.[/list]\n[ MUSIC ][list]\n[*] Added 8 new music kits from Monstercat.[/list]\n[ ANIMATION ][list]\n[*] Fixed head dipping too low at extreme aim angles.\n[*] Restored T-side lowered aim pose.[/list]\n[ MISC ][list]\n[*] Fixed a case of defuse kits not getting correctly granted in Retakes.\n[*] Fixed T-side bots to attack CTs who try to defuse the bomb.\n[*] Added custom processing for fire effects on ground materials to apply hardening to metal surfaces, to melt snow, and so on.\n[*] Added \"health_c4_preview\" output value in player_state objects for Game State Integration.\n[*] Added MVP Anthem preview button when inspecting Music Kits in the in-game store.[/list]",
+        "commentcount": 285,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1890460210_1794960105_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "563673880625941023",
+        "event_gid": "687522235410286587",
+        "voteupcount": 4349,
+        "votedowncount": 434,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "687522235410284762",
         "clanid": "3381077",
         "posterid": "0",
