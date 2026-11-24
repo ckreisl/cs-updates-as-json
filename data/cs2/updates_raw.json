@@ -1,5 +1,28 @@
 [
     {
+        "gid": "694278269818635489",
+        "clanid": "3381077",
+        "posterid": "0",
+        "headline": "Counter-Strike 2 Update",
+        "posttime": 1795474927,
+        "updatetime": 1795474927,
+        "body": "[p]\\[ MAPS ][/p][p]Cobblestone[/p][list][*][p]Fixed a spot in princess tower where the bomb could be thrown out of reach[/p][/*][*][p]Fixed some bad wall bang locations[/p][/*][*][p]Fixes for smoother player movement throughout the level[/p][/*][*][p]Fixed some bad boosts and walkable ledges[/p][/*][*][p]Fixed a location at B where grenades could fall through the world[/p][/*][*][p]Fixed various gaps in the world[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Fixed third-person silent reload animations to play at correct speed[/p][/*][*][p]Various stability improvements[/p][/*][/list]",
+        "commentcount": 70,
+        "tags": [
+            "patchnotes",
+            "mod_reviewed",
+            "ModAct_1751555285_1795482705_0"
+        ],
+        "language": 0,
+        "hidden": 0,
+        "forum_topic_id": "563674159937643918",
+        "event_gid": "694278269818635488",
+        "voteupcount": 426,
+        "votedowncount": 62,
+        "ban_check_result": 0,
+        "banned": 0
+    },
+    {
         "gid": "694278269818634560",
         "clanid": "3381077",
         "posterid": "0",
